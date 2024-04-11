@@ -408,10 +408,9 @@ _Aspectos psicográficos_:
 
 * Son hábiles dentro del uso de dispositivos inteligentes.
 
-# <a name="_35nkun2"></a>Capítulo II: Requirements Elicitation & Analysis
-## <a name="_1ksv4uv"></a>2.1. Competidores
-### <a name="_44sinio"></a>2.1.1. Análisis competitivo
-###
+# [**Capítulo II: Requirements Elicitation \& Analysis**](#capítulo-ii-requirements-elicitation--analysis)
+# [2.1 Competidores](#competidores)
+### [2.1.1 Análisis competitivo](#análisis-competitivo)
 
 <table><tr><th colspan="6" valign="top"><a name="_lfp2lf9xoms"></a><b>Competitive Analysis Landscape</b></th></tr>
 <tr><td colspan="6" valign="top"><p><b>¿Por qué llevar a cabo este análisis?</b>  </p><p>La realización de un análisis competitivo permite a UniRider entender su posición en el mercado frente a sus competidores. Identificar fortalezas, debilidades, oportunidades y amenazas proporcionará a UniRider insights valiosos para ajustar su estrategia, innovar en su oferta de valor y mejorar su enfoque de mercado. </p></td></tr>
@@ -430,7 +429,7 @@ _Aspectos psicográficos_:
 <tr><td valign="top"><b>Amenazas</b></td><td valign="top">Competencia de plataformas establecidas, cambios en regulaciones de transporte.</td><td valign="top">Nuevos competidores en el nicho de viajes largos.</td><td valign="top">Superación por plataformas más innovadoras o especializadas.</td><td valign="top">Cambios en la preferencia de los usuarios hacia opciones más socializadas.</td></tr>
 </table>
 
-### <a name="_2jxsxqh"></a>2.1.2. Estrategias y tácticas frente a competidores
+### [2.1.2 Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores)
 - Utilizaremos el marketing digital y las redes sociales para aumentar la visibilidad de UniRider y conectar con el mercado objetivo. Por ejemplo, crearemos campañas dirigidas específicamente a estudiantes universitarios, utilizando plataformas populares entre este grupo demográfico como Instagram, Snapchat y TikTok.
 
 - Realizar colaboraciones con influencers y creadores de contenido que resonarán con el público objetivo para promover la app y sus beneficios.
@@ -440,8 +439,8 @@ _Aspectos psicográficos_:
 - Aseguraremos que UniRider sea reconocida por su seguridad y uso de tecnología avanzada.Por ello, implementaremos un sistema de verificación de identidad riguroso para conductores y pasajeros, utilizando el carnet universitario y otras formas de verificación.
 
 - Desarrollaremos funciones que permitan a los usuarios compartir sus rutas en tiempo real con amigos o familiares para aumentar la sensación de seguridad.
-## <a name="_z337ya"></a>2.2. Entrevistas
-### <a name="_3j2qqm3"></a>2.2.1. Diseño de entrevistas
+## [2.2 Entrevistas](#entrevistas)
+### [2.2.1 Diseño de entrevistas](#diseño-de-entrevistas)
 **Preguntas dirigidas a personas que serán los pasajeros:**
 
 1. ¿Crees necesario que la aplicación incorpore un sistema de verificación de identidad con un documento oficial al registrar una cuenta? ¿Por qué?
@@ -467,7 +466,7 @@ _Aspectos psicográficos_:
 1. ¿Has tenido experiencia previa compartiendo viajes con otros estudiantes?
 1. ¿Estarías dispuesto/a a promover activamente UniRider entre otros estudiantes en el campus para aumentar la participación en la plataforma?
 
-### <a name="_1y810tw"></a>2.2.2. Registro de entrevistas
+### [2.2.2 Registro de entrevistas](#registro-de-entrevistas)
 **Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse.**
 
 ![](images/Entrevista1.png)
@@ -565,8 +564,7 @@ El conductor de UniRider respalda firmemente la verificación de identidad como 
 
 Para mejorar la organización del servicio, el conductor está dispuesto a colaborar en la creación de rutas eficientes. Además, su experiencia previa llevando compañeros en su misma ruta demuestra su capacidad para brindar un servicio de calidad. Está motivado a promover activamente UniRider entre otros estudiantes, mostrando un fuerte compromiso con la calidad del servicio y la seguridad de los usuarios.
 
-###
-### <a name="_4rq3ujgavz5v"></a><a name="_4i7ojhp"></a>2.2.3. Análisis de entrevistas
+### [2.2.3 Análisis de entrevistas](#análisis-de-entrevistas)
 
 A continuación se proporciona el análisis resumido para cada segmento objetivo.
 
@@ -594,7 +592,9 @@ Segmento objetivo #2: Estudiantes Universitarios propietarios de vehículo priva
 Análisis detallado con estadística:
 
 - 100% de los entrevistados demandan seguridad y confiabilidad, además de mostrar disposición a compartir sus viajes, lo que indica una percepción positiva del modelo de carpooling propuesto por UniRider y su potencial para generar una comunidad colaborativa de movilidad universitaria.
-## <a name="_2xcytpi"></a>2.3. Needfinding
+
+## [2.3 Needfinding](#needfinding)
+
 A continuación, presentamos las siguientes necesidades principales que hemos obtenidos en base a nuestros usuarios:
 
 Segmento #1: Estudiantes Universitarios que necesiten movilizarse
@@ -613,7 +613,8 @@ Segmento objetivo #2: Estudiantes Universitarios propietarios de vehículo priva
 - Recibir notificaciones claras y oportunas cuando un pasajero cancela un asiento reservado, lo que les permite gestionar sus viajes de manera eficiente.
 - Herramientas que les permitan crear y gestionar rutas de manera efectiva, lo que les ayuda a optimizar el uso de su vehículo y a planificar viajes más eficientes.
 
-### <a name="_1ci93xb"></a>2.3.1. User Personas
+### [2.3.1 User Personas](#user-personas)
+
 A continuación, se presentarán los user persona basados en nuestro segmento objetivo. Estos son arquetipos de nuestros usuarios ideales para nuestro segmento principal.
 
 **Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse![](images/PasajeroUserPersona.png)**
@@ -623,8 +624,7 @@ A continuación, se presentarán los user persona basados en nuestro segmento ob
 
 
 
-###
-### <a name="_s8hjh5qci3pg"></a><a name="_3whwml4"></a>2.3.2. User Task Matrix
+### [2.3.2 User Task Matrix](#user-task-matrix)
 
 Giordano
 
@@ -649,21 +649,11 @@ Brenda
 |Buscar alternativas de transporte|A veces|Media|
 
 
-### <a name="_2bn6wsx"></a>2.3.3. User Journey Mapping
+### [2.3.3 User Journey Mapping](#user-journey-mapping)
 **Giordano![](images/UserJourneyMapping1.jpg)**
 
 **Brenda![](images/UserJourneyMapping2.jpg)**
 
-###
-###
-###
-###
-
-
-
-
-
-###
 
 ### <a name="_xb00ezcbydjj"></a><a name="_arcl8jyg4q6g"></a><a name="_98qj69g8ftd2"></a><a name="_8qkzx0iar9cr"></a><a name="_z8prfpid6kkz"></a><a name="_qsh70q"></a>2.3.4. Empathy Mapping
 **Giordano**
@@ -674,7 +664,7 @@ Brenda
 **Brenda**
 
 ![](images/EmpathyMapping2.png)
-### <a name="_3as4poj"></a>2.3.5. As-is Scenario Mapping
+### [2.3.5 As-is Scenario Mapping](#as-is-scenario-mapping)
 **Segmento Estudiantes Universitarios que necesiten movilizarse**
 
 ![](images/Emphatymap1.jpg)
