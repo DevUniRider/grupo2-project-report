@@ -260,9 +260,113 @@ Los estudiantes universitarios que deseen una alternativa que sea eficiente, có
 
 ### [1.2.2 Lean UX Process](#lean-ux-process)
 #### [1.2.2.1 Lean UX Problem Statements](#lean-ux-problem-statements)
+
+**Problem Statement**
+
+El objetivo primordial de UniRider radica en simplificar el desplazamiento de los estudiantes universitarios de Lima, con la meta de mitigar la incidencia de estrés, incidentes de robo, o simplemente la fatiga asociada a los trayectos en autobuses concurridos, todo ello con el fin de atenuar los gastos de transporte. Aunque existen aplicaciones de viajes compartidos disponibles, estas carecen de una orientación específica hacia las necesidades y preferencias de los estudiantes universitarios, lo que dificulta la búsqueda de compañeros de viaje con horarios y rutas compatibles, y por ende, limita la viabilidad del transporte compartido como alternativa. Por consiguiente, resulta esencial que UniRider aborde este dilema mediante el desarrollo de herramientas y funcionalidades que optimicen la eficiencia y la accesibilidad del transporte compartido para este segmento estudiantil. La aplicación debe enfocarse en resolver las problemáticas identificadas inicialmente para establecer la confianza de los estudiantes y forjarse una reputación tanto en el mercado como en la comunidad universitaria. Dado que se ha identificado la problemática de la ocupación insuficiente de asientos durante los viajes, es crucial consolidar una posición sólida en el mercado de aplicaciones de transporte.
+
 #### [1.2.2.2 Lean UX Assumptions](#lean-ux-assumptions)
+
+**Businnes Assumptions**
+
+1. **Sostenemos que nuestros usuarios requieren** un método de transporte más eficiente para llegar a sus instituciones educativas universitarias, garantizando tranquilidad y comodidad durante el trayecto.
+
+2. **Estas necesidades pueden ser abordadas** mediante el desarrollo de una plataforma dedicada exclusivamente al transporte universitario, priorizando la comodidad, la eficiencia y la asequibilidad para el uso diario.
+
+3. **Nuestros clientes iniciales serán** exclusivamente estudiantes universitarios que necesiten el servicio, así como aquellos que posean automóviles y deseen obtener un ingreso adicional mientras se dirigen a la universidad.
+
+4. **El valor más importante que nuestros clientes buscan en nuestros servicios es** la combinación de un servicio accesible, la garantía de comodidad durante el viaje y la facilidad en el proceso de solicitud.
+
+5. **Los clientes también obtendrán** beneficios adicionales, como la acumulación de puntos para canjear premios y viajes.
+
+6. **Planeamos atraer a la mayoría de los clientes a través de** publicidad en línea, campañas promocionales en comunidades universitarias y presentaciones en charlas programadas dentro de las universidades.
+
+7. **Generaremos ingresos a través de** un modelo de suscripción con diferentes niveles para los dos tipos de usuarios: conductores y pasajeros.
+
+8. **Nuestra competencia en el mercado incluirá** inicialmente diversas aplicaciones como Uber e Indrive, así como los servicios de taxis particulares.
+
+9. **Creemos que tendremos una ventaja sobre nuestra competencia debido a** que nuestro público objetivo estará exclusivamente compuesto por estudiantes universitarios. Nuestra aplicación garantizará que durante el viaje solo participen personas que sean estudiantes, todos con el mismo destino. Como valor añadido, facilitaremos el networking entre estudiantes durante el trayecto.
+
+10. **El mayor riesgo del servicio es** que nuestra aplicación no logre generar un impacto significativo o no capture la atención suficiente de los usuarios para que prueben nuestro sistema.
+
+11. **Abordaremos este riesgo mediante** estrategias de marketing adecuadas y promocionando nuestro servicio en charlas universitarias. Nos centraremos en generar confianza y seguridad durante los viajes, aspectos fundamentales para atraer a los usuarios. Además, planeamos regalar créditos dentro de la aplicación a las cuentas creadas mediante un código QR de invitación distribuido durante estas charlas universitarias.
+
+**User Assumptions**
+
+_¿Quién es el usuario?_
+
+Los usuarios son principalmente estudiantes universitarios que necesitan un método eficaz y cómodo para desplazarse hacia sus instituciones educativas en el departamento de Lima. Si la plataforma tiene éxito en este primer segmento, consideraremos su expansión a otros departamentos del país.
+
+_¿Qué problemas enfrenta nuestro producto? ¿Cómo los resolveremos?_
+
+Un desafío que enfrentamos actualmente es el modelo de ingresos basado en suscripciones y niveles de servicio, ya que debemos garantizar que sea lo suficientemente atractivo como para generar ingresos sostenibles y cubrir los costos operativos del servicio.
+
+_¿Qué características son importantes?_
+
+Las características clave de la plataforma incluyen su exclusividad para estudiantes universitarios, una interfaz fácil de usar, medidas sólidas de seguridad, comodidad en los viajes y ventajas adicionales como la acumulación de puntos y la oportunidad de establecer contactos.
+
+_¿Dónde encaja nuestro producto en su trabajo o vida?_
+
+El producto mejora la calidad del viaje de ida y vuelta hacia las universidades, proporcionando comodidad y reducción de gastos de viaje.
+
+_¿Cuándo y cómo se usa nuestro producto?_
+
+Nuestro producto está diseñado principalmente para ser utilizado durante el período académico, cuando los estudiantes universitarios necesitan desplazarse hacia y desde sus instituciones educativas.
+
+_¿Cómo debe ser y comportarse nuestro producto?_
+
+El producto debe tener un diseño intuitivo y amigable, con características adaptables a las preferencias de cada usuario. Además, debe proporcionar información concisa sobre conductores, vehículos y costos, manteniendo la seguridad como una prioridad con medidas sólidas.
+
+**Feature Assumptions:**
+
+_**Creemos que**_ la aplicación debería presentar una interfaz inicial con las opciones principales para agilizar el proceso de uso.
+
+_**Creemos que**_ el sistema debería incorporar medidas de seguridad ante situaciones de emergencia, como la función de reporte automático a las autoridades.
+
+_**Creemos que**_ el sistema debería integrarse con sistemas de pago móvil para facilitar el proceso de compartir los costos del viaje entre usuarios, permitiendo transacciones seguras y sin problemas directamente desde la aplicación.
+
+_**Creemos que**_ la aplicación debería ofrecer opciones de viaje compartido programado, donde los usuarios puedan planificar y reservar viajes con anticipación.
+
+
 #### [1.2.2.3 Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements)
+
+- **Hypothesis Statement 01:**
+  <br><br>
+  **_Creemos que_** los estudiantes consideran como primera opción nuestro servicio para el transporte hacia sus respectivas instituciones.
+  <br>
+  **_Sabremos_** que hemos tenido exito.
+  <br>
+  **_Cuando_**  realicemos encuestas a estudiantes y la mayoría indique que prefieren nuestro servicio debido a su confiabilidad, comodidad y costo en comparación con otras opciones de transporte.
+  <br><br>
+- **Hypothesis Statement 02:**
+  <br><br>
+  **_Creemos que_** al ofrecer descuentos exclusivos a través de nuestra aplicación móvil, aumentaremos la lealtad de los clientes.
+  <br>
+  **_Sabremos_** que hemos tenido éxito.
+  <br>
+  **_Cuando_** observemos un aumento en la participación de los clientes que utilizan los descuentos ofrecidos a través de la aplicación móvil, así como un aumento general de uso y el uso continuo del usuario.
+  <br><br>
+- **Hypothesis Statement 03:**
+  <br><br>
+  **_Creemos que_** debemos priorizar la regulridad del registro, verificando de manera eficaz que la totalidad de nuestros usuarios son estudiantes de alguna institución.
+  <br>
+  **_Sabremos_** que hemos tenido exito.
+  <br>
+  **_Cuando_**  no registremos ningún reporte de algún altercado o durante la regularización de usuarios durante el recorrido.
+  <br><br>
+- **Hypothesis Statement 04:**
+  <br><br>
+  **_Creemos que_**  al implementar un sistema de emparejamiento  basado en la ubicación y los horarios de los estudiantes, aumentaremos la conveniencia y la eficiencia del carpooling universitario.
+  <br>
+  **_Sabremos_**  que hemos tenido éxito.
+  <br>
+  **_Cuando_**  se demuestre una disminución en el tiempo promedio de espera para encontrar un compañero de viaje.
+
+
 #### [1.2.2.4 Lean UX Canvas](#lean-ux-canvas)
+
+<!-- Falta mejorar -->
+
 ## [1.3. Segmentos objetivo](#segmentos-objetivo)
 
 # <a name="_35nkun2"></a>Capítulo II: Requirements Elicitation & Analysis
