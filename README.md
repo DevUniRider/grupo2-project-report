@@ -184,7 +184,24 @@ Explicaciones de las ramas:
 
 # [Capítulo I: Introducción.](#capítulo-i-introducción)
 ## [1.1 Startup Profile](#startup-profile)
+En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
+
 ### [1.1.1 Descripción de la Startup](#descripción-de-la-startup)
+
+La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar de manera eficiente a los estudiantes universitarios. El transporte público convencional puede ser incómodo, y tener un coche propio no es una opción para muchos. Es por ello, que estamos desarrollando un sistema que permita a estos estudiantes universitarios compartir viajes en vehículos particulares, utilizando el concepto de compartir vehículos con otros (también conocido como carpooling). Este sistema web no solo ayudará a miles de estudiantes a ahorrar dinero en transporte, sino que también contribuye a reducir el tráfico. Gracias a nuestras diversas opciones, los estudiantes podran conectarse con sus compañeros que van en la misma dirección, compartir gastos de combustible y tener una experiencia de viaje más cómoda y social.
+
+**Misión**: Revolucionar la forma en que los estudiantes universitarios se movilizan en entornos urbanos, proporcionando una solución de carpooling conveniente y económica.
+
+**Visión**: Ser la principal plataforma de carpooling para estudiantes universitarios, facilitando la movilidad urbana de manera sostenible y colaborativa.
+
+**Logo de la Startup**:
+
+![Star-Up UniRider](images/logoStarUpUniRider.png)
+
+**Logo del servicio**:
+
+![Logo de Markdown](images/logoUniRider.png)
+
 ### [1.1.2 Perfiles de los integrantes del equipo](#perfiles-de-los-integrantes-del-equipo)
 ## [1.2 Solution Profile](#solution-profile)
 ### [1.2.1 Antecedentes y Problemática](#antecedentes-y-problemática)
