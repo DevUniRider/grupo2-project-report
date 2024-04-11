@@ -667,7 +667,7 @@ Brenda
 ### [2.3.5 As-is Scenario Mapping](#as-is-scenario-mapping)
 **Segmento Estudiantes Universitarios que necesiten movilizarse**
 
-![](images/Emphatymap1.jpg)
+![](images/AsIs.jpeg)
 
 **Segmento Estudiantes Universitarios propietarios de vehículo privado**
 
