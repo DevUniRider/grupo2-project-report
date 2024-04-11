@@ -369,6 +369,45 @@ _**Creemos que**_ la aplicación debería ofrecer opciones de viaje compartido p
 
 ## [1.3. Segmentos objetivo](#segmentos-objetivo)
 
+Por medio de nuestro enfoque de obtener una solución efectiva a las problemáticas de nuestros futuros usuarios, identificamos los siguientes segmentos para UniRider:
+
+**Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse.**
+
+_Aspectos demográficos_:
+
+* Sexo: masculino y femenino
+* Edades: adultos entre 18 - 30 años
+* Nivel socioeconómico: clases A, C, C (alta, media-alta y media)
+
+_Aspectos geográficos_:
+
+* Nacionalidad: **Peruana**
+* Zona geográfica en la que vive: **Urbana**
+* Departamento: **Lima Metropolitana**
+
+_Aspectos psicográficos_:
+
+* Abiertos a herramientas que les ayuden a simplificar y facilitar su viaje.
+* Son hábiles dentro del uso de dispositivos inteligentes.
+
+**Segmento objetivo #2: Estudiantes Universitarios propetarios de vehiculo privado.**
+
+_Aspectos demográficos_:
+
+* Sexo: masculino y femenino
+* Edades: adultos entre 18 - 30 años
+* Nivel socioeconómico: clases A, C, C (alta, media-alta y media)
+
+_Aspectos geográficos_:
+
+* Nacionalidad: **Peruana**
+* Zona geográfica en la que vive: **Urbana**
+* Departamento: **Lima Metropolitana**
+
+_Aspectos psicográficos_:
+
+* Son hábiles dentro del uso de dispositivos inteligentes.
+
 # <a name="_35nkun2"></a>Capítulo II: Requirements Elicitation & Analysis
 ## <a name="_1ksv4uv"></a>2.1. Competidores
 ### <a name="_44sinio"></a>2.1.1. Análisis competitivo
