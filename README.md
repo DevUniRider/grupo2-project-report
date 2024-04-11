@@ -293,19 +293,6 @@ El entrevistado menciona la necesidad de verificar la información de los conduc
 
 El entrevistado menciona la importancia de la verificación de identidad del conductor y usuarios por tema de seguridad, ya que ha visto en las noticias que este tipo de apps no son muy seguras. Por otro lado, le gusta la idea de que tengas que escoger la ruta que vas a tomar antes de iniciar el viaje, ya que ha tenido problemas con otras aplicación que le cambiaban la ruta durante el viaje y se termina estresando. Además, menciona que estaba buscando una forma de generar algunos ingresos sin descuidar sus estudios. Por este motivo, le encanta lo que propone la app web y  le gusta que esta sea solo para los estudiantes universitarios. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 **Segmento objetivo #2: Estudiantes Universitarios propietarios de vehículo privado.**
 
 ![](images/Entrevista2.png)
@@ -413,45 +400,13 @@ Segmento objetivo #2: Estudiantes Universitarios propietarios de vehículo priva
 - Recibir notificaciones claras y oportunas cuando un pasajero cancela un asiento reservado, lo que les permite gestionar sus viajes de manera eficiente.
 - Herramientas que les permitan crear y gestionar rutas de manera efectiva, lo que les ayuda a optimizar el uso de su vehículo y a planificar viajes más eficientes.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### <a name="_1ci93xb"></a>2.3.1. User Personas
 A continuación, se presentarán los user persona basados en nuestro segmento objetivo. Estos son arquetipos de nuestros usuarios ideales para nuestro segmento principal.
 
-**Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse![](images/UserPersona2.png)**
+**Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse![](images/PasajeroUserPersona.png)**
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Segmento objetivo #2: Estudiantes Universitarios propietarios de vehículo privado![](images/UserPersona1.png)**
+**Segmento objetivo #2: Estudiantes Universitarios propietarios de vehículo privado![](images/ConductorUserPersona.png)**
 
 
 
@@ -483,25 +438,6 @@ Brenda
 
 ### <a name="_2bn6wsx"></a>2.3.3. User Journey Mapping
 **Giordano![](images/UserJourneyMapping1.jpg)**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 **Brenda![](images/UserJourneyMapping2.jpg)**
 
