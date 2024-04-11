@@ -3,7 +3,7 @@
 <div align="center">
     <h1> Universidad Peruana de Ciencias Aplicadas </h1>
 
-<!-- ![LogoUpc](/upcLogo.png) -->
+ ![LogoUpc](images/upcLogo.png) 
 
   <p align="center">
     Ingeniería de Software - 202401
