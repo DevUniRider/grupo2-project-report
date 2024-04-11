@@ -205,6 +205,59 @@ La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar d
 ### [1.1.2 Perfiles de los integrantes del equipo](#perfiles-de-los-integrantes-del-equipo)
 ## [1.2 Solution Profile](#solution-profile)
 ### [1.2.1 Antecedentes y Problemática](#antecedentes-y-problemática)
+
+**What (Qué)**
+
+_¿Cuál es el problema?_
+
+El problema radica en la ausencia de una herramienta enfocada en el transporte universitario. Es conocido que la mayoria de  estudiantes residen en zonas alejadas a sus respectivos campus. Para llegar, suelen depender de autobuses con tiempos de espera y paradas prolongadas, lo que resulta en pérdida de tiempo durante el trayecto. Esto, con la intención de reducir los gastos de transporte a largo plazo, pero a expensas de enfrentar inseguridad, incomodidad y pérdida de tiempo debido al transporte público.
+
+**Where (Dónde)**
+
+_¿A dónde se dirige?_
+
+El servicio está diseñado para ser una herramienta de alto impacto para los estudiantes que buscan un equilibrio económico y confortable en sus desplazamientos hacia la universidad.
+
+
+**Why (Por Qué)**
+
+_¿Cuál es la causa del problema?_
+
+La causa principal del problema es la falta de opciones confortables, eficientes y económicas de transporte universitario para los estudiantes.
+
+**When (Cuando)**
+
+_¿Cuándo sucede el problema?_
+
+El principal desafío surge al reconocer la necesidad de ofrecer a los estudiantes universitarios un transporte rápido, cómodo y seguro, que además sea sostenible económicamente para su bolsillo. La búsqueda de una solución implica encontrar un equilibrio entre la eficiencia en el desplazamiento y la sostenibilidad financiera de los estudiantes, promoviendo así un sistema de transporte que no solo sea accesible en términos de costo, sino que también garantice la comodidad necesaria y que represente una solución contundente para abordar de manera efectiva la congestión vehicular que caracteriza a las calles de Lima.
+
+**Who (Quién)**
+
+_¿Quiénes están involucrados? ¿Quién lo utilizará?_
+
+Los usuarios del sistema serán principalmente estudiantes universitarios. Por un lado, aquellos que dispongan de un vehículo y busquen generar ganacias  durante su recorrido  hacia la universidad. Por otro lado, se encuentran los estudiantes que utilizarán este servicio y su rol sera el de pasajero.
+
+**How (Cómo)**
+
+_¿Cómo se utilizará el producto?_
+
+El producto sera empleado mediante una  plataforma web, donde los estudiantes podrán programar sus viajes, conocer los horarios y rutas disponibles, realizar pagos en línea y recibir actualizaciones en tiempo real sobre el estado del servicio.
+
+_¿Cómo lograremos desarrollar la correcta gestión del proceso de carpooling entre estudiantes?_
+
+Después de que el estudiante inicia sesión en el sistema y elige su universidad de destino, el sistema presenta los conductores disponibles que viajan por la misma ruta. Si el estudiante está conforme con la hora estimada de llegada y la calificación del conductor, puede reservar un viaje y proceder con el pago. Una vez que el conductor complete todos los asientos, debe indicar que no hay más asientos disponibles. Después de llegar a destino, los usuarios tienen la opción de calificar al conductor.
+
+**How Much (Cuánto)**
+
+_¿Cuál es la magnitud del problema?_
+
+En Lima, se registran numerosos problemas socioculturales, como la delincuencia y el tráfico, que pueden ser especialmente perjudiciales para los estudiantes que suelen llevar consigo sus teléfonos celulares y computadoras portátiles (INEI, 2021). Estudios previos han demostrado que el crimen en Lima afecta negativamente la calidad de vida de los residentes, exacerbando los niveles de estrés y ansiedad (Traverso, 2020). Además, la situación del tráfico en la ciudad ha sido objeto de preocupación constante, ya que los estudiantes corren el riesgo de llegar tarde a clases o exámenes debido a las frecuentes paradas de los autobuses en cada tramo (Municipalidad Metropolitana de Lima, 2023).
+
+_¿Quienes seran los beneficiados por el servicio?_
+
+Los estudiantes universitarios que deseen una alternativa que sea eficiente, cómoda y económica, así como aquellos que busquen generar ingresos o reducir sus gastos en combustible durante su viaje hacia la universidad.
+
+
 ### [1.2.2 Lean UX Process](#lean-ux-process)
 #### [1.2.2.1 Lean UX Problem Statements](#lean-ux-problem-statements)
 #### [1.2.2.2 Lean UX Assumptions](#lean-ux-assumptions)
