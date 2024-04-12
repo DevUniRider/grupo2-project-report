@@ -782,6 +782,8 @@ Las etiquetas meta son herramientas fundamentales para indicar información codi
 Es importante que los usuarios administradores tengan la posibilidad de distinguir y filtrar la información de los registros almacenados en la aplicación web. Uno de los objetivos del sistema es representar de forma adecuada, fácil y rápida los viajes proporcionados por los conductores. Así mismo, nuestros usuarios(pasajeros/universitarios) podrán reservar asientos en las rutas que estén establecidas por nuestros conductores.
 
 ### [4.2.5. Navigation Systems.](#navigation-systems)
+Los principales sistemas de navegación en la Landing Page son los menús ubicados en la parte superior e inferior. El etiquetado de estos enlaces dirige a los usuarios a las secciones específicas que desean explorar en la página. Si el usuario no utiliza estos enlaces, experimentará un desplazamiento descendente en la página. En la aplicación, nuestros usuarios por parte de los conductores podrán generar su ruta a su centro de estudios estableciendo así los asientos que tiene disponible, por parte de los pasajeros les saldrá una notificación si se encuentra dentro del rango de esta ruta para poder reservar un asiento.
+
 ## [4.3. Landing Page UI Design](#landing-page-ui-design)
 ### [4.3.1. Landing Page Wireframe.](#landing-page-wireframe)
 ### [4.3.2. Landing Page Mock-up.](#landing-page-mock-up)
