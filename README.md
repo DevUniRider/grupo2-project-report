@@ -786,6 +786,79 @@ Habra un chat para poder mantener una conversacion con el conductor.
 ![LogoUpc](images/US09.png)
 
 ### [4.4.3. Web Applications Mock-ups.](#web-applications-mock-ups)
+
+Creacion de cuenta:
+
+En la seccion de Creacion de cuenta los usuarios tendran que llenar el formulario con sus datos correspondientes para poder crear una cuenta en la aplicacion.
+
+![LogoUpc](images/Wcreacioncuenta.png)
+
+Inicio de sesion:
+
+En la seccion de Inicio de sesion los usuarios tendran que llenar el formulario con sus respectivas credenciales para poder ingresar a la aplicacion.
+
+![LogoUpc](images/Winicarsesion.png)
+
+Pagina de Inicio:
+
+En la seccion de la pagina de inicio se podra visualizar informacion acerca de la empresa, las diferentes funcionalidades de la aplicacion y los destinos mas visitados.
+
+![LogoUpc](images/Winicio.png)
+
+Servicios:
+
+En la seccion de servicio se visualizaran los diferentes servicios que ofrece la UniRider.
+
+![LogoUpc](images/Wservicios.png)
+
+Planes de suscripcion:
+
+En la seccion de planes de suscripcion se visualizaran los diferentes planes que hay en la aplicacion.
+
+![LogoUpc](images/Wplanes.png)
+
+Seccion de pago:
+
+Al momento de suscribirse a un plan , se abrira la seccion de pago.
+
+![LogoUpc](images/Wpago.png)
+
+Mapa:
+
+Habra una seccion donde se visualizara un mapa en donde se vera la posicion de los conductores.
+
+![LogoUpc](images/Wimagen.png)
+
+Seccion de busqueda de lugar:
+
+En la seccion de busqueda del lugar se podran encontrar los diferentes destinos a los que los conductores van.
+
+![LogoUpc](images/Wbusquedalugar.png)
+
+Descripcion del lugar :
+
+Luego de hacer click en uno de los lugares disponibles , se podra visualizar la informacion de cada uno.
+
+![LogoUpc](images/Wdescripcionlugar.png)
+
+Reserva de viajes :
+
+En la seccion de reserva de viajes se vera un formulario que sera llenado para poder realizar la reserva.
+
+![LogoUpc](images/Wreserva.png)
+
+Historial de reservas :
+
+Habra un historial donde se podran ver todas las reservas hechas.
+
+![LogoUpc](images/Whistorialreserva.png)
+
+Chat :
+
+Habra un chat para poder mantener una conversacion con el conductor.
+
+![LogoUpc](images/Wchat.png)
+
 ### [4.4.4. Web Applications User Flow Diagrams.](#web-applications-user-flow-diagrams)
 ## [4.5. Web Applications Prototyping.](#web-applications-prototyping)
 ## [4.6. Domain-Driven Software Architecture.](#domain-driven-software-architecture)
