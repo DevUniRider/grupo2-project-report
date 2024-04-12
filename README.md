@@ -212,8 +212,9 @@ La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar d
     <td><img src="images/" alt="" width="" height=""></td>
   </tr>
   <tr>
-    <td></td>
-    <td><img src="images/" alt="" width="" height=""></td>
+    <td>Mi nombre es Nicolas Alejandro Vera Nuñez. Tengo 19 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar en grupo, además soy una persona muy detallista. En cuanto a cualidades para la realización del trabajo considero que soy bueno haciendo los user personas, distintos diagramas y programando. En mi ratos libres me gusta jugar videojuegos o jugar futbol.
+    </td>
+    <td><img src="images/Nicolas.png" alt="" width="" height=""></td>
   </tr>
   <tr>
     <td>
