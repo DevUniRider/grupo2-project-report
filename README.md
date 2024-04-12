@@ -699,49 +699,73 @@ Creacion de cuenta:
 
 En la seccion de Creacion de cuenta los usuarios tendran que llenar el formulario con sus datos correspondientes para poder crear una cuenta en la aplicacion.
 
+![LogoUpc](images/creacioncuenta.png)
+
 Inicio de sesion:
 
 En la seccion de Inicio de sesion los usuarios tendran que llenar el formulario con sus respectivas credenciales para poder ingresar a la aplicacion.
+
+![LogoUpc](images/iniciarsesion.png)
 
 Pagina de Inicio:
 
 En la seccion de la pagina de inicio se podra visualizar informacion acerca de la empresa, las diferentes funcionalidades de la aplicacion y los destinos mas visitados.
 
-Pagina de Inicio:
+![LogoUpc](images/inicio.png)
+
+Servicios:
 
 En la seccion de servicio se visualizaran los diferentes servicios que ofrece la UniRider.
+
+![LogoUpc](images/servicios.png)
 
 Planes de suscripcion:
 
 En la seccion de planes de suscripcion se visualizaran los diferentes planes que hay en la aplicacion.
 
+![LogoUpc](images/planes.png)
+
 Seccion de pago:
 
 Al momento de suscribirse a un plan , se abrira la seccion de pago.
+
+![LogoUpc](images/pago.png)
 
 Mapa:
 
 Habra una seccion donde se visualizara un mapa en donde se vera la posicion de los conductores.
 
+![LogoUpc](images/mapa.png)
+
 Seccion de busqueda de lugar:
 
 En la seccion de busqueda del lugar se podran encontrar los diferentes destinos a los que los conductores van.
+
+![LogoUpc](images/busquedalugar.png)
 
 Descripcion del lugar :
 
 Luego de hacer click en uno de los lugares disponibles , se podra visualizar la informacion de cada uno.
 
+![LogoUpc](images/descripcionlugar.png)
+
 Reserva de viajes :
 
 En la seccion de reserva de viajes se vera un formulario que sera llenado para poder realizar la reserva.
+
+![LogoUpc](images/reserva.png)
 
 Historial de reservas :
 
 Habra un historial donde se podran ver todas las reservas hechas.
 
+![LogoUpc](images/historialreserva.png)
+
 Chat :
 
 Habra un chat para poder mantener una conversacion con el conductor.
+
+![LogoUpc](images/chat.png)
 
 
 
