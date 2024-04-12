@@ -671,7 +671,6 @@ Brenda
 
 ![Emphatymap](images/Emphatymap2.jpg)
 ## [2.4 Ubiquitous Language](#ubiquitous-language)
-## <a name="_1pxezwc"></a>2.4. Ubiquitous Language
 - **Carpooling:** El acto de compartir un vehículo con uno o más pasajeros para realizar un viaje común. Reduce costos y emisiones.
 - **Usuario:** Cualquier estudiante universitario que utiliza la plataforma UniRider para buscar u ofrecer un viaje.
 - **Conductor:** Usuario que ofrece en su vehículo privado espacio disponible para otros estudiantes en un viaje planificado.
