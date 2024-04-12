@@ -1016,6 +1016,17 @@ Mobile:
 ![UserFlow](images/UserFlow9.png) 
 
 ## [4.5. Web Applications Prototyping.](#web-applications-prototyping)
+
+Para el desarrollo del prototipado y diseño en general se utilizo figma, ademas para el prototipado se cuido que la apliacion cumple una serie de criterios para que la experiencia del usuario pueda ser la mas optima.
+
+Prototipado Web:
+
+https://www.figma.com/proto/8R6sEQQEH6WkhsllkydZEt/Desarrollo-Web-UX%2FUI?type=design&node-id=1-525&t=olITSbVs4fTiTrJF-0&scaling=min-zoom&page-id=0%3A1
+
+Prototipado Movil:
+
+https://www.figma.com/proto/8R6sEQQEH6WkhsllkydZEt/Desarrollo-Web-UX%2FUI?type=design&node-id=1-3&t=olITSbVs4fTiTrJF-0&scaling=min-zoom&page-id=1%3A2
+
 ## [4.6. Domain-Driven Software Architecture.](#domain-driven-software-architecture)
 ### [4.6.1. Software Architecture Context Diagram.](#software-architecture-context-diagram)
 ![ContextDiagram](images/SoftwareDiagram.jpeg)
