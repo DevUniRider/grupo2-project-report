@@ -899,7 +899,27 @@ En esta sección, se establece y documenta la guía de estilo y las convenciones
 - Separar escenarios con dos líneas en blanco.
 - Utilizar palabras clave significativas y descriptivas.
 - Usar saltos de línea para mejorar la legibilidad y agrupar información.
+
 ### [5.1.4. Software Deployment Configuration.](#software-deployment-configuration)
+
+En este trabajo utilizaremos Git y Github
+
+**Git**: Git es un sistema de control de versiones distribuido muy utilizado en el desarrollo de software, concebido por Linus Torvalds en 2005. Ha evolucionado hasta convertirse en una herramienta esencial para la colaboración y el seguimiento de cambios en proyectos, tanto de código abierto como privados. Una de sus ventajas principales radica en su capacidad para registrar los cambios en los archivos de un proyecto a lo largo del tiempo. Los desarrolladores pueden crear ramas, realizar modificaciones en estas y fusionarlas de manera eficiente, permitiendo así el trabajo simultáneo en diferentes aspectos del proyecto sin interferencias.
+
+El modelo distribuido de Git garantiza que cada desarrollador tenga una copia completa del repositorio, incluyendo su historial de cambios, lo que otorga flexibilidad y seguridad. Los cambios pueden compartirse y sincronizarse a través de repositorios remotos como GitHub, facilitando la colaboración en equipo. Además, Git proporciona una serie de características y comandos que simplifican la gestión de versiones, como la creación de ramas para nuevas funcionalidades o correcciones de errores sin afectar la rama principal, así como la capacidad de revertir cambios y rastrear versiones anteriores, útil para corregir errores o realizar cambios retrospectivos.
+
+Su utilidad reside en el control detallado de las herramientas del software, permitiendo almacenar diferentes versiones a lo largo de las distintas etapas del proyecto. Esto posibilita a los desarrolladores hacer un seguimiento de lo realizado y resolver problemas o realizar cambios según sea necesario durante el desarrollo del proyecto.
+
+
+**Github**: GitHub es una plataforma de alojamiento y colaboración de código fuente construida sobre Git, que fue lanzada en 2008 y ha alcanzado gran popularidad entre desarrolladores de todo el mundo. En este entorno, los desarrolladores pueden crear repositorios para almacenar y administrar su código fuente, los cuales pueden ser públicos o privados, dependiendo de la naturaleza del proyecto.
+
+Destacándose por su capacidad para fomentar la colaboración en equipo, GitHub permite que múltiples desarrolladores trabajen simultáneamente en el mismo repositorio, realizando cambios en diferentes ramas y fusionándolos de manera sencilla. Esto simplifica la gestión conjunta y la integración de contribuciones diversas. Además de su función principal como plataforma de gestión de código fuente, GitHub ofrece una serie de herramientas adicionales. Entre estas se incluyen los "issues", que permiten realizar un seguimiento de tareas, errores o mejoras necesarias en el proyecto, y los "pull requests", que facilitan la revisión y fusión de cambios propuestos por colaboradores externos antes de su incorporación al repositorio principal.
+
+Otro aspecto destacado de GitHub son las "actions", que posibilitan la automatización de tareas y flujos de trabajo en el proyecto, tales como la ejecución de pruebas, la generación de documentación o la implementación continua. GitHub también se destaca por su activa comunidad y su compromiso con el código abierto, albergando numerosos proyectos de esta índole, lo que promueve la colaboración y la transparencia en el desarrollo de software.
+
+Esta plataforma, que complementa la funcionalidad de Git, permite mantener repositorios de código en almacenamiento basado en la nube, facilitando el trabajo colaborativo al permitir que múltiples colaboradores trabajen en un mismo proyecto, visualizando las ediciones individuales de cada integrante y mejorando así la eficiencia del trabajo en equipo.
+
+
 ## [5.2. Landing Page, Services \& Applications Implementation.](#landing-page-services--applications-implementation)
 ### [5.2.1. Sprint 1.](#sprint-1)
 #### [5.2.1.1. Sprint Planning 1.](#sprint-planning-1)
