@@ -776,8 +776,16 @@ Habra un chat para poder mantener una conversacion con el conductor.
 ## [4.5. Web Applications Prototyping.](#web-applications-prototyping)
 ## [4.6. Domain-Driven Software Architecture.](#domain-driven-software-architecture)
 ### [4.6.1. Software Architecture Context Diagram.](#software-architecture-context-diagram)
+![ContextDiagram](images/SoftwareDiagram.jpeg)
 ### [4.6.2. Software Architecture Container Diagrams.](#software-architecture-container-diagrams)
+![ContextDiagram](images/SoftwareSystem.jpeg)
 ### [4.6.3. Software Architecture Components Diagrams.](#software-architecture-components-diagrams)
+![ContextDiagram](images/login.jpeg)
+![ContextDiagram](images/register.jpeg)
+![ContextDiagram](images/payment.jpeg)
+![ContextDiagram](images/finder.jpeg)
+![ContextDiagram](images/finderDriver.jpeg)
+
 ## [4.7. Software Object-Oriented Design.](#software-object-oriented-design)
 ### [4.7.1. Class Diagrams.](#class-diagrams)
 
