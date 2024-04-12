@@ -681,6 +681,40 @@ Brenda
 # [Capítulo IV: Product Design.](#capítulo-iv-product-design)
 ## [4.1. Style Guidelines.](#style-guidelines)
 ### [4.1.1. General Style Guidelines.](#general-style-guidelines)
+Un "style guideline" es un conjunto de reglas y directrices que definen cómo se debe redactar, diseñar o presentar documentos, contenido web, software u otros tipos de trabajos creativos. A continuación, se detallan los parámetros utilizados en la estructura del proyecto:
+
+**Branding:**
+
+_Brand Overview:_
+
+La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar de manera eficiente a los estudiantes universitarios. El transporte público convencional puede ser incómodo, y tener un coche propio no es una opción para muchos. Es por ello, que estamos desarrollando un sistema que permita a estos estudiantes universitarios compartir viajes en vehículos particulares, utilizando el concepto de compartir vehículos con otros (también conocido como carpooling). Este sistema web no solo ayudará a miles de estudiantes a ahorrar dinero en transporte, sino que también contribuye a reducir el tráfico. Gracias a nuestras diversas opciones, los estudiantes podran conectarse con sus compañeros que van en la misma dirección, compartir gastos de combustible y tener una experiencia de viaje más cómoda y social.
+
+* **Misión:** Revolucionar la forma en que los estudiantes universitarios se movilizan en entornos urbanos, proporcionando una solución de carpooling conveniente y económica.
+  <br><br>
+* **Visión:** Ser la principal plataforma de carpooling para estudiantes universitarios, facilitando la movilidad urbana de manera sostenible y colaborativa.
+
+![UniRider Startup Logo](images/logoStarUpUniRider.png)
+
+**Logotico del Servicio**
+
+![UniRider Service Logo](images/logoUniRider.png)
+
+**Colores:**
+
+Los colores toman protagonismo de la primera percepción visual de los usuarios. Es así que, guiados por los principios de la psicología del color. El azul oscuro suele evocar sensaciones de confianza, seriedad y profesionalismo. También puede transmitir calma y estabilidad. Por otro lado, se escogio como tonalidad predominante el color Azul se asocia con la confianza, la seguridad y la eficiencia, es lo que queremos brindar a nuestros usuarios. Como tonalidades secundarias se escogieron amarillo, negro, gris y blanco.
+
+![Colores](images/colores.png)
+
+**Tipografía:**
+
+La tipografía establece jerarquía entre los diversos grupos de contenido de la página. Asimismo, cumple un rol importante al momento de guiar al usuario a través de la interfaz.
+
+* Heading 1: Tiene un tamaño de 52 px.
+* Heading 2: Tiene un tamaño de 44 px.
+* Heading 3: Tiene un tamaño de 36 px.
+* Heading 4: Tiene un tamaño de 24 px.
+
+![Tipografía](images/tipografia.png)
 ### [4.1.2. Web Style Guidelines.](#web-style-guidelines)
 ## [4.2. Information Architecture.](#information-architecture)
 ### [4.2.1. Organization Systems.](#organization-systems)
