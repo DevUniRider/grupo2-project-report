@@ -1352,7 +1352,7 @@ Prototipado Mobile:
 |Chamorro Acero, Salvador Edward|U201914367@upc.edu.pe|
 |Huincho Lapa, Diego Arturo|U201923466@upc.edu.pe|
 |Mayta Lopez, Harold Jaime|U202114851@upc.edu.pe|
-|Vera Nuñez, Nicolas Alejandro|U202214869@upc.edu.pe|
+|Vera Nuñez, Nicolas Alejandro|nicolas.vera.nunez.2004@gmail.com|
 
 **Despliegues**
 URL Landing Page desplegada:
