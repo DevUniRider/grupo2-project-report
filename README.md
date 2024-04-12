@@ -1035,7 +1035,7 @@ Mobile:
 
 ### [4.7.2. Class Dictionary.](#class-dictionary)
 
-#Class usuario
+# Class usuario
 
 | Atributo        | Type       | Description                             |
 |-----------------|------------|-----------------------------------------|
@@ -1049,7 +1049,7 @@ Mobile:
 | numeroTelefono  | int        | way to contact the user                 |
 | notificaciones  | Notificacion[] | send messages to the user            |
 
-#Class viaje
+# Class viaje
 
 | Atributo        | Type   | Description                    |
 |-----------------|--------|--------------------------------|
@@ -1061,7 +1061,7 @@ Mobile:
 | precio          | float  | travel cost                    |
 | tipoPago        | string | payment methods                |
 
-#Class registro
+# Class registro
 
 | Atributo        | Type   | Description                    |
 |-----------------|--------|--------------------------------|
@@ -1069,7 +1069,7 @@ Mobile:
 | status    | string    | way to know if the travel was concreted or cancelled  |
 | duration          | time   | the travel duration       |
 
-#Class Mensaje
+# Class Mensaje
 
 | Atributo      | Type   | Description                          |
 |---------------|--------|--------------------------------------|
@@ -1077,7 +1077,7 @@ Mobile:
 | fecha  | time   | way to know when the message was sended     |
 
 
-#Class Notificaciones
+# Class Notificaciones
 
 | Atributo      | Type   | Description                          |
 |---------------|--------|--------------------------------------|
@@ -1086,14 +1086,14 @@ Mobile:
 | mensaje          | Mensaje | the receptor tag                   |
 | prioridad          | int | way to know the level of importance|
 
-#Class Billetera
+# Class Billetera
 
 | Atributo               | Type               | Description             |
 |------------------------|--------------------|-------------------------|
 | cards                  | Card[]             | registered card         |
 | numeroCarteraDigital   | int                | if you have more wallets|
 
-#Class Card
+# Class Card
 
 | Atributo   | Type   | Description            |
 |------------|--------|------------------------|
@@ -1101,21 +1101,21 @@ Mobile:
 | csv        | int    | 3 numbers back         |
 | date       | time   | card expiration date   |
 
-#Class Cuenta
+# Class Cuenta
 
 | Atributo   | Type   | Description                 |
 |------------|--------|-----------------------------|
 | correo     | string | way for reminders to arrive |
 | contraseña | string | user account password       |
 
-#Class Matricula
+# Class Matricula
 
 | Atributo         | Type   | Description                               |
 |------------------|--------|-------------------------------------------|
 | Instituto        | Instiuto | user's institute name                   |
 | codigoEstudiante | int    | way to identify the user within institution |
 
-#Class Instituto
+# Class Instituto
 
 | Atributo       | Type   | Description                            |
 |----------------|--------|----------------------------------------|
@@ -1124,7 +1124,7 @@ Mobile:
 | status         | string | academic level of the institution      |
 | tipoInstituto  | string | If it is an institute or university    |
 
-#Class Conductor
+# Class Conductor
 
 | Atributo  | Type     | Description                         |
 |-----------|----------|-------------------------------------|
@@ -1132,7 +1132,7 @@ Mobile:
 | Licencia  | Licencia | valid driver's license              |
 | calificacion  | int | grade of quality of his service      |
 
-#Class Ruta
+# Class Ruta
 
 | Atributo         | Type     | Description              |
 |------------------|----------|--------------------------|
@@ -1140,7 +1140,7 @@ Mobile:
 | destino          | string   | travel destination       |
 | especificaciones | string   | details of the trip      |
 
-#Class Licencia
+# Class Licencia
 
 | Atributo          | Type   | Description                |
 |-------------------|--------|----------------------------|
@@ -1149,14 +1149,14 @@ Mobile:
 | categoria         | string | license category type      |
 | fechaExpiracion  | time   | license expiration date    |
 
-#Class Auto
+# Class Auto
 
 | Atributo            | Type              | Description                  |
 |---------------------|-------------------|------------------------------|
 | registrovehicular   | RegistroVehicular | vehicle registration         |
 | seguro              | Seguro            | vehicle insurance            |
 
-#Class RegistroVehicular
+# Class RegistroVehicular
 
 | Atributo           | Type   | Description               |
 |--------------------|--------|---------------------------|
@@ -1164,7 +1164,7 @@ Mobile:
 | nombrePropietario  | string | name of the vehicle owner |
 | apellidoPropietario| string | last name of the vehicle owner |
 
-#Class Seguro
+# Class Seguro
 
 | Atributo        | Type   | Description             |
 |-----------------|--------|-------------------------|
@@ -1172,7 +1172,7 @@ Mobile:
 | expedicion      | string | insurance issuance      |
 | placa            | string | insurance plate obtained|
 
-#Class Planes
+# Class Planes
 
 | Atributo        | Type   | Description             |
 |-----------------|--------|-------------------------|
