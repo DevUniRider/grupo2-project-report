@@ -776,6 +776,7 @@ Las etiquetas meta son herramientas fundamentales para indicar información codi
 <meta name="author" content="UniRider"/>
 
 <meta name="copyright" content="Copyright UniRider team" />
+```
 
 ### [4.2.4. Searching Systems.](#searching-systems)
 Es importante que los usuarios administradores tengan la posibilidad de distinguir y filtrar la información de los registros almacenados en la aplicación web. Uno de los objetivos del sistema es representar de forma adecuada, fácil y rápida los viajes proporcionados por los conductores. Así mismo, nuestros usuarios(pasajeros/universitarios) podrán reservar asientos en las rutas que estén establecidas por nuestros conductores.
