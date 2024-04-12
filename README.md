@@ -716,6 +716,20 @@ La tipografía establece jerarquía entre los diversos grupos de contenido de la
 
 ![Tipografía](images/tipografia.png)
 ### [4.1.2. Web Style Guidelines.](#web-style-guidelines)
+El enfoque de UniRider para su aplicación web se centra en la simplicidad y la eficiencia en la realización de los procesos. Las fases del proceso y los formularios que deben completarse se presentan en formularios y secciones que ocupan la mayor parte de la pantalla.
+
+**Tarjetas:**
+
+Se hace uso del componente "mat-card" de la colección de Angular Material para representar los avisos y las notificaciones importantes de la aplicación.
+Estas notificaciones seran acompañadas con sierto texto reprensentativo, lo cual sera asignado por el usuario. Tambien con una imagen del usaurio.
+
+**Imágenes:**
+
+En el diseño web se incluirán imágenes descriptivas y con un objetivo puntual. En primer lugar, la imagen de perfil del usuario tanto como el pasajero y como el conductor. En todo momento se encontrará en la parte superior izquierda. Así mismo se contará con imágenes del conductor para una visualización del usuario. Dado que las aplicaciones de escritorio se muestran en una alta resolución de pantalla, resulta de suma importancia que el usuario cuente con guías visuales fácilmente identificables para acceder a las secciones con el flujo funcional de la aplicación.
+
+**Botones:**
+
+El uso de los botones dentro de nuestro trabajo jugaron un rol muy importante ya que gracias a estos nuestros usuarios podrán realizar acciones como reservar un asiento, empezar una ruta o un viaje. Funciones básicas que serán necesarias para un mejor manejo de nuestro servicio.
 ## [4.2. Information Architecture.](#information-architecture)
 ### [4.2.1. Organization Systems.](#organization-systems)
 ### [4.2.2. Labeling Systems.](#labeling-systems)
