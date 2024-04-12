@@ -8,13 +8,13 @@
   <p align="center">
     Ingeniería de Software - 202401
     <br />
-    SW58 - Desarollo de Apliaciones Open Source
+    WX56 - Aplicaciones Web
     <br />
-    Docente: Efraín Ricardo Bautista Ubilús
+    Docente: Alex Humberto Sánchez Ponce
     <br />
     Informe de Trabajo Final
     <br />
-    Startup: 
+    Startup: UniRider
     <br />
     Proyecto: UniRider
   </p>
