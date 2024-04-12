@@ -71,11 +71,11 @@ Para elaborar el informe correspondiente a la entrega TB1, se distribuyó la res
 
 |Integrante|Tareas Asignadas|
 |---|---|
-|Valentino Cervantes||
-|Salvador Chamorro||
-|Diego Huincho||
-|Harold Mayta||
-|Nicolas Vera||
+|Valentino Cervantes|Software Architecture Container Diagrams.<br>Software Architecture Components Diagrams.<br>Software Object-Oriented Design.<br>Class Diagrams.<br>Class Dictionary.<br>Database Design.<br>Database Diagram.<br>Landing Page<br>Sprint 1|
+|Salvador Chamorro|Landing Page Wireframe.Landing Page Mock-up.<br>Web Applications UX/UI Design.<br>Web Applications Wireframes.<br>Web Applications Wireflow Diagrams.<br>Web Applications Mock-ups.<br>Web Applications User Flow Diagrams.<br>Web Applications Prototyping.<br>Landing Page<br>Sprint 1|
+|Diego Huincho|Style Guidelines.<br>General Style Guidelines.<br>Web Style Guidelines.<br>Information Architecture.<br>Organization Systems.<br>Labeling Systems.<br>SEO Tags and Meta Tags<br>Searching Systems.<br>Navigation Systems.<br>Landing Page UI Design.<br>Landing Page Wireframe.<br>Landing Page<br>Sprint 1|
+|Harold Mayta|Startup Profile<br>Startup Profile<br><br>Solution Profile<br>Antecedentes y problemática<br>Lean UX Process.<br>Lean UX Problem Statements.<br>Lean UX Assumptions.<br>Lean UX Hypothesis Statements.<br>Lean UX Canvas.<br>Segmentos objetivo.<br>Software Configuration Management.<br>Software Development Environment Configuration.<br>Source Code Management.<br>Source Code Style Guide & Conventions.<br>Software Deployment Configuration.<br>Landing Page, Services & Applications Implementation.<br>Landing Page<br>Sprint 1|
+|Nicolas Vera|Análisis competitivo.<br>Estrategias y tácticas frente a competidores.<br>Entrevistas.<br>Diseño de entrevistas.<br>Registro de entrevistas.<br>Análisis de entrevistas.<br>Needfinding.<br>User Personas.<br>User Task Matrix.<br>User Journey Mapping.<br>Empathy Mapping.<br>As-is Scenario Mapping.<br>Ubiquitous Language.<br>Sprint 1|
 
 La colaboración en la creación del informe se llevó a cabo a través de una serie de contribuciones constantes al repositorio de la organización UniRider.
 
@@ -88,9 +88,6 @@ Los integrantes del equipo son:
 * Diego Huincho (DiegoHLZ)
 * Harold Mayta (H4RRY73)
 * Nicolas Vera (nicxlxs)
-
-Explicaciones de las ramas:
-
 
 **Student Outcomes**
 
