@@ -224,8 +224,8 @@ La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar d
     <td><img src="images/Harold.jpg" alt="" width="100" height="100"></td>
   </tr>
   <tr>
-      <td></td>
-    <td><img src="images/" width="" height=""></td>
+      <td>Mi nombre es Diego Arturo Huincho Lapa. Tengo 22 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser detallista y responsable. En cuanto a cualidades para la realización del trabajo considero que soy bueno haciendo los mockups de la app. En mi ratos libres me gusta jugar videojuegos o mirar una serie o pelicula.</td>
+    <td><img src="images/diego.jpg" width="100" height="100"></td>
   </tr>
 </table>
 
