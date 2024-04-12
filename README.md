@@ -783,10 +783,11 @@ Habra un chat para poder mantener una conversacion con el conductor.
 
 ![DiagramClases](images/DiagramaDeClases.png)
 
-
 ### [4.7.2. Class Dictionary.](#class-dictionary)
 ## [4.8. Database Design.](#database-design)
 ### [4.8.1. Database Diagram.](#database-diagram)
+![DataBase](images/DataBaseDesign.png)
+
 
 # [Capítulo V: Product Implementation, Validation \& Deployment.**](#capítulo-v-product-implementation-validation--deployment)
 ## [5.1. Software Configuration Management.](#software-configuration-management)
