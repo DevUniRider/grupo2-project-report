@@ -55,10 +55,13 @@
 
 # Registro de Versiones del Informe
 |Versión|Fecha|Autor|Descripción de modificación|
-|---|---|---|---|
-|||||
-|||||
-|||||
+|-------|-----|-----|---------------------------|
+|V0.1|6/04/2024|Harold|Creación del repositorio|
+|V0.2|07/04/2024|Harold<br>Nicolasz| Capitulo 1 y Capitulo 2|
+|V0.2.1|07/04/2024|Valetino|Capitulo 3|
+|V0.3|10/04/2024|Salvador<br>Diego<br>Valentino|Capitulo 4|
+|V0.4|11/04/2024|Nicolas<br>Harold<br>Salvador<br>Diego<br>Valentino|Capitulo 5 y ultimos ajuste|
+|V1.0|12/04/2024|Nicolas<br>Harold<br>Salvador<br>Diego<br>Valentino|Revision final y entrega TB1.|
 
 # Project Report Collaboration Insights
 URL del repositorio para el reporte del proyecto: https://github.com/DevUniRider/grupo2-project-report
