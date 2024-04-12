@@ -671,6 +671,24 @@ Brenda
 
 ![Emphatymap](images/Emphatymap2.jpg)
 ## [2.4 Ubiquitous Language](#ubiquitous-language)
+## <a name="_1pxezwc"></a>2.4. Ubiquitous Language
+- **Carpooling:** El acto de compartir un vehículo con uno o más pasajeros para realizar un viaje común. Reduce costos y emisiones.
+- **Usuario:** Cualquier estudiante universitario que utiliza la plataforma UniRider para buscar u ofrecer un viaje.
+- **Conductor:** Usuario que ofrece en su vehículo privado espacio disponible para otros estudiantes en un viaje planificado.
+- **Pasajero:** Usuario que busca unirse a un viaje existente en el vehículo de otro usuario.
+- **Viaje:** Trayecto compartido entre un conductor y uno o más pasajeros, que comienza en un punto de partida y termina en un destino acordado.
+- **Match:** La acción de conectar a conductores y pasajeros que tienen rutas y horarios compatibles.
+- **Ruta:** El camino o itinerario que el conductor sigue para llegar de un punto de origen a un destino.
+- **Punto de encuentro:** Ubicación física donde el conductor y los pasajeros se encuentran para iniciar su viaje compartido.
+- **Plataforma:** Aplicación web y móvil de UniRider que facilita el carpooling entre estudiantes.
+- **Reserva:** Acción de asegurar un espacio en un vehículo particular como pasajero antes de que el viaje comience.
+- **Feedback:** Opiniones o evaluaciones proporcionadas por usuarios sobre otros usuarios (tanto conductores como pasajeros) después de un viaje compartido.
+- **Perfil de usuario:** Información personal y de viaje que cada usuario proporciona y mantiene en la plataforma para facilitar el proceso de match y seguridad.
+- **Verificación de identidad:** Proceso de comprobación de los datos del usuario para asegurar que su identidad es legítima y coincide con su representación en la plataforma.
+- **Sistema de calificación:** Mecanismo para que los usuarios evalúen a sus compañeros de viaje en base a criterios como seguridad, puntualidad y comportamiento, lo que ayuda a mantener la confianza dentro de la comunidad.
+- **Soporte Técnico:** Servicio ofrecido por UniRider para ayudar a los usuarios con problemas técnicos o preguntas sobre el uso de la plataforma.
+
+
 
 # [Capítulo III: Requirements Specification.](#capítulo-iii-requirements-specification)
 ## [3.1. To-Be Scenario Mapping.](#to-be-scenario-mapping)
