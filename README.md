@@ -800,6 +800,46 @@ Habra un chat para poder mantener una conversacion con el conductor.
 # [Capítulo V: Product Implementation, Validation \& Deployment.**](#capítulo-v-product-implementation-validation--deployment)
 ## [5.1. Software Configuration Management.](#software-configuration-management)
 ### [5.1.1. Software Development Environment Configuration.](#software-development-environment-configuration)
+
+**Project Management:**
+
+* _Notion_: Notion es una herramienta de gestión de proyectos que permite a los equipos colaborar en tiempo real, organizar tareas y compartir información de manera eficiente. En UniRider, utilizamos Notion para planificar y monitorear el progreso de nuestro proyecto, asignar tareas a los miembros del equipo y mantenernos organizados en todo momento. La interfaz intuitiva y las funciones personalizables de Notion nos permiten adaptar la herramienta a nuestras necesidades específicas y garantizar una gestión eficaz de nuestro proyecto. https://www.notion.so/es-es
+
+**Requirements Management**
+
+* _Miro_: Miro es una herramienta de colaboración en línea que permite a los equipos trabajar de forma conjunta en la creación de diagramas, mapas mentales, prototipos y otros tipos de contenido visual. En UniRider, utilizamos Miro para realizar sesiones de lluvia de ideas, diseñar flujos de trabajo y diagramas de arquitectura, y colaborar en la creación de prototipos de nuestra aplicación web. La funcionalidad de colaboración en tiempo real de Miro nos permite trabajar de forma conjunta en la creación y edición de contenido visual, lo que facilita la comunicación y la toma de decisiones en el equipo. https://miro.com/
+
+**Product UX/UI Design**
+
+* _Figma_: Figma es una herramienta de diseño de interfaz de usuario basada en la nube que permite a los equipos colaborar en tiempo real, crear prototipos interactivos y diseñar interfaces de usuario de alta calidad. En UniRider, utilizamos Figma para diseñar y prototipar la interfaz de usuario de nuestra aplicación web, lo que nos permite visualizar y compartir nuestras ideas de diseño de manera efectiva. La funcionalidad de colaboración en tiempo real de Figma nos permite trabajar de forma conjunta en el diseño de la aplicación, recopilar comentarios y realizar ajustes en tiempo real. https://www.figma.com/
+<br><br>
+* _Lucidchart_: Lucidchart es una herramienta de diagramación en línea que permite a los equipos crear diagramas, organigramas, mapas mentales y otros tipos de diagramas de manera colaborativa. En UniRider, utilizamos Lucidchart para crear diagramas de flujo, diagramas de arquitectura de software y otros diagramas relacionados con el diseño y desarrollo de nuestra aplicación web. La funcionalidad de colaboración en tiempo real de Lucidchart nos permite trabajar de forma conjunta en la creación y edición de diagramas, lo que facilita la comunicación y la toma de decisiones en el equipo. https://www.lucidchart.com/
+
+**Software Testing**
+
+* _Gherkin_: Gherkin es un lenguaje de especificación de comportamiento que se utiliza para escribir pruebas de aceptación en un formato legible por humanos. En UniRider, utilizamos Gherkin para definir los criterios de aceptación de nuestras historias de usuario y escenarios de prueba, lo que nos permite validar el comportamiento de nuestra aplicación web de manera sistemática y eficiente. La sintaxis simple y estructurada de Gherkin nos permite describir el comportamiento esperado de la aplicación de forma clara y concisa, lo que facilita la colaboración entre los miembros del equipo y garantiza la calidad del software. https://cucumber.io/docs/gherkin/
+
+**Software Development**
+
+* _Visual Studio Code_: Visual Studio Code es un editor de código ligero y altamente personalizable que ofrece una amplia gama de funciones y extensiones para facilitar el desarrollo de software. En UniRider, utilizamos Visual Studio Code como nuestro entorno de desarrollo integrado (IDE) para escribir, depurar y probar el código de nuestra aplicación web. La interfaz intuitiva y las funciones avanzadas de Visual Studio Code nos permiten trabajar de manera eficiente y productiva, lo que nos ayuda a mantener un alto nivel de calidad en nuestro código y acelerar el proceso de desarrollo. https://code.visualstudio.com/
+<br><br>
+* _Structurizr_: Structurizr es una plataforma en línea que permite a los equipos documentar y visualizar la arquitectura de software de sus aplicaciones de forma colaborativa. En UniRider, utilizamos Structurizr para crear diagramas de arquitectura de software que representan la estructura y los componentes de nuestra aplicación web, lo que nos permite comunicar de manera efectiva la arquitectura de nuestro sistema a los miembros del equipo y otras partes interesadas. La funcionalidad de colaboración en tiempo real de Structurizr nos permite trabajar de forma conjunta en la creación y edición de diagramas, lo que facilita la comprensión y el mantenimiento de la arquitectura de nuestro software. https://structurizr.com/
+<br><br>
+* _HTML_: HTML (HyperText Markup Language) es el lenguaje de marcado estándar utilizado para crear y diseñar páginas web. En UniRider, utilizamos HTML para estructurar y organizar el contenido de nuestra aplicación web, lo que nos permite definir la jerarquía de los elementos y la presentación visual de la interfaz de usuario. La sintaxis simple y estructurada de HTML nos permite crear páginas web interactivas y receptivas que se adaptan a diferentes dispositivos y tamaños de pantalla, lo que garantiza una experiencia de usuario consistente y de alta calidad. https://developer.mozilla.org/en-US/docs/Web/HTML
+<br><br>
+* _CSS_: CSS (Cascading Style Sheets) es un lenguaje de diseño utilizado para definir la apariencia y el estilo visual de las páginas web. En UniRider, utilizamos CSS para personalizar y dar formato al contenido de nuestra aplicación web, lo que nos permite controlar la tipografía, los colores, los márgenes y otros aspectos visuales de la interfaz de usuario. La sintaxis simple y flexible de CSS nos permite crear estilos personalizados y responsivos que se adaptan a diferentes dispositivos y tamaños de pantalla, lo que garantiza una presentación visual atractiva y coherente en nuestra aplicación. https://developer.mozilla.org/en-US/docs/Web/CSS
+<br><br>
+* _JavaScript_: JavaScript es un lenguaje de programación de alto nivel utilizado para crear interactividad y dinamismo en las páginas web. En UniRider, utilizamos JavaScript para agregar funcionalidades interactivas y dinámicas a nuestra aplicación web, lo que nos permite crear formularios interactivos, animaciones y efectos visuales que mejoran la experiencia de usuario. La sintaxis flexible y versátil de JavaScript nos permite desarrollar aplicaciones web complejas y sofisticadas que se ejecutan en el navegador del usuario, lo que garantiza una interacción fluida y atractiva con nuestra aplicación. https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+**Software Deployment**
+
+* _Git_: Git es un sistema de control de versiones distribuido que permite a los equipos colaborar en el desarrollo de software, realizar un seguimiento de los cambios en el código y gestionar las versiones de los archivos de forma eficiente. En UniRider, utilizamos Git como nuestra herramienta de control de versiones para mantener un historial de los cambios en el código de nuestra aplicación web, lo que nos permite colaborar en el desarrollo de software de forma segura y eficaz. La funcionalidad de ramificación y fusión de Git nos permite trabajar en paralelo en diferentes funciones y características de la aplicación, lo que facilita la colaboración entre los miembros del equipo y garantiza la integridad y la calidad del código. https://git-scm.com/
+
+**Software Documentation and Project Management**
+
+* _GitHub_: GitHub es una plataforma en línea que permite a los equipos colaborar en el desarrollo de software, alojar repositorios de código y gestionar proyectos de forma eficiente. En UniRider, utilizamos GitHub como nuestra plataforma de desarrollo de software para alojar el código fuente de nuestra aplicación web, realizar un seguimiento de los cambios en el código y gestionar las tareas y problemas del proyecto. La funcionalidad de control de versiones y colaboración de GitHub nos permite trabajar de forma conjunta en el desarrollo de software, lo que facilita la comunicación y la coordinación entre los miembros del equipo y garantiza la calidad y la integridad del código. https://github.com/
+
+
 ### [5.1.2. Source Code Management.](#source-code-management)
 ### [5.1.3. Source Code Style Guide \& Conventions.](#source-code-style-guide--conventions)
 ### [5.1.4. Software Deployment Configuration.](#software-deployment-configuration)
