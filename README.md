@@ -1034,6 +1034,155 @@ Mobile:
 ![DiagramClases](images/DiagramaDeClases.png)
 
 ### [4.7.2. Class Dictionary.](#class-dictionary)
+
+#Class usuario
+
+| Atributo        | Type       | Description                             |
+|-----------------|------------|-----------------------------------------|
+| nombre          | string     | User name                               |
+| apellido        | string     | user's last name                        |
+| dni             | int        | way to identify the user                |
+| cuentUsuario    | Cuenta     | User profile                            |
+| matriculaUsuario| Matricula  | the user's registration                 |
+| billetera       | Billetera  | funds to pay for travel                 |
+| historial       | Registro[] | You will be able to see the trips you make |
+| numeroTelefono  | int        | way to contact the user                 |
+| notificaciones  | Notificacion[] | send messages to the user            |
+
+#Class viaje
+
+| Atributo        | Type   | Description                    |
+|-----------------|--------|--------------------------------|
+| dniConductor    | int    | way to identify the driver     |
+| dniPasajero    | int    | way to identify the passanger     |
+| inicio          | time   | registration home page         |
+| origen          | string | starting place                 |
+| destino         | string | requested trip                 |
+| precio          | float  | travel cost                    |
+| tipoPago        | string | payment methods                |
+
+#Class registro
+
+| Atributo        | Type   | Description                    |
+|-----------------|--------|--------------------------------|
+| viaje    | Viaje    | the travel's entity to get the info     |
+| status    | string    | way to know if the travel was concreted or cancelled  |
+| duration          | time   | the travel duration       |
+
+#Class Mensaje
+
+| Atributo      | Type   | Description                          |
+|---------------|--------|--------------------------------------|
+| contenido       | string | messages's content          |
+| fecha  | time   | way to know when the message was sended     |
+
+
+#Class Notificaciones
+
+| Atributo      | Type   | Description                          |
+|---------------|--------|--------------------------------------|
+| tipo       | string | way to know the notification's tipe          |
+| origen  | string   | the remitend tag     |
+| mensaje          | Mensaje | the receptor tag                   |
+| prioridad          | int | way to know the level of importance|
+
+#Class Billetera
+
+| Atributo               | Type               | Description             |
+|------------------------|--------------------|-------------------------|
+| cards                  | Card[]             | registered card         |
+| numeroCarteraDigital   | int                | if you have more wallets|
+
+#Class Card
+
+| Atributo   | Type   | Description            |
+|------------|--------|------------------------|
+| cardNumber | string | user card number       |
+| csv        | int    | 3 numbers back         |
+| date       | time   | card expiration date   |
+
+#Class Cuenta
+
+| Atributo   | Type   | Description                 |
+|------------|--------|-----------------------------|
+| correo     | string | way for reminders to arrive |
+| contraseña | string | user account password       |
+
+#Class Matricula
+
+| Atributo         | Type   | Description                               |
+|------------------|--------|-------------------------------------------|
+| Instituto        | Instiuto | user's institute name                   |
+| codigoEstudiante | int    | way to identify the user within institution |
+
+#Class Instituto
+
+| Atributo       | Type   | Description                            |
+|----------------|--------|----------------------------------------|
+| nombre         | string | Name of the Institution                |
+| direccion      | string | institution address                    |
+| status         | string | academic level of the institution      |
+| tipoInstituto  | string | If it is an institute or university    |
+
+#Class Conductor
+
+| Atributo  | Type     | Description                         |
+|-----------|----------|-------------------------------------|
+| ruta      | Ruta     | driver's route                      |
+| Licencia  | Licencia | valid driver's license              |
+| calificacion  | int | grade of quality of his service      |
+
+#Class Ruta
+
+| Atributo         | Type     | Description              |
+|------------------|----------|--------------------------|
+| origen           | string   | driving road             |
+| destino          | string   | travel destination       |
+| especificaciones | string   | details of the trip      |
+
+#Class Licencia
+
+| Atributo          | Type   | Description                |
+|-------------------|--------|----------------------------|
+| numeroLicencia    | int    | driver's license number    |
+| clases            | string | license class type         |
+| categoria         | string | license category type      |
+| fechaExpiracion  | time   | license expiration date    |
+
+#Class Auto
+
+| Atributo            | Type              | Description                  |
+|---------------------|-------------------|------------------------------|
+| registrovehicular   | RegistroVehicular | vehicle registration         |
+| seguro              | Seguro            | vehicle insurance            |
+
+#Class RegistroVehicular
+
+| Atributo           | Type   | Description               |
+|--------------------|--------|---------------------------|
+| placa              | string | Vehicle plate             |
+| nombrePropietario  | string | name of the vehicle owner |
+| apellidoPropietario| string | last name of the vehicle owner |
+
+#Class Seguro
+
+| Atributo        | Type   | Description             |
+|-----------------|--------|-------------------------|
+| dni             | int    | ID for insurance        |
+| expedicion      | string | insurance issuance      |
+| placa            | string | insurance plate obtained|
+
+#Class Planes
+
+| Atributo        | Type   | Description             |
+|-----------------|--------|-------------------------|
+| precio            | float    | price for month      |
+| viajesInfinitos      | bool | posibility to have infinite travel at day      |
+|     puntos        | string | number of points gained for each travel|
+|     acompanantes        | string | number of partners that you can carry|
+|     visibilidad        | string | level of visibility hat you have as a driver|
+|     acces        | string | number of functions that you can use|
+
 ## [4.8. Database Design.](#database-design)
 ### [4.8.1. Database Diagram.](#database-diagram)
 ![DataBase](images/DataBaseDesign.png)
