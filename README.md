@@ -1437,6 +1437,14 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 
 # [6.Conclusiones.](#conclusiones)
 
+La efectividad de la comunicación, ya sea hablada o escrita, ha sido esencial para el progreso del proyecto. La fluidez en las conversaciones ha permitido una comprensión compartida de los objetivos y ha fomentado la colaboración entre los miembros del equipo. Este enfoque continuará promoviéndose para mantener el avance y la cohesión del grupo. Por otro lado, la comunicación por escrito ha sido crucial para documentar el progreso y clarificar los resultados esperados. Mantener un estilo claro y conciso en la comunicación escrita seguirá siendo prioritario para garantizar la eficacia y calidad del trabajo. En resumen, tanto la comunicación oral como escrita se complementan para crear un ambiente de trabajo productivo y colaborativo, donde las ideas fluyen y se alcanzan los objetivos del proyecto de manera eficiente.
+
 # [7.Bibliografía.](#bibliografía)
+
+1. NEI. (2021). *Encuesta Nacional de Hogares: Módulo de Victimización*. Lima, Perú: INEI.
+
+2. Traverso, J. L. (2020). *Impacto del crimen en la calidad de vida de los habitantes de Lima Metropolitana*. *Revista Peruana de Criminología*, 3(1), 45-58.
+
+3. Municipalidad Metropolitana de Lima. (2023). *Informe anual sobre el estado del transporte público en Lima*. Lima, Perú: Autor.
 
 # [8.Anexos.](#anexos)
