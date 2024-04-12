@@ -698,6 +698,8 @@ Brenda
 ![To-Be Scenary Mapping 2](images/ToBeScenarioMapping2.jpeg) 
 ## [3.2. User Stories.](#user-stories)
 ## [3.3. Impact Mapping.](#impact-mapping)
+**Segmento Estudiantes Universitarios que necesiten movilizarse**
+![Impact Mapping 1](images/ImpactMapping1.jpeg) 
 ## [3.4. Product Backlog.](#product-backlog)
 
 # [Capítulo IV: Product Design.](#capítulo-iv-product-design)
