@@ -727,6 +727,23 @@ Brenda
 ![Impact Mapping 2](images/ImpactMapping2.jpeg) 
 ## [3.4. Product Backlog.](#product-backlog)
 
+|Orden|User Story ID|Título|Descripción|Story Points|
+|-----|-------------|------|-----------|------------|
+|1|US01|Visualizar planes de servicio|*Como* Usuario *Quiero* visualizar los planes de servicio *Para* visualizar los precios y beneficios que me brindan|3|
+|2|US02|Seleccionar plan de servicio|*Como* Usuario *Quiero* seleccionar un plan de servicio *Para* adquirir los beneficios ofrecidos|3|
+|3|US03|Realizar pago del plan|*Como* Usuario *Quiero* realizar el pago del plan seleccionado *Para* activar los beneficios ofrecidos|5|
+|4|US08|Filtrar viajes disponibles|*Como* Usuario *Quiero* poder filtrar los viajes disponibles *Para* encontrar opciones que se ajusten a mis preferencias|3|
+|5|US07|Brindar calificaciones|*Como* Usuario *Quiero* brindar calificaciones a los conductores designados *Para* mejorar la experiencia de otros usuarios|5|
+|6|US09|Ver historial de reservas de viaje|*Como* Usuario *Quiero* poder ver mi historial de reservas de viaje *Para* tener un registro de mis viajes anteriores y cancelaciones|3|
+|7|US04|Verificar identidad del conductor|*Como* Usuario *Quiero* verificar la identidad del conductor *Para* garantizar mi seguridad durante el viaje|3|
+|8|US05|Visualizar ruta y detalles del viaje|*Como* Usuario *Quiero* ver la ruta y los detalles del viaje *Para* prepararme adecuadamente y saber qué esperar|3|
+|9|US06|Establecer Ruta y Horario de viaje|*Como* Usuario *Quiero* establecer la ruta y el horario de mi viaje *Para* planificar y compartir adecuadamente mi viaje|8|
+|10|US01|Registro de usuario|*Como* Usuario *Quiero* poder crear mi usuario *Para* acceder al servicio de carpooling|5|
+|11|US02|Búsqueda de Viaje Disponibles|*Como* Usuario *Quiero* buscar viajes disponibles *Para* poder planificar mis desplazamientos|5|
+|12|US03|Reserva de Viaje|*Como* Usuario *Quiero* poder reservar un asiento en el viaje disponible *Para* garantizar mi lugar.|5|
+|13|US04|Comunicación con el Conductor|*Como* Usuario *Quiero* poder comunicarme con el conductor de mi viaje *Para* coordinar detalles y obtener información adicional.|5|
+|14|US05|Cancelación de Reserva|*Como* Usuario *Quiero* poder cancelar una reserva de viaje *Para* los casos de que surjan imprevistos|3|
+|15|US06|Calificación y Comentario del Conductor|*Como* Usuario *Quiero* poder calificar y dejar comentarios sobre la experiencia de viaje con el conductor *Para* ayudar a otros usuarios en su elección|5|
 # [Capítulo IV: Product Design.](#capítulo-iv-product-design)
 ## [4.1. Style Guidelines.](#style-guidelines)
 ### [4.1.1. General Style Guidelines.](#general-style-guidelines)
