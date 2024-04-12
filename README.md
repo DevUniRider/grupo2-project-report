@@ -786,6 +786,7 @@ Los principales sistemas de navegación en la Landing Page son los menús ubicad
 
 ## [4.3. Landing Page UI Design](#landing-page-ui-design)
 ### [4.3.1. Landing Page Wireframe.](#landing-page-wireframe)
+![wireframe](images/wlandingpage.png)
 ### [4.3.2. Landing Page Mock-up.](#landing-page-mock-up)
 ## [4.4. Web Applications UX/UI Design.](#web-applications-uxui-design)
 ### [4.4.1. Web Applications Wireframes.](#web-applications-wireframes)
