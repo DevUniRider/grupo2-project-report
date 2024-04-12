@@ -201,6 +201,34 @@ La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar d
 ![Logo de Markdown](images/logoUniRider.png)
 
 ### [1.1.2 Perfiles de los integrantes del equipo](#perfiles-de-los-integrantes-del-equipo)
+
+<table>
+  <tr>
+    <td>Perfiles de los integrantes del equipo</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><img src="images/" alt="" width="" height=""></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><img src="images/" alt="" width="" height=""></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><img src="images/"  alt="" width="" height=""></td>
+  </tr>
+  <tr>
+    <td>Mi nombre es Harold Jaime Mayta Lopez. Tengo 20 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo consideroque soy bueno identificando problemáticas y buscando soluciones.</td>
+    <td><img src="images/Harold.jpg" alt="" width="100" height="100"></td>
+  </tr>
+  <tr>
+      <td></td>
+    <td><img src="images/" width="" height=""></td>
+  </tr>
+</table>
+
 ## [1.2 Solution Profile](#solution-profile)
 ### [1.2.1 Antecedentes y Problemática](#antecedentes-y-problemática)
 
