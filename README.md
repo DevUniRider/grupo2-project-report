@@ -531,6 +531,24 @@ El entrevistado menciona la necesidad de verificar la información de los conduc
 
 El entrevistado menciona la importancia de la verificación de identidad del conductor y usuarios por tema de seguridad, ya que ha visto en las noticias que este tipo de apps no son muy seguras. Por otro lado, le gusta la idea de que tengas que escoger la ruta que vas a tomar antes de iniciar el viaje, ya que ha tenido problemas con otras aplicación que le cambiaban la ruta durante el viaje y se termina estresando. Además, menciona que estaba buscando una forma de generar algunos ingresos sin descuidar sus estudios. Por este motivo, le encanta lo que propone la app web y  le gusta que esta sea solo para los estudiantes universitarios. 
 
+![](images/Entrevista6.png)
+
+**Entrevistado N°3:** 
+
+**-Sexo:** Masculino
+
+**-Edad:** 21 años
+
+**-Ubicación en la que vive:** Lima, Callao
+
+**-Acerca de la entrevista:** Estudiante de la UPC
+
+**-Link: <https://youtu.be/JshTg7id7Nk?si=P3eTVtm_Y0fk4AWQ>** 
+
+**Resumen:**
+
+El entrevistado destaca la necesidad de una rigurosa verificación de identidad para conductores y pasajeros, subrayando su preocupación por la seguridad personal, especialmente dada la cobertura mediática negativa de algunas plataformas similares. También aprecia la función que permite seleccionar y fijar la ruta antes del viaje, ya que ha experimentado inconvenientes y ansiedad con servicios anteriores que alteraban la ruta en curso. Adicionalmente, menciona su interés en encontrar maneras de complementar sus ingresos sin comprometer su rendimiento académico, por lo que valora altamente la propuesta de la aplicación, diseñada exclusivamente para estudiantes universitarios, lo que, según él, potencia un entorno más seguro y confiable.
+
 **Segmento objetivo #2: Estudiantes Universitarios propietarios de vehículo privado.**
 
 ![](images/Entrevista2.png)
