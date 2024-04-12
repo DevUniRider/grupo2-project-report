@@ -216,7 +216,9 @@ La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar d
     <td><img src="images/" alt="" width="" height=""></td>
   </tr>
   <tr>
-    <td></td>
+    <td>
+        Mi nombre es Salvador Chamorro. Tengo 21 años y soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Tengo conocimientos en programación e ingeniería de software. Me considero una persona bastante empática y creativa. Considero que mi perfil tiene todo lo necesario para aportar al grupo de trabajo.
+    </td>
     <td><img src="images/"  alt="" width="" height=""></td>
   </tr>
   <tr>
