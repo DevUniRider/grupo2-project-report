@@ -41,7 +41,7 @@
             <td>U202114851</td>
         </tr>
         <tr> 
-            <td>Vera Nuñez, GNicolas Alejandro</td>
+            <td>Vera Nuñez, Nicolas Alejandro</td>
             <td>U202214869</td>
         </tr>
     </table>
@@ -841,6 +841,36 @@ Habra un chat para poder mantener una conversacion con el conductor.
 
 
 ### [5.1.2. Source Code Management.](#source-code-management)
+
+|Integrantes| Cuenta de GitHub      |
+|----------|-----------------------|
+|Cervantes Erequita, Valentino Sebastian|U202110140@upc.edu.pe|
+|Chamorro Acero, Salvador Edward|U201914367@upc.edu.pe|
+|Huincho Lapa, Diego Arturo|U201923466@upc.edu.pe|
+|Mayta Lopez, Harold Jaime|U202114851@upc.edu.pe|
+|Vera Nuñez, Nicolas Alejandro|U202214869@upc.edu.pe|
+
+**Despliegues**
+URL Landing Page desplegada:
+
+**Repositorios**
+URL del repositorio de Landing Page:
+
+URL del repositorio del Reporte Final:
+
+**Implementacion de Gitflow**
+
+![Gitflow](images/ramas.jpg)
+
+Gitflow es un modelo de ramificación para Git que se centra en la organización de las ramas de un proyecto de software. El modelo de Gitflow define una serie de ramas estándar y reglas para su uso, lo que facilita la colaboración y la gestión del código en un equipo de desarrollo. En UniRider, utilizamos el modelo de Gitflow para organizar y gestionar las ramas de nuestro proyecto, lo que nos permite trabajar de forma eficiente y colaborativa en el desarrollo de nuestra aplicación web.
+
+La rama **main** es la rama principal de nuestro proyecto, que contiene la versión estables, operativas y listas para implementar de UniRider. Estas variantes han sido previamente evaluadas y se ha verificado la total funcionalidad de estas tras su implementación. Emplearemos etiquetas para identificar cada variante estable y lista para implementar, lo que nos permitirá tener un seguimiento preciso de las variantes y simplificar la administración de futuras actualizaciones.
+
+La rama **develop** es la rama de desarrollo de nuestro proyecto, que contiene la versión en desarrollo de UniRider que aún no han sido sometidas a pruebas, aunque están completadas al 100% y contienen todas las características que se esperan hasta ese momento. Este canal se emplea para cargar la versión y llevar a cabo pruebas finales con el fin de corregir cualquier inconveniente antes de la publicación final en la rama main.
+
+La rama **feature** es la rama de características de nuestro proyecto, que contiene las nuevas características y funcionalidades que se están desarrollando para UniRider. Cada nueva característica se desarrolla en una rama de características separada, lo que permite a los miembros del equipo trabajar de forma independiente en diferentes aspectos de la aplicación y facilita la integración de las nuevas características en la rama de desarrollo.
+
+
 ### [5.1.3. Source Code Style Guide \& Conventions.](#source-code-style-guide--conventions)
 ### [5.1.4. Software Deployment Configuration.](#software-deployment-configuration)
 ## [5.2. Landing Page, Services \& Applications Implementation.](#landing-page-services--applications-implementation)
