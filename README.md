@@ -732,6 +732,9 @@ En el diseño web se incluirán imágenes descriptivas y con un objetivo puntual
 El uso de los botones dentro de nuestro trabajo jugaron un rol muy importante ya que gracias a estos nuestros usuarios podrán realizar acciones como reservar un asiento, empezar una ruta o un viaje. Funciones básicas que serán necesarias para un mejor manejo de nuestro servicio.
 ## [4.2. Information Architecture.](#information-architecture)
 ### [4.2.1. Organization Systems.](#organization-systems)
+La organización de **forma jerárquica** presenta al usuario con un orden de importancia para los elementos que se muestran en pantalla. Se utilizó este orden para las pantallas de log-in y los perfiles de los conductores y pasajeros, trazar una ruta o reservar un asiento
+
+De la misma manera, UniRider también usará una organización  de **forma secuencial**. De esta manera, se creará un camino que el usuario seguirá paso a paso (step-by-step) y evitará que se pierda o abrume por el contenido.
 ### [4.2.2. Labeling Systems.](#labeling-systems)
 ### [4.2.3. SEO Tags and Meta Tags.](#seo-tags-and-meta-tags)
 ### [4.2.4. Searching Systems.](#searching-systems)
