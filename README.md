@@ -756,6 +756,10 @@ Habra un chat para poder mantener una conversacion con el conductor.
 ### [4.6.3. Software Architecture Components Diagrams.](#software-architecture-components-diagrams)
 ## [4.7. Software Object-Oriented Design.](#software-object-oriented-design)
 ### [4.7.1. Class Diagrams.](#class-diagrams)
+
+![DiagramClases](images/DiagramaDeClases.png)
+
+
 ### [4.7.2. Class Dictionary.](#class-dictionary)
 ## [4.8. Database Design.](#database-design)
 ### [4.8.1. Database Diagram.](#database-diagram)
