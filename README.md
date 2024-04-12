@@ -872,6 +872,33 @@ La rama **feature** es la rama de características de nuestro proyecto, que cont
 
 
 ### [5.1.3. Source Code Style Guide \& Conventions.](#source-code-style-guide--conventions)
+
+En esta sección, se establece y documenta la guía de estilo y las convenciones de codificación que deben seguirse en el proyecto.Estas convenciones se aplicarán a los diversos lenguajes utilizdos como HTML,CSS y Gherkin.Se prefiere que toda la nomenclatura y la documentación se realicen en inglés.
+
+### HTML
+- Se debe cerrar cada elemento HTML adecuadamente.
+- Utilizar minúsculas para los nombres de elementos y atributos.
+- Emplear comillas alrededor de los valores de los atributos, especialmente cuando incluyan espacios.
+- Especificar el texto alt y las dimensiones width y height para todas las imágenes.
+
+### CSS
+- Utilizar nombres de clases descriptivos y breves.
+- Separar los nombres de las clases e ID con un guion (-).
+- Evitar especificar la unidad de medida para valores de 0.
+- Separar declaraciones y selectores en nuevas líneas para mejorar la legibilidad.
+
+### JavaScript
+- Utilizar nombres de variables y funciones descriptivos.
+- Organizar el código en bloques lógicos separados con una indentación de 2 espacios.
+- Utilizar operadores de comparación estricta (===) en lugar de igualdad débil (==) siempre que sea posible.
+- Utilizar punto y coma al final de cada declaración.
+- Mantener comentarios para explicar el propósito y la funcionalidad del código.
+
+### Gherkin
+- Utilizar los bloques Given, When, y Then para estructurar los escenarios.
+- Separar escenarios con dos líneas en blanco.
+- Utilizar palabras clave significativas y descriptivas.
+- Usar saltos de línea para mejorar la legibilidad y agrupar información.
 ### [5.1.4. Software Deployment Configuration.](#software-deployment-configuration)
 ## [5.2. Landing Page, Services \& Applications Implementation.](#landing-page-services--applications-implementation)
 ### [5.2.1. Sprint 1.](#sprint-1)
