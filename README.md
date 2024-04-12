@@ -695,6 +695,57 @@ Brenda
 ### [4.3.2. Landing Page Mock-up.](#landing-page-mock-up)
 ## [4.4. Web Applications UX/UI Design.](#web-applications-uxui-design)
 ### [4.4.1. Web Applications Wireframes.](#web-applications-wireframes)
+Creacion de cuenta:
+
+En la seccion de Creacion de cuenta los usuarios tendran que llenar el formulario con sus datos correspondientes para poder crear una cuenta en la aplicacion.
+
+Inicio de sesion:
+
+En la seccion de Inicio de sesion los usuarios tendran que llenar el formulario con sus respectivas credenciales para poder ingresar a la aplicacion.
+
+Pagina de Inicio:
+
+En la seccion de la pagina de inicio se podra visualizar informacion acerca de la empresa, las diferentes funcionalidades de la aplicacion y los destinos mas visitados.
+
+Pagina de Inicio:
+
+En la seccion de servicio se visualizaran los diferentes servicios que ofrece la UniRider.
+
+Planes de suscripcion:
+
+En la seccion de planes de suscripcion se visualizaran los diferentes planes que hay en la aplicacion.
+
+Seccion de pago:
+
+Al momento de suscribirse a un plan , se abrira la seccion de pago.
+
+Mapa:
+
+Habra una seccion donde se visualizara un mapa en donde se vera la posicion de los conductores.
+
+Seccion de busqueda de lugar:
+
+En la seccion de busqueda del lugar se podran encontrar los diferentes destinos a los que los conductores van.
+
+Descripcion del lugar :
+
+Luego de hacer click en uno de los lugares disponibles , se podra visualizar la informacion de cada uno.
+
+Reserva de viajes :
+
+En la seccion de reserva de viajes se vera un formulario que sera llenado para poder realizar la reserva.
+
+Historial de reservas :
+
+Habra un historial donde se podran ver todas las reservas hechas.
+
+Chat :
+
+Habra un chat para poder mantener una conversacion con el conductor.
+
+
+
+
 ### [4.4.2. Web Applications Wireflow Diagrams.](#web-applications-wireflow-diagrams)
 ### [4.4.3. Web Applications Mock-ups.](#web-applications-mock-ups)
 ### [4.4.4. Web Applications User Flow Diagrams.](#web-applications-user-flow-diagrams)
