@@ -1478,9 +1478,41 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 Para la entrega del Sprint 1, se trabajó en lograr el desarrollo completo, la implementación y el despliegue del Landing Page. Por lo tanto, la sección de "Testing" se enfocó en la implementación de los archivos de características que contiene nuestra página de aterrizaje.
 
 #### [5.2.1.5. Execution Evidence for Sprint Review.](#execution-evidence-for-sprint-review)
+
+En el sprint 1 se alcanzo un desarrollo parcial en la implementación del despliegue del landing page. La cual muestra diferentessecciones donde el usuario puede encontrar información relevante acerca del producto y del start up. A continuación semuestran algunas evidencias:
+
+- Sección planes: En la sección planes, el usuario puede visualizar e interactuar con los diferentes planes que ofrecemos.
+  ![Planes](images/planes.png)
+  
+- Sección contacto: En la sección contacto el usuario puede introducir su información para que la empresa se ponga en contacto con ellos, oen su defecto, ingresar a los medio de comunicación de la empresa
+
+![Contacto](images/contacto.png)
+
+- Sección about: En la sección about , el usuario podra observar nuestro Start Up y nuestras fortalezas
+  
+![About](images/About.png)
+
+- Sección Funciones: En la sección Funciones el usuario podra encontrar todas las funciones con las que vamos a contar.
+  
+![Funciones](images/Funciones.png)
+
 #### [5.2.1.6. Services Documentation Evidence for Sprint Review.](#services-documentation-evidence-for-sprint-review)
+
+Este primer Sprint solo trata la implementación del landing page, por lo que no se empleó ningún servicio adicional.
+
 #### [5.2.1.7. Software Deployment Evidence for Sprint Review.](#software-deployment-evidence-for-sprint-review)
+
+En este Sprint (Sprint 1), se logró desarrollar el landing page de UniRider, el cual cuenta con el propósito de atraer a la clientela y mostrar de qué se trata nuestro startup y cuál es nuestro producto estrella.
+
+En mención al Main de la landing page, empleamos Github Pages para su correcto despliegue.
+
+https://devunirider.github.io/LandinPAge-URider/
+
 #### [5.2.1.8. Team Collaboration Insights during Sprint.](#team-collaboration-insights-during-sprint)
+
+Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de la herramienta Visual Studio Code y IntelliJ IDE, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios en Visual Code/ IntelliJ IDE y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
+
+https://github.com/DevUniRider/LandinPAge-URider
 
 # [6.Conclusiones.](#conclusiones)
 
