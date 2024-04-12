@@ -1427,9 +1427,56 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 ## [5.2. Landing Page, Services \& Applications Implementation.](#landing-page-services--applications-implementation)
 ### [5.2.1. Sprint 1.](#sprint-1)
 #### [5.2.1.1. Sprint Planning 1.](#sprint-planning-1)
+
+| Sprint 1                         | Implementación de funcionalidades y diseño de la aplicación.                                                                                                                                              |
+| -------------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background       |
+| Date                             | 05/04/2024                                                                                                                                                                                                |
+| Time                             | 18:00 horas (GMT-5)                                                                                                                                                                                       |
+| Location                         | Reunión realizada mediante Discord                                                                                                                                                                        |
+| Prepared By                      | Mayta Lopez, Harold Jaime	                                                                                                                                                                                |
+| PAttendees (to planning meeting) | <li>Mayta Lopez, Harold Jaime</li>	 <li>Cervantes Erequita, Valentino Sebastian</li> <li>Chamorro Acero, Salvador Edward </li> <li>Huincho Lapa, Diego Arturo</li> <li>Vera Nuñez, Nicolas Alejandro</li> |
+|Sprint n -1 Review|
+|Resumen| Se creará la organización de UniRider en Github, se crea las ramas, se separa los trabajos a realizar como entrevistas, wireframe y mock-up                                                               |
+|Sprint n -1 Retrospective|
+|Resumen| Se implemento para el landing se ha realizado mediante html css y js.                                                                                                                                     |
+| **Sprint Goal & User Stories**   |
+| Sprint 1 Velocity                | 21 points                                                                                                                                                                                                 |
+| Sum of Story Points              | 21 points                                                                                                                                                                                                 |
+
 #### [5.2.1.2. Sprint Backlog 1.](#sprint-backlog-1)
+
+| id   | Title                 | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To        | Status(To-do /InProcess/ToReview/Done) |
+| ---- |-----------------------| --- |----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------|--------------------|---------------------------------------|
+| GW01 | Apartado del Header   | G01 | Header responsivos (Desarrollado en HTML y CSS).         | Desarrollo e implementación de los estilos que corresponden al encabezado (Header). Debe ser responsive.      | 3                  | Diego Huincho      | Done                                  |
+| GW02 | Apartado del Footer   | G02 | Footer responsivos (Desarrollado en HTML y CSS).         | Desarrollo e implementación de los estilos que corresponden al pie de página (Footer). Debe ser responsive.   | 2                  | Nicolas Vera       | Done                                  |
+| GW03 | Apartado Home         | G03 | (Desarrollado en HTML y CSS)                             | Desarrollo e implementación de los estilos que corresponden a la sección Home. Debe ser responsive.           | 3                  | Harold Mayta       | Done                                  |
+| GW04 | Apartado Producto     | G04 | (Desarrollado en HTML y CSS)                             | Desarrollo e implementación de los estilos que corresponden a Producto. Debe ser responsive.                  | 2                  | Valentino Cervante | Done                                  |
+| GW05 | Apartado contacto     | G05 | Sección "Contacto"(Desarrollado en HTML y CSS)           | Desarrollo e implementación de los estilos que corresponden a la sección Testimonios. Debe ser responsive.    | 3                  | Harold Mayta       | Done                                  |
+| GW06 | Sección Sobre equipo  | G06 | Información del equipo (Desarrollado en HTML y CSS)      | Desarrollo e implementación de los estilos que corresponden a la información del equipo. Debe ser responsive. | 3                  | Diego Huincho      | Done                                  |
+| GW07 | Apartado planes       | G07 | Funcionalidad de los Botones(Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a los planes de la página. Debe ser responsive.   | 3                  | Salvador Chamorro  | Done                                  |
+| GW08 | Apartado encabezado   | G08 | Desarrollo responsive de la página                       | Desarrollo e implementación de un estilo responsive en toda la página.                                        | 2                  | Salvador Chamorro  | Done                                  |
+
 #### [5.2.1.3. Development Evidence for Sprint Review.](#development-evidence-for-sprint-review)
+
+| Repository          | Branch               | Commit Id | Commit Message                                 | Commit Message Body | Commited on (Date) |
+|---------------------|----------------------|-----------|------------------------------------------------|---------------------|--------------------|
+| LandingPAge-IRider  | feature/index.html   | a1d1832   | ffeat: Landing Page Header                     | -                   | 11/04/2024         |
+| LandingPAge-IRider  | feature/index.html   | cb61119   | feat: add landing page header                  | -                   | 11/04/2024         |
+| LandingPAge-IRider  | feature/index.html   | 9f59767   | feat: add Home                                 | -                   | 11/04/2024         |
+| LandingPAge-IRider  | feature/index.html   | 72ed56e   | feat: Landing page added About us              | -                   | 11/04/2024         |
+| LandingPAge-IRider  | feature/index.html   | 491b9fe   | feat: implement section's Landing Page product | -                   | 11/04/2024         |
+| LandingPAge-IRider  | feature/index.html   | 8c074f3   | feat: Landing page plans section               | -                   | 11/04/2024         |
+| LandingPAge-IRider  | feature/index.html   | 0cef6a3   | feat: landingPage add team section             | -                   | 11/04/2024         |
+| LandingPAge-IRider  | feature/index.html   | 3e98bf6   | feat: Landing page add Footer section          | -                   | 11/04/2024         |
+| LandingPAge-IRider  | feature/index.html   | 765e7ad   | feat: Landing page add Footer section          | -                   | 11/04/2024         |
+| LandingPAge-IRider  | feature/index.html   | 7241cbb   | feat: add style file for the landin page       | -                   | 12/04/2024         |
+| LandingPAge-IRider  | feature/index.html   | 2b566ab   | feat: (Landing Page) implement responsive      | -                   | 12/04/2024         |
+
 #### [5.2.1.4. Testing Suite Evidence for Sprint Review.](#testing-suite-evidence-for-sprint-review)
+
+Para la entrega del Sprint 1, se trabajó en lograr el desarrollo completo, la implementación y el despliegue del Landing Page. Por lo tanto, la sección de "Testing" se enfocó en la implementación de los archivos de características que contiene nuestra página de aterrizaje.
+
 #### [5.2.1.5. Execution Evidence for Sprint Review.](#execution-evidence-for-sprint-review)
 #### [5.2.1.6. Services Documentation Evidence for Sprint Review.](#services-documentation-evidence-for-sprint-review)
 #### [5.2.1.7. Software Deployment Evidence for Sprint Review.](#software-deployment-evidence-for-sprint-review)
