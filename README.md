@@ -738,6 +738,43 @@ De la misma manera, UniRider también usará una organización  de **forma secue
 ### [4.2.2. Labeling Systems.](#labeling-systems)
 Los encabezados aparecen en las interfaces que no son parte central de la aplicación. Cada uno resume claramente el contenido de la pantalla actual para el usuario. Junto con las imágenes, las secciones del panel de control tienen etiquetas que guían al usuario sobre su contenido. Es por eso que todas las tarjetas en esta vista tienen títulos. En la barra de navegación, siempre se muestran etiquetas textuales para las vistas principales, el panel de control y el registro de procesos.
 ### [4.2.3. SEO Tags and Meta Tags.](#seo-tags-and-meta-tags)
+Las etiquetas meta son herramientas fundamentales para indicar información codificada y definir metadatos en un sitio web. Aunque no son visibles para los usuarios, los navegadores y rastreadores web las interpretan. Estas etiquetas facilitan el análisis de archivos HTML y contribuyen al mantenimiento del contenido del sitio. Además, desempeñan un papel crucial en mejorar el posicionamiento de nuestra página en los motores de búsqueda. Las etiquetas meta que vamos a utilizar son:
+
+
+**Titulo:**
+
+```
+<Title>Register your processes with UniRider</Title>
+```
+
+
+**Codificación de carácteres:**
+
+```
+<meta charset="utf-8">
+```
+
+
+**Descripción:**
+
+```
+<meta name="description" content="UniRider is a web application focused on the transportation of university students carried out by university students, guaranteeing safety and comfort."/>
+```
+
+
+**Palabras Claves:**
+
+```
+<meta name="keywords" content="process, management, application, taxi, security, economic, flexibility"/>
+```
+
+
+**Autor y Derechos de Autor:**
+
+```
+<meta name="author" content="UniRider"/>
+
+<meta name="copyright" content="Copyright UniRider team" />
 ### [4.2.4. Searching Systems.](#searching-systems)
 ### [4.2.5. Navigation Systems.](#navigation-systems)
 ## [4.3. Landing Page UI Design](#landing-page-ui-design)
