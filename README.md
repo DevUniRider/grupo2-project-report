@@ -52,7 +52,7 @@
 
 </div>
 
-<!--
+
 # Registro de Versiones del Informe
 |Versión|Fecha|Autor|Descripción de modificación|
 |---|---|---|---|
@@ -61,9 +61,9 @@
 |||||
 
 # Project Report Collaboration Insights
-URL del repositorio para el reporte del proyecto:
+URL del repositorio para el reporte del proyecto: https://github.com/DevUniRider/grupo2-project-report
 
-### TB1
+**TB1**
 Para elaborar el informe correspondiente a la entrega TB1, se distribuyó la responsabilidad de redactar las distintas secciones de la siguiente manera entre cada miembro del equipo:
 
 |Integrante|Tareas Asignadas|
@@ -89,7 +89,7 @@ Los integrantes del equipo son:
 Explicaciones de las ramas:
 
 
-# Student Outcomes
+**Student Outcomes**
 
 |Criterio específico|Acciones realizadas|Conclusiones|
 |---|---|---|
@@ -178,8 +178,6 @@ Explicaciones de las ramas:
 - [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
 - [8. **Anexos.**](#anexos)
 
-
--->
 
 
 # [Capítulo I: Introducción.](#capítulo-i-introducción)
