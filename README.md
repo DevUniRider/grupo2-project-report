@@ -692,6 +692,8 @@ Brenda
 
 # [Capítulo III: Requirements Specification.](#capítulo-iii-requirements-specification)
 ## [3.1. To-Be Scenario Mapping.](#to-be-scenario-mapping)
+**Segmento Estudiantes Universitarios que necesiten movilizarse**
+![To-Be Scenary Mapping](images/ToBeScenarioMapping1.jpeg) 
 ## [3.2. User Stories.](#user-stories)
 ## [3.3. Impact Mapping.](#impact-mapping)
 ## [3.4. Product Backlog.](#product-backlog)
