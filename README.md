@@ -700,6 +700,8 @@ Brenda
 ## [3.3. Impact Mapping.](#impact-mapping)
 **Segmento Estudiantes Universitarios que necesiten movilizarse**
 ![Impact Mapping 1](images/ImpactMapping1.jpeg) 
+**Segmento Estudiantes Universitarios propietarios de vehículo privado**
+![Impact Mapping 2](images/ImpactMapping2.jpeg) 
 ## [3.4. Product Backlog.](#product-backlog)
 
 # [Capítulo IV: Product Design.](#capítulo-iv-product-design)
