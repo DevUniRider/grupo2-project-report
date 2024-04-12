@@ -93,7 +93,7 @@ Explicaciones de las ramas:
 
 |Criterio específico|Acciones realizadas|Conclusiones|
 |---|---|---|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto eningeniería.|**Valentino Cervantes**<br>TB1:<br><br>**Salvador Chamorro**<br>TB1:<br><br>**Diego Huincho**<br>TB1:<br><br>**Harold Mayta**<br>TB1:<br><br>**Nicolas Vera**<br>TB1:||
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto eningeniería.|**Valentino Cervantes**<br>TB1:<br><br>**Salvador Chamorro**<br>TB1:<br><br>**Diego Huincho**<br>TB1:<br>Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>**Harold Mayta**<br>TB1:<br><br>**Nicolas Vera**<br>TB1:||
  |Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Valentino Cervantes**<br>TB1:<br><br>**Salvador Chamorro**<br>TB1:<br><br>**Diego Huincho**<br>TB1:<br><br>**Harold Mayta**<br>TB1:<br><br>**Nicolas Vera**<br>TB1:||
 
 - [Contenido](#contenido)
