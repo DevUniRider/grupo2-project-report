@@ -219,7 +219,7 @@ La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar d
     <td>
         Mi nombre es Salvador Chamorro. Tengo 21 años y soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Tengo conocimientos en programación e ingeniería de software. Me considero una persona bastante empática y creativa. Considero que mi perfil tiene todo lo necesario para aportar al grupo de trabajo.
     </td>
-    <td><img src="images/"  alt="" width="" height=""></td>
+    <td><img src="images/salvadorfoto.jpg"  alt="" width="100" height="100"></td>
   </tr>
   <tr>
     <td>Mi nombre es Harold Jaime Mayta Lopez. Tengo 20 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo consideroque soy bueno identificando problemáticas y buscando soluciones.</td>
