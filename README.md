@@ -232,7 +232,7 @@ La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar d
   </tr>
  <tr>
       Mi nombre es Valentino Cervantes gusta programar. escuchar música, jugar y leer un poco. Suelo hacer proyectos dedicados a ayudar a personas de mi entorno usando múltiples herramientas de programación. Puedo realizar trabajos de planeamiento e investigación para los proyectos en los que participo. Puedo aportar al equipo mejorando o apoyando en partes difíciles.
-
+<td><img src="images/fotoVal.jpeg" width="100" height="100"></td>
  
   </tr>
     
