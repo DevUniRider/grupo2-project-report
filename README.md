@@ -736,6 +736,7 @@ La organización de **forma jerárquica** presenta al usuario con un orden de im
 
 De la misma manera, UniRider también usará una organización  de **forma secuencial**. De esta manera, se creará un camino que el usuario seguirá paso a paso (step-by-step) y evitará que se pierda o abrume por el contenido.
 ### [4.2.2. Labeling Systems.](#labeling-systems)
+Los encabezados aparecen en las interfaces que no son parte central de la aplicación. Cada uno resume claramente el contenido de la pantalla actual para el usuario. Junto con las imágenes, las secciones del panel de control tienen etiquetas que guían al usuario sobre su contenido. Es por eso que todas las tarjetas en esta vista tienen títulos. En la barra de navegación, siempre se muestran etiquetas textuales para las vistas principales, el panel de control y el registro de procesos.
 ### [4.2.3. SEO Tags and Meta Tags.](#seo-tags-and-meta-tags)
 ### [4.2.4. Searching Systems.](#searching-systems)
 ### [4.2.5. Navigation Systems.](#navigation-systems)
