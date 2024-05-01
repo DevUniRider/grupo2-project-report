@@ -1537,6 +1537,288 @@ Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de
 
 https://github.com/DevUniRider/LandinPAge-URider
 
+### [**5.2.2. Sprint 2.**](#sprint-2)
+#### [**5.2.2.1. Sprint Planning 2.**](#sprint-planning-2)
+| Sprint 2                         | Desarrollo del Frontend.|
+| -------------------------------- | ----------------------------------------------------------- |
+| Sprint Planning Background                                                                     |
+| Date                             | 27/04/2024|
+| Time                             | 22:00 horas (GMT-5)|
+| Location                         | Reunión realizada mediante Discord|
+| Prepared By                      | Mayta Lopez, Harold Jaime	|
+| Attendees (to planning meeting) | <li>Mayta Lopez, Harold Jaime</li>	 <li>Cervantes Erequita, Valentino Sebastian</li> <li>Chamorro Acero, Salvador Edward</li> <li>Huincho Lapa, Diego Arturo</li> <li>Vera Nuñez, Nicolas Alejandro</li>|
+|Resumen|Se diseña e implementa el apartado de frontend. |
+|US Y metas para este sprint|
+| US abarcados<br>(Sprint 2)   |**US-01 (3 point)**<br>Visualizar Inicio de registro:Como Usuario Quiero poder crear mi usuario Para acceder al servicio de carpooling. <br>**US-02 (3 points)**<br>Seleccionar planes de servicio:Como Usuario Quiero seleccionar un plan de servicio Para adquirir los beneficios ofrecidos.<br>**US-03 (5 points)**<br>Realizar pago del plan: Como Usuario Quiero realizar el pago del plan seleccionado Para activar los beneficios ofrecidos.<br>**US-08 (3 points)**<br>VFiltrar viajes disponibles:Como Usuario Quiero poder filtrar los viajes disponibles Para encontrar opciones que se ajusten a mis preferencias.<br>**US-07 (5 points)**<br>Brindar calificaciones:Como Usuario Quiero brindar calificaciones a los conductores designados Para mejorar la experiencia de otros usuarios.<br>**US-09 (3 points)**<br>Ver historial de reservas de viaje: Como Usuario Quiero poder ver mi historial de reservas de viaje Para tener un registro de mis viajes anteriores y cancelaciones.<br>**US-04 (3 points)**<br>Verificar identidad del conductor:Como Usuario Quiero verificar la identidad del conductor Para garantizar mi seguridad durante el viaje.<br>**US-05 (3 points)**<br>Visualizar ruta y detalles del viaje:Como Usuario Quiero ver la ruta y los detalles del viaje Para prepararme adecuadamente y saber qué esperar.<br>**US-06 (8 points)** <br>Establecer Ruta y Horario de viaje: Como Usuario Quiero establecer la ruta y el horario de mi viaje Para planificar y compartir adecuadamente mi viaje.|
+|Goals to achive|**Meta principal**<br> Desarrollar el Frontend Web Application de nuestro proyecto UniRider, el cual cumpla con ser interactico para los usuarios.<br>**Metas especificas**<br> <li>Diseño del formulario de registro y pagina principal </li> <li>Implementacion de la pagina de planes de servicio </li> <li>Integracion de un proceso de compra el cual pida datos esenciales para el proceso </li> <li>Diseño y muestra de la identidad del conductor </li><li>Implementacion del acceso a detalles del viaje y ver las rutas </li> <li>Implemenacion de un proceso que permita establecer una ruta y horario del viaje del usuario </li> <li>Poder filtrar viajes disponibles </li> <li>Implementacion de la pagina de historial de reservas </li>|
+| Sprint 2 Velocity                |  36 points|
+| Sum of Story Points              |  36 points|
+
+#### [**5.2.2.2. Sprint Backlog 2.**](#sprint-backlog-2)
+</table>
+  <table border="1">
+  <tr>
+    <th>ID</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / To-Review / Done)</th>
+  </tr>
+  <tr>
+    <td rowspan="3"> 1</td>
+    <td rowspan="3">US01:Visualizar el inicio de registro</td>
+    <td>1.1</td>
+    <td>Diseño del formulario de registro</td>
+    <td>Diseñar la interfaz del fomulario de registro de usuario</td>
+    <td> 8 hours</td>
+    <td>----</td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>1.2</td>
+    <td>Desarrollo del formulario de registro</td>
+    <td>Desarrollar la logica para el formulario de registro de usuario</td>
+    <td> 12 hours</td>
+    <td>----</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>1.3</td>
+    <td>Diseño de la pagina principal o Menu de incio</td>
+    <td>Diseñar la interfaz de usuario cuando se encuentre en el menu principal de la web aplication</td>
+    <td> 8 hours</td>
+    <td>----</td>
+    <td>Done</td>
+  </tr>
+<tr>
+    <td rowspan="3"> 2 </td>
+    <td rowspan="3">US02:Visualizar y seleccionar planes de servicio</td>
+    <td>2.1</td>
+    <td>Diseño de la pagina de visualización de planes de servicio</td>
+    <td>Diseñar la interfaz de usuario para la visualización de planes de servicio</td>
+    <td> 10 hours</td>
+    <td>----</td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>2.2</td>
+    <td>Diseño de la pagina de selección de plan de servicio</td>
+    <td>Diseñar la interfaz de usuario cuando selecciona la opcion de plan de servicio</td>
+    <td> 10 hours</td>
+    <td>-----</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>2.3</td>
+    <td>Implementación de la funcionalidad de seleccion de plan de servicio</td>
+    <td>Desarrollar la logica para seleccionar un plan de servicio</td>
+    <td> 10 hours</td>
+    <td>----</td>
+    <td>Done</td>
+  </tr>
+<tr>
+    <td rowspan="2"> 3 </td>
+    <td rowspan="2">US03:Diseño de la pagina de pago de plan de servicio</td>
+    <td>3.1</td>
+    <td>Diseño de la pagina de pago de plan de servicio</td>
+    <td>Diseñar la interfaz de usuario para realizar el pago del plan se servicio</td>
+    <td> 8 hours</td>
+    <td>----</td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>3.2</td>
+    <td>Implementación de la funcionalidad de pago del plan de servicio</td>
+    <td>Desarrollar la lógica para procesar el pago del plan de servicio</td>
+    <td> 12 hours</td>
+    <td>----</td>
+    <td>To-do</td>
+  </tr>
+<tr>
+    <td rowspan="2"> 4 </td>
+    <td rowspan="2">US04:Verificar la identidad del conductor</td>
+    <td>4.1</td>
+    <td>Diseño de la pagina de verificación de identidad del condcutor</td>
+    <td>Diseñar la interfaz de usuario para verificar la identidad del conductor</td>
+    <td> 6 hours</td>
+    <td>----</td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>4.2</td>
+    <td>Implementación de la funcionalidad de verificación de identidad del conductor</td>
+    <td>Desarrollar la logica para verificar la identidad del conductor</td>
+    <td> 10 hours</td>
+    <td>----</td>
+    <td>To do</td>
+  </tr>  
+<tr>
+    <td rowspan="2"> 5 </td>
+    <td rowspan="2">US05:Visualizar ruta y detalles del viaje</td>
+    <td>5.1</td>
+    <td>Diseño de la pagina de visualización de ruta y detalles del viaje</td>
+    <td>Diseñar la interfaz de usuario para mostrar la ruta y los detalles del viaje</td>
+    <td> 6 hours</td>
+    <td> Harold </td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>5.2</td>
+    <td>Implementación de la funcionalidad de visualización de ruta y detalles del viaje</td>
+    <td>Desarrollar la lógica para mostrar la ruta y los detalles del viaje</td>
+    <td> 8 hours</td>
+    <td> Harold   </td>
+    <td>To-do</td>
+  </tr>
+<tr>
+    <td rowspan="2"> 6 </td>
+    <td rowspan="2">US06:Establecer ruta y horario del viaje</td>
+    <td>6.1</td>
+    <td>Diseño de la pagina de establecimiento de ruta y horario de viaje</td>
+    <td>Diseñar la interfaz de usuario para establecer la ruta y el horario de viaje</td>
+    <td> 8 hours</td>
+    <td>---</td>
+    <td>To-do</td>
+  </tr>
+   <tr>
+    <td>6.2</td>
+    <td>Implementacion de la funcionalidad de establecimiento de ruta y horario de viaje</td>
+    <td>Desarrollar la logica para establecer los parametros solicitados</td>
+    <td> 10 hours</td>
+    <td>----</td>
+    <td>To-do</td>
+  </tr> 
+<tr>
+    <td rowspan="2"> 7 </td>
+    <td rowspan="2">US07:Brindar calificaciones</td>
+    <td>7.1</td>
+    <td>Diseño de la pagina de calificacion de conductores</td>
+    <td>Diseñar la interfaz de usuario para calificar a los conductores</td>
+    <td> 8 hours</td>
+    <td> Harold </td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>7.2</td>
+    <td>Implementacion de la funcionalidad de calificación de conductor</td>
+    <td>Desarrollar la lógica para calificar a los conductores</td>
+    <td> 12 hours</td>
+    <td> Harold   </td>
+    <td>To do</td>
+  </tr> 
+<tr>
+    <td rowspan="2"> 8 </td>
+    <td rowspan="2">US08:Filtrar viajes disponibless</td>
+    <td>8.1</td>
+    <td>Diseño de la pagina de filtrado de viajes disponibles</td>
+    <td>Desarrollar la lógica para filtrar los viajes disponibles</td>
+    <td> 9 hours</td>
+    <td>----</td>
+    <td>To-do</td>
+  </tr>
+   <tr>
+    <td>7.2</td>
+    <td>Implementación de la funcionalidad de filtrado de viajes disponibles</td>
+    <td>Desarrollar los parametros solicitados</td>
+    <td> 10 hours</td>
+    <td>----</td>
+    <td>To-do</td>
+  </tr> 
+<tr>
+    <td rowspan="2"> 9 </td>
+    <td rowspan="2">US09:Ver historial de reservas de viaje</td>
+    <td>9.1</td>
+    <td>Diseño de la pagina de visualización del historial de reservas de viaje</td>
+    <td>Diseñar la interfaz de usuario para ver el historial de reservas de viaje</td>
+    <td> 10 hours</td>
+    <td>----</td>
+    <td> To do </td>
+  </tr>
+   <tr>
+    <td>9.2</td>
+    <td>Implementación de la funcionalidad de visualizacion del historial de reservas de viaje</td>
+    <td>Desarrollar la logica que permita mostrar el historial de reservas</td>
+    <td> 10 hours</td>
+    <td>----- </td>
+    <td>To do</td>
+  </tr> 
+</table>
+
+#### [**5.2.2.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
+
+| Repository | Branch           | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| -----------| ---------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| frontend-web |feature/frontend-web|| | -||
+| frontend-web |feature/frontend-web||| -||
+| frontend-web |feature/frontend-web||| -||
+| frontend-web |feature/frontend-web||| -||
+| frontend-web |feature/frontend-web|| | -||
+| frontend-web |feature/frontend-web||| -||
+| frontend-web |feature/frontend-web|| | -||
+| frontend-web |feature/frontend-web||| -||
+| frontend-web |feature/frontend-web||| -||
+| frontend-web |feature/frontend-web||| -||
+| frontend-web |feature/frontend-web|| | -||
+| frontend-web |feature/frontend-web||| -||
+
+
+#### [**5.2.2.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-for-sprint-review)
+
+Para la entrega del sprint 2 se intento alcanzar el desarrollo del diseño, implementacion y despliegue de la primera version del Frontend. Es por ello que la sección de "Testing" se centro en la implementación de los archivos feature que contiene nuestro diseño de Frontend.
+
+#### [**5.2.2.5. Execution Evidence for Sprint Review 2.**](#execution-evidence-for-sprint-review)
+
+En este Sprint(Sprint 2), se logro desarrollar el frontend web application del proyecto UniRider, el cual cuenta con el proposito de ser un producto intuitivo y que pemita cubrir el proposito de brindar un servicio de carpooling beneficioso para estudiantes.<br>
+URL video evidencia implementación del sprint:<br>
+
+<!--![Evidence](images/evidenciaVideo.jpeg)
+Link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215313_upc_edu_pe/EcSQ2LNcUvhNs43PwiJVqX0BK14400duZZWK3Fb18Q6oZw?e=fh2ijx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D-->
+
+**Evidencia de implementación por cada US#**<br>
+**US01:Visualizar el inicio de registro**<br>
+Como Usuario Quiero poder crear mi usuario Para acceder al servicio de carpooling.<br>
+<!--![US01](images/FrontEnd1.jpeg)<br>-->
+**US02:Visualizar y seleccionar planes de servicio**<br>
+Como Usuario Quiero seleccionar un plan de servicio Para adquirir los beneficios ofrecidos.<br>
+<!--![US04](images/FrontEnd4.jpeg)<br>-->
+**US03:Diseño de la pagina de pago de plan de servicio**<br>
+Como Usuario Quiero realizar el pago del plan seleccionado Para activar los beneficios ofrecidos.<br>
+<!--![US05](images/FrontEnd5.jpeg)<br>-->
+**US04:Verificar la identidad del conductor**<br>
+Como Usuario Quiero verificar la identidad del conductor Para garantizar mi seguridad durante el viaje<br>
+<!--![US06](images/FrontEnd6.jpeg)<<br>-->
+**US05:Visualizar ruta y detalles del viaje**<br>
+Como Usuario Quiero ver la ruta y los detalles del viaje Para prepararme adecuadamente y saber qué esperar<br>
+<!--![US06](images/FrontEnd6.jpeg)<br>-->
+**US07:Brindar calificaciones**<br>
+Como Usuario Quiero brindar calificaciones a los conductores designados Para mejorar la experiencia de otros usuarios.<br>
+<!--![US06](images/FrontEnd7.jpeg)<br>-->
+
+#### [**5.2.2.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
+
+Por el momento no tenemos evidencia de la documentación de nuestros servicios,debido a ser el segundo sprint en donde hemos trabajado unicamente en el apartado del Front-end.
+
+#### [**5.2.2.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
+En este Sprint (Sprint 2), se logró desarrollar el forntend web application del proyecto UniRider, el cual cuenta con el proposito de ser un producto intutivo y que permite cubrir el proposito de brindar un servicio de carpooling beneficioso para estudiantes.<br>
+En cuanto al Deployment de este producto para el Sprint 2, se desplegó nuestro Frontend mediante FireBase<br>
+
+<!--[Evidencias](https://uniridertb1.web.app/)-->
+
+#### [**5.2.2.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
+
+**En FrontEnd Web Application**<br>
+Durante el desarrollo de este sprint 2, todos los integrantes de UniRider colaboramos de manera activa y continua para la elaboración de las task correspondientes.<br> 
+Mostramos la evidencia de los avances:<br>
+
+
+<!--![Evidenciateam](images/evidenciaCommits1.png)-->
+<!--![Evidenciateam](images/evidenciaCommits2.jpeg)-->
+<!--![Evidenciateam](images/evidenciaCommits3.png)-->
+
+
 # [6.Conclusiones.](#conclusiones)
 
 La efectividad de la comunicación, ya sea hablada o escrita, ha sido esencial para el progreso del proyecto. La fluidez en las conversaciones ha permitido una comprensión compartida de los objetivos y ha fomentado la colaboración entre los miembros del equipo. Este enfoque continuará promoviéndose para mantener el avance y la cohesión del grupo. Por otro lado, la comunicación por escrito ha sido crucial para documentar el progreso y clarificar los resultados esperados. Mantener un estilo claro y conciso en la comunicación escrita seguirá siendo prioritario para garantizar la eficacia y calidad del trabajo. En resumen, tanto la comunicación oral como escrita se complementan para crear un ambiente de trabajo productivo y colaborativo, donde las ideas fluyen y se alcanzan los objetivos del proyecto de manera eficiente.
