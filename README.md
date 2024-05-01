@@ -62,6 +62,9 @@
 |V0.3|10/04/2024|Salvador<br>Diego<br>Valentino|Capitulo 4|
 |V0.4|11/04/2024|Nicolas<br>Harold<br>Salvador<br>Diego<br>Valentino|Capitulo 5 y ultimos ajuste|
 |V1.0|12/04/2024|Nicolas<br>Harold<br>Salvador<br>Diego<br>Valentino|Revision final y entrega TB1.|
+|||||
+|||||
+
 
 # Project Report Collaboration Insights
 URL del repositorio para el reporte del proyecto: https://github.com/DevUniRider/grupo2-project-report
@@ -76,6 +79,21 @@ Para elaborar el informe correspondiente a la entrega TB1, se distribuyó la res
 |Diego Huincho|Style Guidelines.<br>General Style Guidelines.<br>Web Style Guidelines.<br>Information Architecture.<br>Organization Systems.<br>Labeling Systems.<br>SEO Tags and Meta Tags<br>Searching Systems.<br>Navigation Systems.<br>Landing Page UI Design.<br>Landing Page Wireframe.<br>Landing Page<br>Sprint 1|
 |Harold Mayta|Startup Profile<br>Startup Profile<br><br>Solution Profile<br>Antecedentes y problemática<br>Lean UX Process.<br>Lean UX Problem Statements.<br>Lean UX Assumptions.<br>Lean UX Hypothesis Statements.<br>Lean UX Canvas.<br>Segmentos objetivo.<br>Software Configuration Management.<br>Software Development Environment Configuration.<br>Source Code Management.<br>Source Code Style Guide & Conventions.<br>Software Deployment Configuration.<br>Landing Page, Services & Applications Implementation.<br>Landing Page<br>Sprint 1|
 |Nicolas Vera|Análisis competitivo.<br>Estrategias y tácticas frente a competidores.<br>Entrevistas.<br>Diseño de entrevistas.<br>Registro de entrevistas.<br>Análisis de entrevistas.<br>Needfinding.<br>User Personas.<br>User Task Matrix.<br>User Journey Mapping.<br>Empathy Mapping.<br>As-is Scenario Mapping.<br>Ubiquitous Language.<br>Sprint 1|
+
+![TB1 Evidencia](images/commitsevi1.PNG)
+
+**TP**
+Para elaborar el informe correspondiente a la entrega TP, se distribuyó la responsabilidad de realizar el sprint 2 de la siguiente manera:
+
+|Integrante|Tareas Asignadas|
+|---|---|
+|Valentino Cervantes||
+|Salvador Chamorro||
+|Diego Huincho||
+|Harold Mayta||
+|Nicolas Vera||
+
+<!-- ![TB1 Evidencia](images/) -->
 
 La colaboración en la creación del informe se llevó a cabo a través de una serie de contribuciones constantes al repositorio de la organización UniRider.
 
@@ -93,8 +111,8 @@ Los integrantes del equipo son:
 
 |Criterio específico|Acciones realizadas|Conclusiones|
 |---|---|---|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto eningeniería.|**Valentino Cervantes**<br>TB1:Durante el proceso de creación de los mapas de empatia, persona y diagrama de clases, pude reconocer diversos factores dentro del negocio que son importantes idas las cuales pudimos conversarlo en reuniones<br><br>**Salvador Chamorro**<br>TB1:<br>Durante esta primera etapa del proyecto ha sido de mucha importancia la comunicacion activa tanto entre integrantes del proyecto como con los clientes, y gracias a esto hemos podido empezar con un proyecto bien estructurado y autosostenible.<br>**Diego Huincho**<br>TB1:<br>Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>**Harold Mayta**<br>TB1:<br>Se realizo reuniones con el objetivo de planificar la ruta de trabajo asi como el desarrollo de las sentrevistas a nuestro futuro publico objetivo. Se participo activamente en lluvia de ideas para claer los planes de servicio y la linea de trabajo.<br>**Nicolas Vera**<br>TB1:<br>Durante el proceso de desarrollo de nuestra prototipo para nuestro futuros clientes, he terminado comprendiedno la importancia que tiene sus necesidades y deseos.Ademas, esta comprension ha mejorado gracias a distirnas charlas y reuniones que he tenido con mis compañeros de trabajo con la finalidad de poder presentar una solucion innovadora para los clientes.|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Valentino Cervantes**<br>TB1:Este enfoque de grupo me permitió compartir ideas y en general establecer un marco de trabajo colaborativo eficiente dado que pude tener retroalimentaciones de cada parte que hacia<br><br>**Salvador Chamorro**<br>TB1:<br>Gracias al correcto trabajo en equipo hemos podido lograr todos los objetivos propuestos que nos han llevado a lograr esta primera etapa del proyecto.<br>**Diego Huincho**<br>TB1:<br>Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas<br>**Harold Mayta**<br>TB1:<br>Se realizo la separacionde trabajos de acuerdo a las competencias de cada integrante, se diseño la entrevista para nuestro publico objetivo, tambien la redaccion de los capitulos relacionados a la implementacion, valdacion. Se participo activamente del diseño de producto.<br>**Nicolas Vera**<br>TB1:<br>Gracias al correcto trabajo en equipo que hemos realizado nos ha permitido crear un prototipo que supera las expectativas de nuestros clientes; ya que ofrecemos soluciones innovadoras que resuelven problemas que son evidenciados en la actualidad. |La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto eningeniería.|**Valentino Cervantes**<br>TB1:Durante el proceso de creación de los mapas de empatia, persona y diagrama de clases, pude reconocer diversos factores dentro del negocio que son importantes idas las cuales pudimos conversarlo en reuniones.<br>TP:<br><br>**Salvador Chamorro**<br>TB1:<br>Durante esta primera etapa del proyecto ha sido de mucha importancia la comunicacion activa tanto entre integrantes del proyecto como con los clientes, y gracias a esto hemos podido empezar con un proyecto bien estructurado y autosostenible.<br>TP:<br><br>**Diego Huincho**<br>TB1:<br>Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>TP:<br><br>**Harold Mayta**<br>TB1:<br>Se realizo reuniones con el objetivo de planificar la ruta de trabajo asi como el desarrollo de las sentrevistas a nuestro futuro publico objetivo. Se participo activamente en lluvia de ideas para claer los planes de servicio y la linea de trabajo.<br>TP:<br><br>**Nicolas Vera**<br>TB1:<br>Durante el proceso de desarrollo de nuestra prototipo para nuestro futuros clientes, he terminado comprendiedno la importancia que tiene sus necesidades y deseos.Ademas, esta comprension ha mejorado gracias a distirnas charlas y reuniones que he tenido con mis compañeros de trabajo con la finalidad de poder presentar una solucion innovadora para los clientes.|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Valentino Cervantes**<br>TB1:Este enfoque de grupo me permitió compartir ideas y en general establecer un marco de trabajo colaborativo eficiente dado que pude tener retroalimentaciones de cada parte que hacia.<br>TP:<br><br>**Salvador Chamorro**<br>TB1:<br>Gracias al correcto trabajo en equipo hemos podido lograr todos los objetivos propuestos que nos han llevado a lograr esta primera etapa del proyecto.<br>TP:<br><br>**Diego Huincho**<br>TB1:<br>Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas.<br>TP:<br><br>**Harold Mayta**<br>TB1:<br>Se realizo la separacionde trabajos de acuerdo a las competencias de cada integrante, se diseño la entrevista para nuestro publico objetivo, tambien la redaccion de los capitulos relacionados a la implementacion, valdacion. Se participo activamente del diseño de producto.<br>TP:<br><br>**Nicolas Vera**<br>TB1:<br>Gracias al correcto trabajo en equipo que hemos realizado nos ha permitido crear un prototipo que supera las expectativas de nuestros clientes; ya que ofrecemos soluciones innovadoras que resuelven problemas que son evidenciados en la actualidad.<br>TP:|La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
 
 - [Contenido](#contenido)
 
@@ -174,6 +192,15 @@ Los integrantes del equipo son:
       - [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
       - [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
       - [**5.2.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
+    - [**5.2.2. Sprint 2.**](#522-sprint-2)
+      - [**5.2.2.1. Sprint Planning 1.**](#5221-sprint-planning-2)
+      - [**5.2.2.2. Sprint Backlog 1.**](#5222-sprint-backlog-2)
+      - [**5.2.2.3. Development Evidence for Sprint Review.**](#5223-development-evidence-for-sprint-review)
+      - [**5.2.2.4. Testing Suite Evidence for Sprint Review.**](#5224-testing-suite-evidence-for-sprint-review)
+      - [**5.2.2.5. Execution Evidence for Sprint Review.**](#5225-execution-evidence-for-sprint-review)
+      - [**5.2.2.6. Services Documentation Evidence for Sprint Review.**](#5226-services-documentation-evidence-for-sprint-review)
+      - [**5.2.2.7. Software Deployment Evidence for Sprint Review.**](#5227-software-deployment-evidence-for-sprint-review)
+      - [**5.2.2.8. Team Collaboration Insights during Sprint.**](#5228-team-collaboration-insights-during-sprint)
 - [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 - [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
 - [8. **Anexos.**](#anexos)
@@ -208,34 +235,28 @@ La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar d
     <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td><img src="images/" alt="" width="" height=""></td>
-  </tr>
-  <tr>
+    <td><img src="images/Nicolas.png" alt="100" width="100" height="100"></td>
     <td>Mi nombre es Nicolas Alejandro Vera Nuñez. Tengo 19 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar en grupo, además soy una persona muy detallista. En cuanto a cualidades para la realización del trabajo considero que soy bueno haciendo los user personas, distintos diagramas y programando. En mi ratos libres me gusta jugar videojuegos o jugar futbol.
     </td>
-    <td><img src="images/Nicolas.png" alt="" width="" height=""></td>
   </tr>
   <tr>
+    <td><img src="images/salvadorfoto.jpg"  alt="" width="100" height="100"></td>
     <td>
         Mi nombre es Salvador Chamorro. Tengo 21 años y soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Tengo conocimientos en programación e ingeniería de software. Me considero una persona bastante empática y creativa. Considero que mi perfil tiene todo lo necesario para aportar al grupo de trabajo.
     </td>
-    <td><img src="images/salvadorfoto.jpg"  alt="" width="100" height="100"></td>
   </tr>
   <tr>
-    <td>Mi nombre es Harold Jaime Mayta Lopez. Tengo 20 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo consideroque soy bueno identificando problemáticas y buscando soluciones.</td>
     <td><img src="images/Harold.jpg" alt="" width="100" height="100"></td>
+    <td>Mi nombre es Harold Jaime Mayta Lopez. Tengo 20 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo consideroque soy bueno identificando problemáticas y buscando soluciones.</td>
   </tr>
   <tr>
+      <td><img src="images/diego.jpg" width="100" height="100"></td>
       <td>Mi nombre es Diego Arturo Huincho Lapa. Tengo 22 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser detallista y responsable. En cuanto a cualidades para la realización del trabajo considero que soy bueno haciendo los mockups de la app. En mi ratos libres me gusta jugar videojuegos o mirar una serie o pelicula.</td>
-    <td><img src="images/diego.jpg" width="100" height="100"></td>
   </tr>
      <tr>
+      <td><img src="images/fotoVal.jpeg" width="100" height="100"></td>
       <td>Mi nombre es Valentino Cervantes gusta programar. escuchar música, jugar y leer un poco. Suelo hacer proyectos dedicados a ayudar a personas de mi entorno usando múltiples herramientas de programación. Puedo realizar trabajos de planeamiento e investigación para los proyectos en los que participo. Puedo aportar al equipo mejorando o apoyando en partes difíciles.</td>
-    <td><img src="images/fotoVal.jpeg" width="100" height="100"></td>
   </tr>
-
-    
 </table>
 
 ## [1.2 Solution Profile](#solution-profile)
@@ -246,6 +267,8 @@ La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar d
 _¿Cuál es el problema?_
 
 El problema radica en la ausencia de una herramienta enfocada en el transporte universitario. Es conocido que la mayoria de  estudiantes residen en zonas alejadas a sus respectivos campus. Para llegar, suelen depender de autobuses con tiempos de espera y paradas prolongadas, lo que resulta en pérdida de tiempo durante el trayecto. Esto, con la intención de reducir los gastos de transporte a largo plazo, pero a expensas de enfrentar inseguridad, incomodidad y pérdida de tiempo debido al transporte público.
+
+Además, es importante destacar que la seguridad es una preocupación primordial para los estudiantes universitarios. El uso de servicios de UniRider ofrece una alternativa que no solo reduce los costos de transporte, sino que también aborda las preocupaciones de seguridad. Al compartir viajes con compañeros de clase o miembros de la comunidad universitaria, se crea un entorno de viaje más seguro y cómodo.
 
 **Where (Dónde)**
 
