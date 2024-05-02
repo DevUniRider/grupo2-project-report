@@ -88,7 +88,7 @@ Para elaborar el informe correspondiente a la entrega TP, se distribuyó la resp
 |Integrante|Tareas Asignadas|
 |---|---|
 |Valentino Cervantes||
-|Salvador Chamorro||
+|Salvador Chamorro|<ul><li>Diseñar la interfaz de usuario cuando vaya a realizar algun pago e implementacion</li><li>Diseñar la interfaz de usuario para la visualización de los servicios que ofrece UniRider e implementacion</li></ul>|
 |Diego Huincho|<ul><li>Diseñar la interfaz de usuario cuando se encuentre en el menu principal de la web aplication</li> <li>Diseñar la interfaz de usuario para la visualización de planes de servicio</li></ul>|
 |Harold Mayta||
 |Nicolas Vera|<ul><li>Diseñar la interfaz del formulario de inicio de sesion del usuario</li><li>Desarrollar la logica para el formulario inicio de sesion del usuario</li><li>Diseñar la interfaz del formulario de registro de usuario</li><li>Desarrollar la logica para el formulario de registro de usuario</li><li>Realizar el Routeo de la mayoria de los componentes</li></ul>|
