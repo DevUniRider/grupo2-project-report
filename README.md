@@ -62,10 +62,10 @@
 |V0.3|10/04/2024|Salvador<br>Diego<br>Valentino|Capitulo 4|
 |V0.4|11/04/2024|Nicolas<br>Harold<br>Salvador<br>Diego<br>Valentino|Capitulo 5 y ultimos ajuste|
 |V1.0|12/04/2024|Nicolas<br>Harold<br>Salvador<br>Diego<br>Valentino|Revision final y entrega TB1.|
-|V1.1|25/04/2024|Carlos<br>Salvador<br>Valentino<br> Harold<br> Diego|Mejoras del Informe|
-|V1.2|26/04/2024|Carlos<br>Salvador<br>Valentino<br> Harold<br> Diego|Creacion y desarrollo del Sprint 2|
+|V1.1|25/04/2024|Nicolas<br>Salvador<br>Valentino<br> Harold<br> Diego|Mejoras del Informe|
+|V1.2|26/04/2024|Nicolas<br>Salvador<br>Valentino<br> Harold<br> Diego|Creacion y desarrollo del Sprint 2|
 |V1.3|29/04/2024|Valentino <br> Harold<br> Carlos|Implementacion de imagenes de evidendica|
-|V2.0|02/05/2024|Carlos<br>Salvador<br>Valentino<br> Harold<br> Diego|Finalización del Sprint 2|
+|V2.0|02/05/2024|Nicolas<br>Salvador<br>Valentino<br> Harold<br> Diego|Finalización del Sprint 2|
 
 
 # Project Report Collaboration Insights
@@ -1576,7 +1576,7 @@ https://github.com/DevUniRider/LandinPAge-URider
     <td>Diseño del formulario de registro</td>
     <td>Diseñar la interfaz del fomulario de registro de usuario</td>
     <td> 8 hours</td>
-    <td>----</td>
+    <td>Nicolas</td>
     <td>Done</td>
   </tr>
    <tr>
@@ -1584,7 +1584,7 @@ https://github.com/DevUniRider/LandinPAge-URider
     <td>Desarrollo del formulario de registro</td>
     <td>Desarrollar la logica para el formulario de registro de usuario</td>
     <td> 12 hours</td>
-    <td>----</td>
+    <td>Nicolas</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -1592,7 +1592,7 @@ https://github.com/DevUniRider/LandinPAge-URider
     <td>Diseño de la pagina principal o Menu de incio</td>
     <td>Diseñar la interfaz de usuario cuando se encuentre en el menu principal de la web aplication</td>
     <td> 8 hours</td>
-    <td>----</td>
+    <td>Diego</td>
     <td>Done</td>
   </tr>
 <tr>
@@ -1602,7 +1602,7 @@ https://github.com/DevUniRider/LandinPAge-URider
     <td>Diseño de la pagina de visualización de planes de servicio</td>
     <td>Diseñar la interfaz de usuario para la visualización de planes de servicio</td>
     <td> 10 hours</td>
-    <td>----</td>
+    <td>Diego</td>
     <td>Done</td>
   </tr>
    <tr>
@@ -1610,7 +1610,7 @@ https://github.com/DevUniRider/LandinPAge-URider
     <td>Diseño de la pagina de selección de plan de servicio</td>
     <td>Diseñar la interfaz de usuario cuando selecciona la opcion de plan de servicio</td>
     <td> 10 hours</td>
-    <td>-----</td>
+    <td>Salvdor</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -1628,7 +1628,7 @@ https://github.com/DevUniRider/LandinPAge-URider
     <td>Diseño de la pagina de pago de plan de servicio</td>
     <td>Diseñar la interfaz de usuario para realizar el pago del plan se servicio</td>
     <td> 8 hours</td>
-    <td>----</td>
+    <td>Salvador</td>
     <td>Done</td>
   </tr>
    <tr>
@@ -1646,7 +1646,7 @@ https://github.com/DevUniRider/LandinPAge-URider
     <td>Diseño de la pagina de verificación de identidad del condcutor</td>
     <td>Diseñar la interfaz de usuario para verificar la identidad del conductor</td>
     <td> 6 hours</td>
-    <td>----</td>
+    <td>valentino</td>
     <td>Done</td>
   </tr>
    <tr>
@@ -1736,7 +1736,7 @@ https://github.com/DevUniRider/LandinPAge-URider
     <td>Diseño de la pagina de visualización del historial de reservas de viaje</td>
     <td>Diseñar la interfaz de usuario para ver el historial de reservas de viaje</td>
     <td> 10 hours</td>
-    <td>----</td>
+    <td>valentino</td>
     <td> To do </td>
   </tr>
    <tr>
@@ -1753,18 +1753,28 @@ https://github.com/DevUniRider/LandinPAge-URider
 
 | Repository | Branch           | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
 | -----------| ---------------- | --------- | -------------------------------- | ------------------- | ------------------ |
-| frontend-web |feature/frontend-web|| | -||
-| frontend-web |feature/frontend-web||| -||
-| frontend-web |feature/frontend-web||| -||
-| frontend-web |feature/frontend-web||| -||
-| frontend-web |feature/frontend-web|| | -||
-| frontend-web |feature/frontend-web||| -||
-| frontend-web |feature/frontend-web|| | -||
-| frontend-web |feature/frontend-web||| -||
-| frontend-web |feature/frontend-web||| -||
-| frontend-web |feature/frontend-web||| -||
-| frontend-web |feature/frontend-web|| | -||
-| frontend-web |feature/frontend-web||| -||
+| frontend-web |feature/frontend-web|de3d05f|feat(map-card & travel-info-card): implments map and travel information card.| -||
+| frontend-web |feature/frontend-web|cbfb4c1|feat(login): implement login component| -||
+| frontend-web |feature/frontend-web|f7967a5|feat(welcome): implement welcome component & a user entity| -||
+| frontend-web |feature/frontend-web|e6ad092|feat(register-user): implement register-user component, add imagen logoUniRider & change the style.css| -||
+| frontend-web |feature/frontend-web|35d27e7|fix(login-user): change image path | -||
+| frontend-web |feature/frontend-web|94ce625|fix(map):iamgen route| -||
+| frontend-web |feature/frontend-web|5ac4ae0|fix(map):update travel information. | -||
+| frontend-web |feature/frontend-web|4af15fc|feat(qualify):add component to rate the driver| -||
+| frontend-web |feature/frontend-web|342ab53|fix(map):update travel information.| -||
+| frontend-web |feature/frontend-web|ee40184|feat(qualify):add component to rate the driver| -||
+| frontend-web |feature/frontend-web|98974a7| feat(payments): added payment page and ui| -||
+| frontend-web |feature/frontend-web|aa777ae|feat(page): add card for record, record page and and user's chosee page.| -||
+| frontend-web |feature/frontend-web|fc33ed6|feat(suscription and home): add subscription cards and the page component| -||
+| frontend-web |feature/frontend-web|e20f7d6|feat(maps-page):add maps page component| -||
+| frontend-web |feature/frontend-web|4907273|feat(index.js): add more paths to router components| -||
+| frontend-web |feature/frontend-web|e1a8f93|feat(toolbar): create toolbar component| -||
+| frontend-web |feature/frontend-web|be88f90|feat(login-user,maps-pages,App.vue): change the style of logins-user, add the toolbar to maps-pages & change ths structure of App.vue| -||
+| frontend-web |feature/frontend-web|df548cd|fix(register-user.component): change the style & add a new method| -||
+| frontend-web |feature/frontend-web|0153f5d|featUniRiderServicesUI): added UniRiderServicest page and ui| -||
+| frontend-web |feature/frontend-web|6953bc0|fix(routers & record-view):images paths & router components| -||
+
+
 
 
 #### [**5.2.2.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-for-sprint-review)
@@ -1776,8 +1786,8 @@ Para la entrega del sprint 2 se intento alcanzar el desarrollo del diseño, impl
 En este Sprint(Sprint 2), se logro desarrollar el frontend web application del proyecto UniRider, el cual cuenta con el proposito de ser un producto intuitivo y que pemita cubrir el proposito de brindar un servicio de carpooling beneficioso para estudiantes.<br>
 URL video evidencia implementación del sprint:<br>
 
-<!--![Evidence](images/evidenciaVideo.jpeg)
-Link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215313_upc_edu_pe/EcSQ2LNcUvhNs43PwiJVqX0BK14400duZZWK3Fb18Q6oZw?e=fh2ijx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D-->
+
+Link:https:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/EbfgesGHzGZDpKChw5tprTEBfmSIQHlfaeBOfuu9xOa7OQ?e=3hVOFI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **Evidencia de implementación por cada US#**<br>
 **US01:Visualizar el inicio de registro**<br>
