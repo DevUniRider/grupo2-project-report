@@ -91,7 +91,7 @@ Para elaborar el informe correspondiente a la entrega TP, se distribuyó la resp
 |Salvador Chamorro||
 |Diego Huincho|<ul><li>Diseñar la interfaz de usuario cuando se encuentre en el menu principal de la web aplication</li> <li>Diseñar la interfaz de usuario para la visualización de planes de servicio</li></ul>|
 |Harold Mayta||
-|Nicolas Vera||
+|Nicolas Vera|<ul><li>Diseñar la interfaz del formulario de inicio de sesion del usuario</li><li>Desarrollar la logica para el formulario inicio de sesion del usuario</li><li>Diseñar la interfaz del formulario de registro de usuario</li><li>Desarrollar la logica para el formulario de registro de usuario</li><li>Realizar el Routeo de la mayoria de los componentes</li></ul>|
 
 <!-- ![TB1 Evidencia](images/) -->
 
