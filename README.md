@@ -87,7 +87,7 @@ Para elaborar el informe correspondiente a la entrega TP, se distribuyó la resp
 
 |Integrante|Tareas Asignadas|
 |---|---|
-|Valentino Cervantes||
+|Valentino Cervantes|<ul><li>Diseñar la interfaz de usuario para ver su historial de viajes e implementacion en vue</li><li>Diseñar la interfaz de usuario para el regirstro de un conductor e implementacion en vue</li></ul>|
 |Salvador Chamorro|<ul><li>Diseñar la interfaz de usuario cuando vaya a realizar algun pago e implementacion</li><li>Diseñar la interfaz de usuario para la visualización de los servicios que ofrece UniRider e implementacion</li></ul>|
 |Diego Huincho|<ul><li>Diseñar la interfaz de usuario cuando se encuentre en el menu principal de la web aplication</li> <li>Diseñar la interfaz de usuario para la visualización de planes de servicio</li></ul>|
 |Harold Mayta||
