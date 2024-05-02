@@ -89,7 +89,7 @@ Para elaborar el informe correspondiente a la entrega TP, se distribuyó la resp
 |---|---|
 |Valentino Cervantes||
 |Salvador Chamorro||
-|Diego Huincho||
+|Diego Huincho|<ul><li>Diseñar la interfaz de usuario cuando se encuentre en el menu principal de la web aplication</li> <li>Diseñar la interfaz de usuario para la visualización de planes de servicio</li></ul>|
 |Harold Mayta||
 |Nicolas Vera||
 
