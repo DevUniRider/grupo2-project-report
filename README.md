@@ -8,13 +8,13 @@
   <p align="center">
     Ingeniería de Software - 202401
     <br />
-    SW58 - Desarollo de Apliaciones Open Source
+    wx56 - Aplicaciones Web
     <br />
-    Docente: Efraín Ricardo Bautista Ubilús
+    Alex Humberto Sánchez Ponce
     <br />
     Informe de Trabajo Final
     <br />
-    Startup: 
+    Startup: UniRider
     <br />
     Proyecto: UniRider
   </p>
@@ -62,6 +62,11 @@
 |V0.3|10/04/2024|Salvador<br>Diego<br>Valentino|Capitulo 4|
 |V0.4|11/04/2024|Nicolas<br>Harold<br>Salvador<br>Diego<br>Valentino|Capitulo 5 y ultimos ajuste|
 |V1.0|12/04/2024|Nicolas<br>Harold<br>Salvador<br>Diego<br>Valentino|Revision final y entrega TB1.|
+|V1.1|25/04/2024|Nicolas<br>Salvador<br>Valentino<br> Harold<br> Diego|Mejoras del Informe|
+|V1.2|26/04/2024|Nicolas<br>Salvador<br>Valentino<br> Harold<br> Diego|Creacion y desarrollo del Sprint 2|
+|V1.3|29/04/2024|Valentino <br> Harold<br> Carlos|Implementacion de imagenes de evidendica|
+|V2.0|02/05/2024|Nicolas<br>Salvador<br>Valentino<br> Harold<br> Diego|Finalización del Sprint 2|
+
 
 # Project Report Collaboration Insights
 URL del repositorio para el reporte del proyecto: https://github.com/DevUniRider/grupo2-project-report
@@ -76,6 +81,21 @@ Para elaborar el informe correspondiente a la entrega TB1, se distribuyó la res
 |Diego Huincho|Style Guidelines.<br>General Style Guidelines.<br>Web Style Guidelines.<br>Information Architecture.<br>Organization Systems.<br>Labeling Systems.<br>SEO Tags and Meta Tags<br>Searching Systems.<br>Navigation Systems.<br>Landing Page UI Design.<br>Landing Page Wireframe.<br>Landing Page<br>Sprint 1|
 |Harold Mayta|Startup Profile<br>Startup Profile<br><br>Solution Profile<br>Antecedentes y problemática<br>Lean UX Process.<br>Lean UX Problem Statements.<br>Lean UX Assumptions.<br>Lean UX Hypothesis Statements.<br>Lean UX Canvas.<br>Segmentos objetivo.<br>Software Configuration Management.<br>Software Development Environment Configuration.<br>Source Code Management.<br>Source Code Style Guide & Conventions.<br>Software Deployment Configuration.<br>Landing Page, Services & Applications Implementation.<br>Landing Page<br>Sprint 1|
 |Nicolas Vera|Análisis competitivo.<br>Estrategias y tácticas frente a competidores.<br>Entrevistas.<br>Diseño de entrevistas.<br>Registro de entrevistas.<br>Análisis de entrevistas.<br>Needfinding.<br>User Personas.<br>User Task Matrix.<br>User Journey Mapping.<br>Empathy Mapping.<br>As-is Scenario Mapping.<br>Ubiquitous Language.<br>Sprint 1|
+
+![TB1 Evidencia](images/commitsevi1.PNG)
+
+**TP**
+Para elaborar el informe correspondiente a la entrega TP, se distribuyó la responsabilidad de realizar el sprint 2 de la siguiente manera:
+
+|Integrante|Tareas Asignadas|
+|---|---|
+|Valentino Cervantes|<ul><li>Diseñar la interfaz de usuario para ver su historial de viajes e implementacion en vue</li><li>Diseñar la interfaz de usuario para el regirstro de un conductor e implementacion en vue</li></ul>|
+|Salvador Chamorro|<ul><li>Diseñar la interfaz de usuario cuando vaya a realizar algun pago e implementacion</li><li>Diseñar la interfaz de usuario para la visualización de los servicios que ofrece UniRider e implementacion</li></ul>|
+|Diego Huincho|<ul><li>Diseñar la interfaz de usuario cuando se encuentre en el menu principal de la web aplication</li> <li>Diseñar la interfaz de usuario para la visualización de planes de servicio</li></ul>|
+|Harold Mayta|Correciones del documento<br>Sprint planning 2|
+|Nicolas Vera|<ul><li>Diseñar la interfaz del formulario de inicio de sesion del usuario</li><li>Desarrollar la logica para el formulario inicio de sesion del usuario</li><li>Diseñar la interfaz del formulario de registro de usuario</li><li>Desarrollar la logica para el formulario de registro de usuario</li><li>Realizar el Routeo de la mayoria de los componentes</li></ul>|
+
+<!-- ![TB1 Evidencia](images/) -->
 
 La colaboración en la creación del informe se llevó a cabo a través de una serie de contribuciones constantes al repositorio de la organización UniRider.
 
@@ -93,8 +113,8 @@ Los integrantes del equipo son:
 
 |Criterio específico|Acciones realizadas|Conclusiones|
 |---|---|---|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto eningeniería.|**Valentino Cervantes**<br>TB1:Durante el proceso de creación de los mapas de empatia, persona y diagrama de clases, pude reconocer diversos factores dentro del negocio que son importantes idas las cuales pudimos conversarlo en reuniones<br><br>**Salvador Chamorro**<br>TB1:<br>Durante esta primera etapa del proyecto ha sido de mucha importancia la comunicacion activa tanto entre integrantes del proyecto como con los clientes, y gracias a esto hemos podido empezar con un proyecto bien estructurado y autosostenible.<br>**Diego Huincho**<br>TB1:<br>Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>**Harold Mayta**<br>TB1:<br>Se realizo reuniones con el objetivo de planificar la ruta de trabajo asi como el desarrollo de las sentrevistas a nuestro futuro publico objetivo. Se participo activamente en lluvia de ideas para claer los planes de servicio y la linea de trabajo.<br>**Nicolas Vera**<br>TB1:<br>Durante el proceso de desarrollo de nuestra prototipo para nuestro futuros clientes, he terminado comprendiedno la importancia que tiene sus necesidades y deseos.Ademas, esta comprension ha mejorado gracias a distirnas charlas y reuniones que he tenido con mis compañeros de trabajo con la finalidad de poder presentar una solucion innovadora para los clientes.|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Valentino Cervantes**<br>TB1:Este enfoque de grupo me permitió compartir ideas y en general establecer un marco de trabajo colaborativo eficiente dado que pude tener retroalimentaciones de cada parte que hacia<br><br>**Salvador Chamorro**<br>TB1:<br>Gracias al correcto trabajo en equipo hemos podido lograr todos los objetivos propuestos que nos han llevado a lograr esta primera etapa del proyecto.<br>**Diego Huincho**<br>TB1:<br>Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas<br>**Harold Mayta**<br>TB1:<br>Se realizo la separacionde trabajos de acuerdo a las competencias de cada integrante, se diseño la entrevista para nuestro publico objetivo, tambien la redaccion de los capitulos relacionados a la implementacion, valdacion. Se participo activamente del diseño de producto.<br>**Nicolas Vera**<br>TB1:<br>Gracias al correcto trabajo en equipo que hemos realizado nos ha permitido crear un prototipo que supera las expectativas de nuestros clientes; ya que ofrecemos soluciones innovadoras que resuelven problemas que son evidenciados en la actualidad. |La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto eningeniería.|**Valentino Cervantes**<br>TB1:Durante el proceso de creación de los mapas de empatia, persona y diagrama de clases, pude reconocer diversos factores dentro del negocio que son importantes idas las cuales pudimos conversarlo en reuniones.<br>TP:Durante el proceso de creacion de los wireframes de Hisotrial de viajes y el desarrollo del componente se pudo apreciar la importancia de un diseño inteligente y coherente respetando las buenas practicas y conveniencias de este<br><br>**Salvador Chamorro**<br>TB1:<br>Durante esta primera etapa del proyecto ha sido de mucha importancia la comunicacion activa tanto entre integrantes del proyecto como con los clientes, y gracias a esto hemos podido empezar con un proyecto bien estructurado y autosostenible.<br>TP:<br>En el desarrollo del TP he participado en las reuniones programadas, he aportado con ideas y posibles soluciones de diferentes imprevistos y sobre todo he tratado de buscar siempre una comunicacion asertiva para poder encontrar los mejores resultados para el proyecto <br>**Diego Huincho**<br>TB1:<br>Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>TP:<br>Durante el avance del TP participo en reuniones con el equipo para discutir el progreso del desarrollo y posibles soluciones que implementar. <br>**Harold Mayta**<br>TB1:<br>Se realizo reuniones con el objetivo de planificar la ruta de trabajo asi como el desarrollo de las sentrevistas a nuestro futuro publico objetivo. Se participo activamente en lluvia de ideas para claer los planes de servicio y la linea de trabajo.<br>TP:Facilito las sesiones y la organización de cada tarea asociada manteniendo una comunicacion permanente con el grupo<br><br>**Nicolas Vera**<br>TB1:<br>Durante el proceso de desarrollo de nuestra prototipo para nuestro futuros clientes, he terminado comprendiedno la importancia que tiene sus necesidades y deseos.Ademas, esta comprension ha mejorado gracias a distirnas charlas y reuniones que he tenido con mis compañeros de trabajo con la finalidad de poder presentar una solucion innovadora para los clientes.<br>TP:<br>Durante el desarrollo del TP, he participado activamente en reuniones regulares con el equipo para evaluar y discutir el progreso del proyecto, así como para identificar posibles soluciones a los desafíos que surgieron durante el proceso de desarrollo. Estas reuniones han sido fundamentales para mantenernos alineados en nuestros objetivos y asegurar que estamos en el camino correcto para lograr los resultados deseados.|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Valentino Cervantes**<br>TB1:Este enfoque de grupo me permitió compartir ideas y en general establecer un marco de trabajo colaborativo eficiente dado que pude tener retroalimentaciones de cada parte que hacia.<br>TP:Durante el proceso de creacion de los wireframes de Hisotrial de viajes y el desarrollo del componente se pudo apreciar la importancia de un diseño inteligente y coherente respetando las buenas practicas y conveniencias de este<br><br>**Salvador Chamorro**<br>TB1:<br>Gracias al correcto trabajo en equipo hemos podido lograr todos los objetivos propuestos que nos han llevado a lograr esta primera etapa del proyecto.<br>TP:<br> Para el TP hemos buscado la mejor forma para organizarnos y realizar las tareas asgignadas en las reuniones, donde todos hemos aportado y hemos encontrado acuerdos para un correcto desarrollo del proyecto. Todas estas tareas estan estrechamente relacionadas con el codigo y estructura del proyecto orientada al dominio. <br>**Diego Huincho**<br>TB1:<br>Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas.<br>TP:<br>Diseñó la interfaz de usuario cuando se encuentre en el menu principal de la web aplication y la interfaz de usuario para la visualización de planes de servicio.<br>**Harold Mayta**<br>TB1:<br>Se realizo la separacionde trabajos de acuerdo a las competencias de cada integrante, se diseño la entrevista para nuestro publico objetivo, tambien la redaccion de los capitulos relacionados a la implementacion, valdacion. Se participo activamente del diseño de producto.<br>TP:Preparó informes de planificación del proyecto brindando seguimiento de los avances,recomendacione e implementaciones para mejorar la eficienci y la calidad del proyecto.<br><br>**Nicolas Vera**<br>TB1:<br>Gracias al correcto trabajo en equipo que hemos realizado nos ha permitido crear un prototipo que supera las expectativas de nuestros clientes; ya que ofrecemos soluciones innovadoras que resuelven problemas que son evidenciados en la actualidad.<br>TP:<br>Diseñó y desarrollo la interfaz de usuario cuando quiera iniciar sesion en la web aplication; diseñó y desarrollo la interfaz de usuario cuando quiera registrarse como usuario en la web aplication y realizo la mayoria de los routeos de los componentes de las web aplication.|La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
 
 - [Contenido](#contenido)
 
@@ -174,6 +194,15 @@ Los integrantes del equipo son:
       - [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
       - [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
       - [**5.2.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
+    - [**5.2.2. Sprint 2.**](#522-sprint-2)
+      - [**5.2.2.1. Sprint Planning 1.**](#5221-sprint-planning-2)
+      - [**5.2.2.2. Sprint Backlog 1.**](#5222-sprint-backlog-2)
+      - [**5.2.2.3. Development Evidence for Sprint Review.**](#5223-development-evidence-for-sprint-review)
+      - [**5.2.2.4. Testing Suite Evidence for Sprint Review.**](#5224-testing-suite-evidence-for-sprint-review)
+      - [**5.2.2.5. Execution Evidence for Sprint Review.**](#5225-execution-evidence-for-sprint-review)
+      - [**5.2.2.6. Services Documentation Evidence for Sprint Review.**](#5226-services-documentation-evidence-for-sprint-review)
+      - [**5.2.2.7. Software Deployment Evidence for Sprint Review.**](#5227-software-deployment-evidence-for-sprint-review)
+      - [**5.2.2.8. Team Collaboration Insights during Sprint.**](#5228-team-collaboration-insights-during-sprint)
 - [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 - [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
 - [8. **Anexos.**](#anexos)
@@ -208,34 +237,28 @@ La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar d
     <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td><img src="images/" alt="" width="" height=""></td>
-  </tr>
-  <tr>
+    <td><img src="images/Nicolas.png" alt="100" width="100" height="100"></td>
     <td>Mi nombre es Nicolas Alejandro Vera Nuñez. Tengo 19 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar en grupo, además soy una persona muy detallista. En cuanto a cualidades para la realización del trabajo considero que soy bueno haciendo los user personas, distintos diagramas y programando. En mi ratos libres me gusta jugar videojuegos o jugar futbol.
     </td>
-    <td><img src="images/Nicolas.png" alt="" width="" height=""></td>
   </tr>
   <tr>
+    <td><img src="images/salvadorfoto.jpg"  alt="" width="100" height="100"></td>
     <td>
         Mi nombre es Salvador Chamorro. Tengo 21 años y soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Tengo conocimientos en programación e ingeniería de software. Me considero una persona bastante empática y creativa. Considero que mi perfil tiene todo lo necesario para aportar al grupo de trabajo.
     </td>
-    <td><img src="images/salvadorfoto.jpg"  alt="" width="100" height="100"></td>
   </tr>
   <tr>
-    <td>Mi nombre es Harold Jaime Mayta Lopez. Tengo 20 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo consideroque soy bueno identificando problemáticas y buscando soluciones.</td>
     <td><img src="images/Harold.jpg" alt="" width="100" height="100"></td>
+    <td>Mi nombre es Harold Jaime Mayta Lopez. Tengo 20 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo consideroque soy bueno identificando problemáticas y buscando soluciones.</td>
   </tr>
   <tr>
+      <td><img src="images/diego.jpg" width="100" height="100"></td>
       <td>Mi nombre es Diego Arturo Huincho Lapa. Tengo 22 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser detallista y responsable. En cuanto a cualidades para la realización del trabajo considero que soy bueno haciendo los mockups de la app. En mi ratos libres me gusta jugar videojuegos o mirar una serie o pelicula.</td>
-    <td><img src="images/diego.jpg" width="100" height="100"></td>
   </tr>
      <tr>
+      <td><img src="images/fotoVal.jpeg" width="100" height="100"></td>
       <td>Mi nombre es Valentino Cervantes gusta programar. escuchar música, jugar y leer un poco. Suelo hacer proyectos dedicados a ayudar a personas de mi entorno usando múltiples herramientas de programación. Puedo realizar trabajos de planeamiento e investigación para los proyectos en los que participo. Puedo aportar al equipo mejorando o apoyando en partes difíciles.</td>
-    <td><img src="images/fotoVal.jpeg" width="100" height="100"></td>
   </tr>
-
-    
 </table>
 
 ## [1.2 Solution Profile](#solution-profile)
@@ -246,6 +269,8 @@ La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar d
 _¿Cuál es el problema?_
 
 El problema radica en la ausencia de una herramienta enfocada en el transporte universitario. Es conocido que la mayoria de  estudiantes residen en zonas alejadas a sus respectivos campus. Para llegar, suelen depender de autobuses con tiempos de espera y paradas prolongadas, lo que resulta en pérdida de tiempo durante el trayecto. Esto, con la intención de reducir los gastos de transporte a largo plazo, pero a expensas de enfrentar inseguridad, incomodidad y pérdida de tiempo debido al transporte público.
+
+Además, es importante destacar que la seguridad es una preocupación primordial para los estudiantes universitarios. El uso de servicios de UniRider ofrece una alternativa que no solo reduce los costos de transporte, sino que también aborda las preocupaciones de seguridad. Al compartir viajes con compañeros de clase o miembros de la comunidad universitaria, se crea un entorno de viaje más seguro y cómodo.
 
 **Where (Dónde)**
 
@@ -1514,7 +1539,300 @@ Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de
 
 https://github.com/DevUniRider/LandinPAge-URider
 
+### [**5.2.2. Sprint 2.**](#sprint-2)
+#### [**5.2.2.1. Sprint Planning 2.**](#sprint-planning-2)
+| Sprint 2                         | Desarrollo del Frontend.|
+| -------------------------------- | ----------------------------------------------------------- |
+| Sprint Planning Background                                                                     |
+| Date                             | 27/04/2024|
+| Time                             | 22:00 horas (GMT-5)|
+| Location                         | Reunión realizada mediante Discord|
+| Prepared By                      | Mayta Lopez, Harold Jaime	|
+| Attendees (to planning meeting) | <li>Mayta Lopez, Harold Jaime</li>	 <li>Cervantes Erequita, Valentino Sebastian</li> <li>Chamorro Acero, Salvador Edward</li> <li>Huincho Lapa, Diego Arturo</li> <li>Vera Nuñez, Nicolas Alejandro</li>|
+|Resumen|Se diseña e implementa el apartado de frontend. |
+|US Y metas para este sprint|
+| US abarcados<br>(Sprint 2)   |**US-01 (3 point)**<br>Visualizar Inicio de registro:Como Usuario Quiero poder crear mi usuario Para acceder al servicio de carpooling. <br>**US-02 (3 points)**<br>Seleccionar planes de servicio:Como Usuario Quiero seleccionar un plan de servicio Para adquirir los beneficios ofrecidos.<br>**US-03 (5 points)**<br>Realizar pago del plan: Como Usuario Quiero realizar el pago del plan seleccionado Para activar los beneficios ofrecidos.<br>**US-08 (3 points)**<br>VFiltrar viajes disponibles:Como Usuario Quiero poder filtrar los viajes disponibles Para encontrar opciones que se ajusten a mis preferencias.<br>**US-07 (5 points)**<br>Brindar calificaciones:Como Usuario Quiero brindar calificaciones a los conductores designados Para mejorar la experiencia de otros usuarios.<br>**US-09 (3 points)**<br>Ver historial de reservas de viaje: Como Usuario Quiero poder ver mi historial de reservas de viaje Para tener un registro de mis viajes anteriores y cancelaciones.<br>**US-04 (3 points)**<br>Verificar identidad del conductor:Como Usuario Quiero verificar la identidad del conductor Para garantizar mi seguridad durante el viaje.<br>**US-05 (3 points)**<br>Visualizar ruta y detalles del viaje:Como Usuario Quiero ver la ruta y los detalles del viaje Para prepararme adecuadamente y saber qué esperar.<br>**US-06 (8 points)** <br>Establecer Ruta y Horario de viaje: Como Usuario Quiero establecer la ruta y el horario de mi viaje Para planificar y compartir adecuadamente mi viaje.|
+|Goals to achive|**Meta principal**<br> Desarrollar el Frontend Web Application de nuestro proyecto UniRider, el cual cumpla con ser interactico para los usuarios.<br>**Metas especificas**<br> <li>Diseño del formulario de registro y pagina principal </li> <li>Implementacion de la pagina de planes de servicio </li> <li>Integracion de un proceso de compra el cual pida datos esenciales para el proceso </li> <li>Diseño y muestra de la identidad del conductor </li><li>Implementacion del acceso a detalles del viaje y ver las rutas </li> <li>Implemenacion de un proceso que permita establecer una ruta y horario del viaje del usuario </li> <li>Poder filtrar viajes disponibles </li> <li>Implementacion de la pagina de historial de reservas </li>|
+| Sprint 2 Velocity                |  36 points|
+| Sum of Story Points              |  36 points|
+
+#### [**5.2.2.2. Sprint Backlog 2.**](#sprint-backlog-2)
+</table>
+  <table border="1">
+  <tr>
+    <th>ID</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / To-Review / Done)</th>
+  </tr>
+  <tr>
+    <td rowspan="3"> 1</td>
+    <td rowspan="3">US01:Visualizar el inicio de registro</td>
+    <td>1.1</td>
+    <td>Diseño del formulario de registro</td>
+    <td>Diseñar la interfaz del fomulario de registro de usuario</td>
+    <td> 8 hours</td>
+    <td>Nicolas</td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>1.2</td>
+    <td>Desarrollo del formulario de registro</td>
+    <td>Desarrollar la logica para el formulario de registro de usuario</td>
+    <td> 12 hours</td>
+    <td>Nicolas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>1.3</td>
+    <td>Diseño de la pagina principal o Menu de incio</td>
+    <td>Diseñar la interfaz de usuario cuando se encuentre en el menu principal de la web aplication</td>
+    <td> 8 hours</td>
+    <td>Diego</td>
+    <td>Done</td>
+  </tr>
+<tr>
+    <td rowspan="3"> 2 </td>
+    <td rowspan="3">US02:Visualizar y seleccionar planes de servicio</td>
+    <td>2.1</td>
+    <td>Diseño de la pagina de visualización de planes de servicio</td>
+    <td>Diseñar la interfaz de usuario para la visualización de planes de servicio</td>
+    <td> 10 hours</td>
+    <td>Diego</td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>2.2</td>
+    <td>Diseño de la pagina de selección de plan de servicio</td>
+    <td>Diseñar la interfaz de usuario cuando selecciona la opcion de plan de servicio</td>
+    <td> 10 hours</td>
+    <td>Salvdor</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>2.3</td>
+    <td>Implementación de la funcionalidad de seleccion de plan de servicio</td>
+    <td>Desarrollar la logica para seleccionar un plan de servicio</td>
+    <td> 10 hours</td>
+    <td>----</td>
+    <td>Done</td>
+  </tr>
+<tr>
+    <td rowspan="2"> 3 </td>
+    <td rowspan="2">US03:Diseño de la pagina de pago de plan de servicio</td>
+    <td>3.1</td>
+    <td>Diseño de la pagina de pago de plan de servicio</td>
+    <td>Diseñar la interfaz de usuario para realizar el pago del plan se servicio</td>
+    <td> 8 hours</td>
+    <td>Salvador</td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>3.2</td>
+    <td>Implementación de la funcionalidad de pago del plan de servicio</td>
+    <td>Desarrollar la lógica para procesar el pago del plan de servicio</td>
+    <td> 12 hours</td>
+    <td>----</td>
+    <td>To-do</td>
+  </tr>
+<tr>
+    <td rowspan="2"> 4 </td>
+    <td rowspan="2">US04:Verificar la identidad del conductor</td>
+    <td>4.1</td>
+    <td>Diseño de la pagina de verificación de identidad del condcutor</td>
+    <td>Diseñar la interfaz de usuario para verificar la identidad del conductor</td>
+    <td> 6 hours</td>
+    <td>valentino</td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>4.2</td>
+    <td>Implementación de la funcionalidad de verificación de identidad del conductor</td>
+    <td>Desarrollar la logica para verificar la identidad del conductor</td>
+    <td> 10 hours</td>
+    <td>----</td>
+    <td>To do</td>
+  </tr>  
+<tr>
+    <td rowspan="2"> 5 </td>
+    <td rowspan="2">US05:Visualizar ruta y detalles del viaje</td>
+    <td>5.1</td>
+    <td>Diseño de la pagina de visualización de ruta y detalles del viaje</td>
+    <td>Diseñar la interfaz de usuario para mostrar la ruta y los detalles del viaje</td>
+    <td> 6 hours</td>
+    <td> Harold </td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>5.2</td>
+    <td>Implementación de la funcionalidad de visualización de ruta y detalles del viaje</td>
+    <td>Desarrollar la lógica para mostrar la ruta y los detalles del viaje</td>
+    <td> 8 hours</td>
+    <td> Harold   </td>
+    <td>To-do</td>
+  </tr>
+<tr>
+    <td rowspan="2"> 6 </td>
+    <td rowspan="2">US06:Establecer ruta y horario del viaje</td>
+    <td>6.1</td>
+    <td>Diseño de la pagina de establecimiento de ruta y horario de viaje</td>
+    <td>Diseñar la interfaz de usuario para establecer la ruta y el horario de viaje</td>
+    <td> 8 hours</td>
+    <td>---</td>
+    <td>To-do</td>
+  </tr>
+   <tr>
+    <td>6.2</td>
+    <td>Implementacion de la funcionalidad de establecimiento de ruta y horario de viaje</td>
+    <td>Desarrollar la logica para establecer los parametros solicitados</td>
+    <td> 10 hours</td>
+    <td>----</td>
+    <td>To-do</td>
+  </tr> 
+<tr>
+    <td rowspan="2"> 7 </td>
+    <td rowspan="2">US07:Brindar calificaciones</td>
+    <td>7.1</td>
+    <td>Diseño de la pagina de calificacion de conductores</td>
+    <td>Diseñar la interfaz de usuario para calificar a los conductores</td>
+    <td> 8 hours</td>
+    <td> Harold </td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>7.2</td>
+    <td>Implementacion de la funcionalidad de calificación de conductor</td>
+    <td>Desarrollar la lógica para calificar a los conductores</td>
+    <td> 12 hours</td>
+    <td> Harold   </td>
+    <td>To do</td>
+  </tr> 
+<tr>
+    <td rowspan="2"> 8 </td>
+    <td rowspan="2">US08:Filtrar viajes disponibless</td>
+    <td>8.1</td>
+    <td>Diseño de la pagina de filtrado de viajes disponibles</td>
+    <td>Desarrollar la lógica para filtrar los viajes disponibles</td>
+    <td> 9 hours</td>
+    <td>----</td>
+    <td>To-do</td>
+  </tr>
+   <tr>
+    <td>7.2</td>
+    <td>Implementación de la funcionalidad de filtrado de viajes disponibles</td>
+    <td>Desarrollar los parametros solicitados</td>
+    <td> 10 hours</td>
+    <td>----</td>
+    <td>To-do</td>
+  </tr> 
+<tr>
+    <td rowspan="2"> 9 </td>
+    <td rowspan="2">US09:Ver historial de reservas de viaje</td>
+    <td>9.1</td>
+    <td>Diseño de la pagina de visualización del historial de reservas de viaje</td>
+    <td>Diseñar la interfaz de usuario para ver el historial de reservas de viaje</td>
+    <td> 10 hours</td>
+    <td>valentino</td>
+    <td> To do </td>
+  </tr>
+   <tr>
+    <td>9.2</td>
+    <td>Implementación de la funcionalidad de visualizacion del historial de reservas de viaje</td>
+    <td>Desarrollar la logica que permita mostrar el historial de reservas</td>
+    <td> 10 hours</td>
+    <td>----- </td>
+    <td>To do</td>
+  </tr> 
+</table>
+
+#### [**5.2.2.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
+
+| Repository | Branch           | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| -----------| ---------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| frontend-web |feature/frontend-web|de3d05f|feat(map-card & travel-info-card): implments map and travel information card.| -||
+| frontend-web |feature/frontend-web|cbfb4c1|feat(login): implement login component| -||
+| frontend-web |feature/frontend-web|f7967a5|feat(welcome): implement welcome component & a user entity| -||
+| frontend-web |feature/frontend-web|e6ad092|feat(register-user): implement register-user component, add imagen logoUniRider & change the style.css| -||
+| frontend-web |feature/frontend-web|35d27e7|fix(login-user): change image path | -||
+| frontend-web |feature/frontend-web|94ce625|fix(map):iamgen route| -||
+| frontend-web |feature/frontend-web|5ac4ae0|fix(map):update travel information. | -||
+| frontend-web |feature/frontend-web|4af15fc|feat(qualify):add component to rate the driver| -||
+| frontend-web |feature/frontend-web|342ab53|fix(map):update travel information.| -||
+| frontend-web |feature/frontend-web|ee40184|feat(qualify):add component to rate the driver| -||
+| frontend-web |feature/frontend-web|98974a7| feat(payments): added payment page and ui| -||
+| frontend-web |feature/frontend-web|aa777ae|feat(page): add card for record, record page and and user's chosee page.| -||
+| frontend-web |feature/frontend-web|fc33ed6|feat(suscription and home): add subscription cards and the page component| -||
+| frontend-web |feature/frontend-web|e20f7d6|feat(maps-page):add maps page component| -||
+| frontend-web |feature/frontend-web|4907273|feat(index.js): add more paths to router components| -||
+| frontend-web |feature/frontend-web|e1a8f93|feat(toolbar): create toolbar component| -||
+| frontend-web |feature/frontend-web|be88f90|feat(login-user,maps-pages,App.vue): change the style of logins-user, add the toolbar to maps-pages & change ths structure of App.vue| -||
+| frontend-web |feature/frontend-web|df548cd|fix(register-user.component): change the style & add a new method| -||
+| frontend-web |feature/frontend-web|0153f5d|featUniRiderServicesUI): added UniRiderServicest page and ui| -||
+| frontend-web |feature/frontend-web|6953bc0|fix(routers & record-view):images paths & router components| -||
+
+
+
+
+#### [**5.2.2.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-for-sprint-review)
+
+Para la entrega del sprint 2 se intento alcanzar el desarrollo del diseño, implementacion y despliegue de la primera version del Frontend. Es por ello que la sección de "Testing" se centro en la implementación de los archivos feature que contiene nuestro diseño de Frontend.
+
+#### [**5.2.2.5. Execution Evidence for Sprint Review 2.**](#execution-evidence-for-sprint-review)
+
+En este Sprint(Sprint 2), se logro desarrollar el frontend web application del proyecto UniRider, el cual cuenta con el proposito de ser un producto intuitivo y que pemita cubrir el proposito de brindar un servicio de carpooling beneficioso para estudiantes.<br>
+URL video evidencia implementación del sprint:<br>
+
+
+Link:https:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/EbfgesGHzGZDpKChw5tprTEBfmSIQHlfaeBOfuu9xOa7OQ?e=3hVOFI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Evidencia de implementación por cada US#**<br>
+**US01:Visualizar el inicio de registro**<br>
+Como Usuario Quiero poder crear mi usuario Para acceder al servicio de carpooling.<br>
+<!--![US01](images/FrontEnd1.jpeg)<br>-->
+**US02:Visualizar y seleccionar planes de servicio**<br>
+Como Usuario Quiero seleccionar un plan de servicio Para adquirir los beneficios ofrecidos.<br>
+<!--![US04](images/FrontEnd4.jpeg)<br>-->
+**US03:Diseño de la pagina de pago de plan de servicio**<br>
+Como Usuario Quiero realizar el pago del plan seleccionado Para activar los beneficios ofrecidos.<br>
+<!--![US05](images/FrontEnd5.jpeg)<br>-->
+**US04:Verificar la identidad del conductor**<br>
+Como Usuario Quiero verificar la identidad del conductor Para garantizar mi seguridad durante el viaje<br>
+<!--![US06](images/FrontEnd6.jpeg)<<br>-->
+**US05:Visualizar ruta y detalles del viaje**<br>
+Como Usuario Quiero ver la ruta y los detalles del viaje Para prepararme adecuadamente y saber qué esperar<br>
+<!--![US06](images/FrontEnd6.jpeg)<br>-->
+**US07:Brindar calificaciones**<br>
+Como Usuario Quiero brindar calificaciones a los conductores designados Para mejorar la experiencia de otros usuarios.<br>
+<!--![US06](images/FrontEnd7.jpeg)<br>-->
+
+#### [**5.2.2.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
+
+Por el momento no tenemos evidencia de la documentación de nuestros servicios,debido a ser el segundo sprint en donde hemos trabajado unicamente en el apartado del Front-end.
+
+#### [**5.2.2.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
+En este Sprint (Sprint 2), se logró desarrollar el forntend web application del proyecto UniRider, el cual cuenta con el proposito de ser un producto intutivo y que permite cubrir el proposito de brindar un servicio de carpooling beneficioso para estudiantes.<br>
+En cuanto al Deployment de este producto para el Sprint 2, se desplegó nuestro Frontend mediante FireBase<br>
+
+<!--[Evidencias](https://uniridertb1.web.app/)-->
+
+#### [**5.2.2.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
+
+**En FrontEnd Web Application**<br>
+Durante el desarrollo de este sprint 2, todos los integrantes de UniRider colaboramos de manera activa y continua para la elaboración de las task correspondientes.<br> 
+Mostramos la evidencia de los avances:<br>
+
+
+<!--![Evidenciateam](images/evidenciaCommits1.png)-->
+<!--![Evidenciateam](images/evidenciaCommits2.jpeg)-->
+<!--![Evidenciateam](images/evidenciaCommits3.png)-->
+
+
 ![Evidencia](images/evidencia.png)
+
 
 # [6.Conclusiones.](#conclusiones)
 
