@@ -1831,6 +1831,9 @@ Mostramos la evidencia de los avances:<br>
 <!--![Evidenciateam](images/evidenciaCommits3.png)-->
 
 
+![Evidencia](images/evidencia.png)
+
+
 # [6.Conclusiones.](#conclusiones)
 
 La efectividad de la comunicación, ya sea hablada o escrita, ha sido esencial para el progreso del proyecto. La fluidez en las conversaciones ha permitido una comprensión compartida de los objetivos y ha fomentado la colaboración entre los miembros del equipo. Este enfoque continuará promoviéndose para mantener el avance y la cohesión del grupo. Por otro lado, la comunicación por escrito ha sido crucial para documentar el progreso y clarificar los resultados esperados. Mantener un estilo claro y conciso en la comunicación escrita seguirá siendo prioritario para garantizar la eficacia y calidad del trabajo. En resumen, tanto la comunicación oral como escrita se complementan para crear un ambiente de trabajo productivo y colaborativo, donde las ideas fluyen y se alcanzan los objetivos del proyecto de manera eficiente.
