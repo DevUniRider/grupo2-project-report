@@ -1169,7 +1169,7 @@ Prototipado Mobile:
 ## [4.7. Software Object-Oriented Design.](#software-object-oriented-design)
 ### [4.7.1. Class Diagrams.](#class-diagrams)
 
-![DiagramClases](images/DiagramaDeClases.png)
+![DiagramClases](images/ClassDiagramNew.png)
 
 ### [4.7.2. Class Dictionary.](#class-dictionary)
 
