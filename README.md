@@ -66,6 +66,9 @@
 |V1.2|26/04/2024|Nicolas<br>Salvador<br>Valentino<br> Harold<br> Diego|Creacion y desarrollo del Sprint 2|
 |V1.3|29/04/2024|Valentino <br> Harold<br> Carlos|Implementacion de imagenes de evidendica|
 |V2.0|02/05/2024|Nicolas<br>Salvador<br>Valentino<br> Harold<br> Diego|Finalización del Sprint 2|
+|||||
+|||||
+|||||
 
 
 # Project Report Collaboration Insights
@@ -97,6 +100,17 @@ Para elaborar el informe correspondiente a la entrega TP, se distribuyó la resp
 
 <!-- ![TB1 Evidencia](images/) -->
 
+**TB2**
+Para elaborar el informe correspondiente a la entrega de TB2, se distribuyó la responsabilidad de realizar el sprint 3 de la siguiente manera:
+
+|Integrante|Tareas Asignadas|
+|---|---|
+|Valentino Cervantes|<ul></ul>|
+|Salvador Chamorro|<ul></ul>|
+|Diego Huincho|<ul></ul>|
+|Harold Mayta|<ul></ul>|
+|Nicolas Vera|<ul></ul>|
+
 La colaboración en la creación del informe se llevó a cabo a través de una serie de contribuciones constantes al repositorio de la organización UniRider.
 
 ## GitHub Insights
@@ -113,8 +127,8 @@ Los integrantes del equipo son:
 
 |Criterio específico|Acciones realizadas|Conclusiones|
 |---|---|---|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto eningeniería.|**Valentino Cervantes**<br>TB1:Durante el proceso de creación de los mapas de empatia, persona y diagrama de clases, pude reconocer diversos factores dentro del negocio que son importantes idas las cuales pudimos conversarlo en reuniones.<br>TP:Durante el proceso de creacion de los wireframes de Hisotrial de viajes y el desarrollo del componente se pudo apreciar la importancia de un diseño inteligente y coherente respetando las buenas practicas y conveniencias de este<br><br>**Salvador Chamorro**<br>TB1:<br>Durante esta primera etapa del proyecto ha sido de mucha importancia la comunicacion activa tanto entre integrantes del proyecto como con los clientes, y gracias a esto hemos podido empezar con un proyecto bien estructurado y autosostenible.<br>TP:<br>En el desarrollo del TP he participado en las reuniones programadas, he aportado con ideas y posibles soluciones de diferentes imprevistos y sobre todo he tratado de buscar siempre una comunicacion asertiva para poder encontrar los mejores resultados para el proyecto <br>**Diego Huincho**<br>TB1:<br>Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>TP:<br>Durante el avance del TP participo en reuniones con el equipo para discutir el progreso del desarrollo y posibles soluciones que implementar. <br>**Harold Mayta**<br>TB1:<br>Se realizo reuniones con el objetivo de planificar la ruta de trabajo asi como el desarrollo de las sentrevistas a nuestro futuro publico objetivo. Se participo activamente en lluvia de ideas para claer los planes de servicio y la linea de trabajo.<br>TP:Facilito las sesiones y la organización de cada tarea asociada manteniendo una comunicacion permanente con el grupo<br><br>**Nicolas Vera**<br>TB1:<br>Durante el proceso de desarrollo de nuestra prototipo para nuestro futuros clientes, he terminado comprendiedno la importancia que tiene sus necesidades y deseos.Ademas, esta comprension ha mejorado gracias a distirnas charlas y reuniones que he tenido con mis compañeros de trabajo con la finalidad de poder presentar una solucion innovadora para los clientes.<br>TP:<br>Durante el desarrollo del TP, he participado activamente en reuniones regulares con el equipo para evaluar y discutir el progreso del proyecto, así como para identificar posibles soluciones a los desafíos que surgieron durante el proceso de desarrollo. Estas reuniones han sido fundamentales para mantenernos alineados en nuestros objetivos y asegurar que estamos en el camino correcto para lograr los resultados deseados.|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Valentino Cervantes**<br>TB1:Este enfoque de grupo me permitió compartir ideas y en general establecer un marco de trabajo colaborativo eficiente dado que pude tener retroalimentaciones de cada parte que hacia.<br>TP:Durante el proceso de creacion de los wireframes de Hisotrial de viajes y el desarrollo del componente se pudo apreciar la importancia de un diseño inteligente y coherente respetando las buenas practicas y conveniencias de este<br><br>**Salvador Chamorro**<br>TB1:<br>Gracias al correcto trabajo en equipo hemos podido lograr todos los objetivos propuestos que nos han llevado a lograr esta primera etapa del proyecto.<br>TP:<br> Para el TP hemos buscado la mejor forma para organizarnos y realizar las tareas asgignadas en las reuniones, donde todos hemos aportado y hemos encontrado acuerdos para un correcto desarrollo del proyecto. Todas estas tareas estan estrechamente relacionadas con el codigo y estructura del proyecto orientada al dominio. <br>**Diego Huincho**<br>TB1:<br>Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas.<br>TP:<br>Diseñó la interfaz de usuario cuando se encuentre en el menu principal de la web aplication y la interfaz de usuario para la visualización de planes de servicio.<br>**Harold Mayta**<br>TB1:<br>Se realizo la separacionde trabajos de acuerdo a las competencias de cada integrante, se diseño la entrevista para nuestro publico objetivo, tambien la redaccion de los capitulos relacionados a la implementacion, valdacion. Se participo activamente del diseño de producto.<br>TP:Preparó informes de planificación del proyecto brindando seguimiento de los avances,recomendacione e implementaciones para mejorar la eficienci y la calidad del proyecto.<br><br>**Nicolas Vera**<br>TB1:<br>Gracias al correcto trabajo en equipo que hemos realizado nos ha permitido crear un prototipo que supera las expectativas de nuestros clientes; ya que ofrecemos soluciones innovadoras que resuelven problemas que son evidenciados en la actualidad.<br>TP:<br>Diseñó y desarrollo la interfaz de usuario cuando quiera iniciar sesion en la web aplication; diseñó y desarrollo la interfaz de usuario cuando quiera registrarse como usuario en la web aplication y realizo la mayoria de los routeos de los componentes de las web aplication.|La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto eningeniería.|**Valentino Cervantes**<br>TB1:Durante el proceso de creación de los mapas de empatia, persona y diagrama de clases, pude reconocer diversos factores dentro del negocio que son importantes idas las cuales pudimos conversarlo en reuniones.<br>TP:Durante el proceso de creacion de los wireframes de Hisotrial de viajes y el desarrollo del componente se pudo apreciar la importancia de un diseño inteligente y coherente respetando las buenas practicas y conveniencias de este<br>TB2:<br><br>**Salvador Chamorro**<br>TB1:<br>Durante esta primera etapa del proyecto ha sido de mucha importancia la comunicacion activa tanto entre integrantes del proyecto como con los clientes, y gracias a esto hemos podido empezar con un proyecto bien estructurado y autosostenible.<br>TP:<br>En el desarrollo del TP he participado en las reuniones programadas, he aportado con ideas y posibles soluciones de diferentes imprevistos y sobre todo he tratado de buscar siempre una comunicacion asertiva para poder encontrar los mejores resultados para el proyecto.<br>TB2:<br><br>**Diego Huincho**<br>TB1:<br>Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>TP:<br>Durante el avance del TP participo en reuniones con el equipo para discutir el progreso del desarrollo y posibles soluciones que implementar. <br>TB2:<br><br>**Harold Mayta**<br>TB1:<br>Se realizo reuniones con el objetivo de planificar la ruta de trabajo asi como el desarrollo de las sentrevistas a nuestro futuro publico objetivo. Se participo activamente en lluvia de ideas para claer los planes de servicio y la linea de trabajo.<br>TP:Facilito las sesiones y la organización de cada tarea asociada manteniendo una comunicacion permanente con el grupo,<br>TB2:<br><br>**Nicolas Vera**<br>TB1:<br>Durante el proceso de desarrollo de nuestra prototipo para nuestro futuros clientes, he terminado comprendiedno la importancia que tiene sus necesidades y deseos.Ademas, esta comprension ha mejorado gracias a distirnas charlas y reuniones que he tenido con mis compañeros de trabajo con la finalidad de poder presentar una solucion innovadora para los clientes.<br>TP:<br>Durante el desarrollo del TP, he participado activamente en reuniones regulares con el equipo para evaluar y discutir el progreso del proyecto, así como para identificar posibles soluciones a los desafíos que surgieron durante el proceso de desarrollo. Estas reuniones han sido fundamentales para mantenernos alineados en nuestros objetivos y asegurar que estamos en el camino correcto para lograr los resultados deseados.<br>TB2:<br><br>|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Valentino Cervantes**<br>TB1:Este enfoque de grupo me permitió compartir ideas y en general establecer un marco de trabajo colaborativo eficiente dado que pude tener retroalimentaciones de cada parte que hacia.<br>TP:Durante el proceso de creacion de los wireframes de Hisotrial de viajes y el desarrollo del componente se pudo apreciar la importancia de un diseño inteligente y coherente respetando las buenas practicas y conveniencias de este<br><br>TB2:<br><br>**Salvador Chamorro**<br>TB1:<br>Gracias al correcto trabajo en equipo hemos podido lograr todos los objetivos propuestos que nos han llevado a lograr esta primera etapa del proyecto.<br>TP:<br> Para el TP hemos buscado la mejor forma para organizarnos y realizar las tareas asgignadas en las reuniones, donde todos hemos aportado y hemos encontrado acuerdos para un correcto desarrollo del proyecto. Todas estas tareas estan estrechamente relacionadas con el codigo y estructura del proyecto orientada al dominio.<br>TB2:<br><br>**Diego Huincho**<br>TB1:<br>Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas.<br>TP:<br>Diseñó la interfaz de usuario cuando se encuentre en el menu principal de la web aplication y la interfaz de usuario para la visualización de planes de servicio.<br>TB2:<br><br>**Harold Mayta**<br>TB1:<br>Se realizo la separacionde trabajos de acuerdo a las competencias de cada integrante, se diseño la entrevista para nuestro publico objetivo, tambien la redaccion de los capitulos relacionados a la implementacion, valdacion. Se participo activamente del diseño de producto.<br>TP:Preparó informes de planificación del proyecto brindando seguimiento de los avances,recomendacione e implementaciones para mejorar la eficienci y la calidad del proyecto.<br>TB2:<br><br>**Nicolas Vera**<br>TB1:<br>Gracias al correcto trabajo en equipo que hemos realizado nos ha permitido crear un prototipo que supera las expectativas de nuestros clientes; ya que ofrecemos soluciones innovadoras que resuelven problemas que son evidenciados en la actualidad.<br>TP:<br>Diseñó y desarrollo la interfaz de usuario cuando quiera iniciar sesion en la web aplication; diseñó y desarrollo la interfaz de usuario cuando quiera registrarse como usuario en la web aplication y realizo la mayoria de los routeos de los componentes de las web aplication.<br>TB2:<br><br>|La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
 
 - [Contenido](#contenido)
 
@@ -203,6 +217,20 @@ Los integrantes del equipo son:
       - [**5.2.2.6. Services Documentation Evidence for Sprint Review.**](#5226-services-documentation-evidence-for-sprint-review)
       - [**5.2.2.7. Software Deployment Evidence for Sprint Review.**](#5227-software-deployment-evidence-for-sprint-review)
       - [**5.2.2.8. Team Collaboration Insights during Sprint.**](#5228-team-collaboration-insights-during-sprint)
+    - [**5.2.3. Sprint 3.**](#522-sprint-3)
+      - [**5.2.3.1. Sprint Planning 3.**](#5221-sprint-planning-3)
+      - [**5.2.3.2. Sprint Backlog 3.**](#5222-sprint-backlog-3)
+      - [**5.2.3.3. Development Evidence for Sprint Review.**](#5223-development-evidence-for-sprint-review)
+      - [**5.2.3.4. Testing Suite Evidence for Sprint Review.**](#5224-testing-suite-evidence-for-sprint-review)
+      - [**5.2.3.5. Execution Evidence for Sprint Review.**](#5225-execution-evidence-for-sprint-review)
+      - [**5.2.3.6. Services Documentation Evidence for Sprint Review.**](#5226-services-documentation-evidence-for-sprint-review)
+      - [**5.2.3.7. Software Deployment Evidence for Sprint Review.**](#5227-software-deployment-evidence-for-sprint-review)
+      - [**5.2.3.8. Team Collaboration Insights during Sprint.**](#5228-team-collaboration-insights-during-sprint)
+  - [**5.3. Validation Interviews**](#validation-interviews)
+    - [**5.3.1. Diseño de Entrevistas**](#diseño-de-entrevistas)
+    - [**5.3.2. Registro de Entrevistas.**](#registro-de-entrevistas)
+    - [**5.3.3. Evaluaciones según heurísticas.**](#evaluaciones-según-heurísticas)
+  - [**5.4. Video About-the-Product.**](#video-about-the-product.)
 - [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 - [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
 - [8. **Anexos.**](#anexos)
@@ -1364,7 +1392,7 @@ Prototipado Mobile:
 
 ## [4.8. Database Design.](#database-design)
 ### [4.8.1. Database Diagram.](#database-diagram)
-![DataBase](images/DataBaseDesign.png)
+![DataBase](images/UniRiderDb.png)
 
 
 # [Capítulo V: Product Implementation, Validation \& Deployment.**](#capítulo-v-product-implementation-validation--deployment)
@@ -1874,6 +1902,322 @@ Mostramos la evidencia de los avances:<br>
 
 ![Evidencia](images/evidencia.png)
 
+### [5.2.3. Sprint 3.](#522-sprint-3)
+#### [5.2.3.1. Sprint Planning 3.](#5221-sprint-planning-3)
+| Sprint 3                         | Desarrollo del BackEnd.|
+| -------------------------------- | ----------------------------------------------------------- |
+| Sprint Planning Background    | Velocity:  15 puntos |
+| Date                             |04/06/2024 |
+| Time                             | 18:00 horas (GMT-5)|
+| Location                         | Reuniòn realizada en salon B-606|
+| Prepared By                      |Mayta Lopez, Harold Jaime |
+| Attendees (to planning meeting) |<li>Mayta Lopez, Harold Jaime</li>	 <li>Cervantes Erequita, Valentino Sebastian</li> <li>Chamorro Acero, Salvador Edward</li> <li>Huincho Lapa, Diego Arturo</li> <li>Vera Nuñez, Nicolas Alejandro</li>||
+|Resumen|Se diseña e implementa el apartado de backend y mejoras al frontend. |
+|US Y metas para este sprint|
+| US abarcados<br>(Sprint 3)   |<li>TS01: Como Developer Quiero poder agregar un estudiante a través de la API Para que esté disponible para construir funcionalidades para mis aplicaciones. (5 puntos)</li><br><li>TS02: Como Developer Quiero implementar autenticación para aumentar la seguridad de las cuentas de usuario. (5 puntos)</li><br><li>TS02: Como Developer Quiero poder agregar un metodo de pago y registor de tartjeta (5 puntos)|
+|Goals to achive|**Meta principal** <br><li> Desarrollar el Backend de UniRider, implementando la primera versión del Web API, para poder gestionar la lógica de nuestro negocio y manejar las operaciones del servidor. <br> <br>**Metas específicas:** <br> <li>Completar el desarrollo de los endpoints principales para la gestión de usuarios.</li><br><li>Implementar la autenticación .</li>|
+| Sprint 3 Velocity                | 15 puntos |
+| Sum of Story Points              | 15 puntos |
+
+#### [5.2.3.2. Sprint Backlog 3.](#5222-sprint-backlog-3)
+
+<!-- imagen --> 
+
+#### [5.2.3.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
+
+**Repositorio Web Services:**
+<!--api-->
+
+**Repositorio Acceptance-Tests:**
+<!--feature-->
+
+**Repositorio Project Statement:**
+<!--docs-->
+
+**Repositorio Front-End:**
+<!--front-->
+
+#### [5.2.3.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
+
+Iniciamos realizando los .features en Visual Studio Code, con el lenguaje Gherkin.
+
+<!--imagenes feature-->
+
+#### [5.2.3.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
+
+<!--iamgen del video-->
+
+<!--link del video-->
+
+**TS01: Como Developer Quiero poder agregar un estudiante a través de la API Para que esté disponible para construir funcionalidades para mis aplicaciones.**
+
+<!--imagen de rider-->
+
+**TS02: Como Developer Quiero implementar autenticación para aumentar la seguridad de las cuentas de usuario.**
+
+<!--imagen de rider-->
+
+#### [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
+
+En esta sección se incluye la relación de Endpoints documentados con UniRiderAPI, relacionados con el alcance del Sprint. La sección inicia con una introducción en la que se resume los logros alcanzados en relación con Documentación de Web Services para este Sprint.
+
+_Postman_
+
+<!--imagenes-->
+
+_Swagger_
+
+<!--imagenes-->
+
+#### [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
+
+En cuanto al Deployment de este producto para el Sprint 4, se desplagara en entornos virtuales como el Frontend mediante Firebase y el Backend mediante Microsoft Azure.
+
+#### [5.2.3.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
+
+**Commits para el Backend**
+
+<!--imagenes-->
+
+**Commits para el Frontend**
+
+<!--imagenes-->
+
+**Commits del Informe**
+
+<!--imagenes-->
+
+## [5.3. Validation Interviews.](#validation-interviews)
+### [5.3.1. Diseño de Entrevistas.](#diseño-de-entrevistas)
+
+Para esta validación se incluirán los siguientes productos:
+
+**Lading page**
+
+<!--imagen-->
+
+**FrontEnd Web Application**
+
+<!--imagen-->
+
+Dentro de esta sección se detallara los bojetivos de usuario especificos que orientan nuestras entrevistas. Estos User goals seran cruciales para garantizar que la plataforma que brindamos cumpl con las exigencias de los usuarios acerca del servicio de carpooling. A continuación se detallara los User goals seleccionados.<br>
+
+**User Goal: Registro de usuario**<br>
+**User Goal: Visualizar planes de servicio**<br>
+**User Goal: Seleccionar plan de servicio**<br>
+**User Goal: Visualizar ruta y detalles del viaje**<br>
+**User Goal: Calificación y Comentario del Conductor**<br>
+
+_Preguntas a realizar para ambos Segmentos Objetivos_
+
+- ¿Qué opinion tiene con respecto al diseño?
+- ¿Se le realiza de manera intituiva y fácil la aplicación?
+- ¿Cómo se siente en la parte de navegación, le es fácil ir de una vista a otra?
+- ¿Las vistas abarcan todo lo deseado para manejar sus servicios contratados?
+- ¿Cuál cree que es el punto fuerte de la aplicación?
+- ¿Cómo crees que te puede beneficiar la plataforma?
+- ¿La aplicación contiene toda la información que se consulta a través de los diferentes botones?
+- ¿Estaría dispuesto a suscribirse al plan de Pasajero?
+- ¿Estaría dispuesto a suscribirse al plan de Conductor?
+
+### [5.3.2. Registro de Entrevistas.](#registro-de-entrevistas)
+
+Realizamos 2 entrevistas dirigidas a nuestros segmentos objetivos, en las cuales nuestros entrevistados se dedicaron a navegar por nuestras plataformas web, tanto el Landing Page como el Frontend Web Application.
+
+**Entrevista 1:** _Name_
+
+**- Sexo:** 
+
+**- Edad:** 
+
+**- Ubicación en la que vive:** 
+
+**Acerca de la entrevista:** 
+
+**- Link:** 
+
+**- Instante en el que inicia:** 
+
+**- Duración:** 
+
+**Resumen:**
+
+
+**Entrevista 2:** _Name_
+
+**- Sexo:** 
+
+**- Edad:** 
+
+**- Ubicación en la que vive:** 
+
+**Acerca de la entrevista:** 
+
+**- Link:** 
+
+**- Instante en el que inicia:** 
+
+**- Duración:** 
+
+**Resumen:**
+
+
+### [5.3.3. Evaluaciones según heurísticas.](#evaluaciones-según-heurísticas)
+
+UX Heuristics & Principles Evaluation
+
+Usability – Inclusive Design – Information Architecture
+
+- CARRERA : Ingeniería de Software
+- CURSO : Aplicaciones Web
+- SECCIÓN : 
+- PROFESORES : Todos
+- AUDITOR : UniRider
+- CLIENTE(S) : 
+
+____________________________________________________________________________________
+
+SITE o APP A EVALUAR: UniRider
+
+TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes
+tareas:
+1. Iniciar sesión en UniRider
+2. Visualizacion planes de servicio
+3. Visualizacion ruta y detalles del viaje
+4. Calificación y Comentario del Conductor
+5. Visualización de Contacto con UniRider
+
+**ESCALA DE SEVERIDAD:**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+
+| Nivel                       | Desarrollo del Frontend|
+| -------------------------------- | ----------------------------------------------------------- |
+| 1 |Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+| 2 |Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.|
+| 3 |Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+| 4 |Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+**TABLA RESUMEN (Problemas):**
+
+| |Problema|Escala de severidad| Heurística/Principioviolada(o)|
+| ------------------------|-|-| ----------------------------------------------------------- |
+| 1 |Falta de opción para recuperar contraseña olvidada.|3|Usability: Usabilidad y control del usuario |
+| 2 |Información de los planes de servicio no es clara.|2|Usability: Consistencia y estándares |
+| 3 |Falta de modal de confirmación a cambios de edición de datos en cuenta de usuario.|1|Inclusive Design: Proporciona experiencias comparables |
+| 4 |Claridad en las Opciones de Acceso y Funcionalidad| 1| Inclusive Design: Proporciona experiencias comparables|
+| 5 |Desnivelación de tamaños con imágenesmostradas en Lista de universidades|2 |Usability: Consistencia y estándares |
+| 6 |Error al mostrar una de las imágenes de uno de la Lista de Universidades.| 1|Inclusive Design: Proporciona experiencias comparables|
+| 7 |Claridad en las Opciones de Acceso y Funcionalidad| 1|Inclusive Design: Proporciona experiencias comparables|
+
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1:**
+Falta de opción para recuperar contraseña olvidada
+
+**Severidad:** 3
+**Heurística violada:** Usability: Usabilidad y control del usuario
+**Problema:**
+La aplicación no ofrece una opción para recuperar la contraseña olvidada, lo que puede impedir que los usuarios accedan a sus cuentas si olvidan su contraseña. Esto causa frustración y puede llevar a la pérdida de usuarios que no pueden acceder a su información.
+
+**Recomendación:**
+Implementar una funcionalidad de recuperación de contraseña en la pantalla de inicio de sesión. Esta función debería permitir a los usuarios solicitar un enlace de restablecimiento de contraseña enviado a su correo electrónico o número de teléfono registrado. Asegurarse de que el proceso sea claro, seguro y fácil de seguir.
+
+________________________________________________________________________________________________________________________________________________________
+
+**PROBLEMA #2:**
+Información de los planes de servicio no es clara
+
+**Severidad: 2**
+**Heurística violada:** Usability: Consistencia y estándares
+**Problema:**
+Los usuarios encuentran confusa la información de los planes de servicio, lo que dificulta la toma de decisiones y puede llevar a la elección incorrecta del plan adecuado.
+
+**Recomendación:**
+Revisar y mejorar la claridad y consistencia de la información presentada para cada plan de servicio. Usar descripciones claras, listas de beneficios y comparaciones visuales que ayuden a los usuarios a entender fácilmente las diferencias entre los planes.
+
+
+________________________________________________________________________________________________________________________________________________________
+
+
+
+**PROBLEMA #3:**
+Falta de modal de confirmación a cambios de edición de datos en cuenta de usuario
+
+**Severidad:** 1
+**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+**Problema:**
+Al realizar cambios en los datos de la cuenta de usuario, no se muestra una confirmación visual que indique que los cambios se han guardado correctamente, lo que puede generar incertidumbre en el usuario.
+
+**Recomendación:**
+Implementar un modal de confirmación que se muestre después de que el usuario realice cambios en su cuenta, indicando que los cambios se han guardado exitosamente.
+
+________________________________________________________________________________________________________________________________________________________
+
+
+**PROBLEMA #4:**
+Claridad en las Opciones de Acceso y Funcionalidad
+
+**Severidad:** 1
+**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+**Problema:**
+Las opciones de acceso y funcionalidad no están claramente definidas, lo que puede llevar a confusión y dificultad para navegar por la aplicación.
+
+**Recomendación:**
+Mejorar la organización y la presentación de las opciones de acceso y funcionalidad para que sean más intuitivas y fáciles de encontrar para todos los usuarios.
+
+________________________________________________________________________________________________________________________________________________________
+
+
+
+**PROBLEMA #5:**
+Desnivelación de tamaños con imágenes mostradas en Lista de universidades
+
+**Severidad:** 2
+**Heurística violada:** Usability: Consistencia y estándares
+**Problema:**
+Las imágenes de las universidades en la lista presentan tamaños desiguales, lo que afecta la consistencia visual y puede distraer a los usuarios.
+
+**Recomendación:**
+Asegurar que todas las imágenes de las universidades tengan tamaños uniformes para mantener una presentación visual coherente y profesional.
+
+________________________________________________________________________________________________________________________________________________________
+
+
+**PROBLEMA #6:**
+Error al mostrar una de las imágenes de uno de la Lista de Universidades
+
+**Severidad:** 1
+**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+**Problema:**
+Una de las imágenes en la lista de universidades no se muestra correctamente, lo que puede causar confusión y frustración en el usuario.
+
+**Recomendación:**
+Revisar el enlace o la fuente de la imagen que presenta el error y corregirlo para garantizar que todas las imágenes se muestren correctamente.
+
+________________________________________________________________________________________________________________________________________________________
+
+
+**PROBLEMA #7:**
+Claridad en las Opciones de Acceso y Funcionalidad
+
+**Severidad:** 1
+**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+**Problema:**
+Las opciones de acceso y funcionalidad no están claramente definidas, lo que puede llevar a confusión y dificultad para navegar por la aplicación.
+
+**Recomendación:**
+Mejorar la organización y la presentación de las opciones de acceso y funcionalidad para que sean más intuitivas y fáciles de encontrar para todos los usuarios.
+
+________________________________________________________________________________________________________________________________________________________
+
+## [5.4. Video About-the-Product.](#video-about-the-product.)
+
+Presentamos nuestro Video About the Product para el Sprint 3, el cual busca promocionar el producto que el Startup UniRider ha desrrollado.
+
+Video en Microsoft Stream:
 
 # [6.Conclusiones.](#conclusiones)
 
