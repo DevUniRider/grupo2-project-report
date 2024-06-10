@@ -2058,11 +2058,11 @@ Realizamos 2 entrevistas dirigidas a nuestros segmentos objetivos, en las cuales
 
 **- Duración:** 21:18
 
-**Resumen:** Nicalas es un chico de 23 años que estudia Ingenieria de Software en la UPC el se traslada en promedio de 40 min a 1 hr todos los dia a la universidad, se le es un poco cansado hacer todo ese el tiempo ese viaje no se siente muy comodo. Tambien el precio le parece accesible y comodo.
+**Resumen:** Nicolas es un chico de 23 años que estudia Ingenieria de Software en la UPC el se traslada en promedio de 40 min a 1 hr todos los dia a la universidad, se le es un poco cansado hacer todo ese el tiempo ese viaje no se siente muy comodo. Tambien el precio le parece accesible y comodo.
 
 
 **Entrevista 2:** Blanca
-
+![Evidencia](images/entrevista.png)
 **- Sexo:** Femenino
 
 **- Edad:** 37
