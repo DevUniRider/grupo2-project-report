@@ -66,9 +66,9 @@
 |V1.2|26/04/2024|Nicolas<br>Salvador<br>Valentino<br> Harold<br> Diego|Creacion y desarrollo del Sprint 2|
 |V1.3|29/04/2024|Valentino <br> Harold<br> Carlos|Implementacion de imagenes de evidendica|
 |V2.0|02/05/2024|Nicolas<br>Salvador<br>Valentino<br> Harold<br> Diego|Finalización del Sprint 2|
-|||||
-|||||
-|||||
+|V2.1.|04/06/2024|Todos|Runion en clases para reparticion de trabajo|
+|V2.2.|08/06/2024|Nicolas<br>Diego<br>Valentino<br>|Review del apartado FrontEnd|
+|V2.2.|08/06/2024|Salvador<br>Harold<br>|Apartado BackEnd|
 
 
 # Project Report Collaboration Insights
@@ -105,11 +105,11 @@ Para elaborar el informe correspondiente a la entrega de TB2, se distribuyó la 
 
 |Integrante|Tareas Asignadas|
 |---|---|
-|Valentino Cervantes|<ul></ul>|
-|Salvador Chamorro|<ul></ul>|
-|Diego Huincho|<ul></ul>|
-|Harold Mayta|<ul></ul>|
-|Nicolas Vera|<ul></ul>|
+|Valentino Cervantes|<ul><li>Realizo mejoras en el apartado FrontEnd</li></ul>|
+|Salvador Chamorro|<ul>Realizo el BackEnd de los BC Record y Payment</ul>|
+|Diego Huincho|<ul>Realizo mejoras en el apartado FrontEnd y realizo los features</ul>|
+|Harold Mayta|<ul>Realizo el BackEnd del BC Profiel</ul>|
+|Nicolas Vera|<ul>Realizo mejoras en el apartado FrontEnd</ul>|
 
 La colaboración en la creación del informe se llevó a cabo a través de una serie de contribuciones constantes al repositorio de la organización UniRider.
 
@@ -127,8 +127,8 @@ Los integrantes del equipo son:
 
 |Criterio específico|Acciones realizadas|Conclusiones|
 |---|---|---|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto eningeniería.|**Valentino Cervantes**<br>TB1:Durante el proceso de creación de los mapas de empatia, persona y diagrama de clases, pude reconocer diversos factores dentro del negocio que son importantes idas las cuales pudimos conversarlo en reuniones.<br>TP:Durante el proceso de creacion de los wireframes de Hisotrial de viajes y el desarrollo del componente se pudo apreciar la importancia de un diseño inteligente y coherente respetando las buenas practicas y conveniencias de este<br>TB2:<br><br>**Salvador Chamorro**<br>TB1:<br>Durante esta primera etapa del proyecto ha sido de mucha importancia la comunicacion activa tanto entre integrantes del proyecto como con los clientes, y gracias a esto hemos podido empezar con un proyecto bien estructurado y autosostenible.<br>TP:<br>En el desarrollo del TP he participado en las reuniones programadas, he aportado con ideas y posibles soluciones de diferentes imprevistos y sobre todo he tratado de buscar siempre una comunicacion asertiva para poder encontrar los mejores resultados para el proyecto.<br>TB2:<br><br>**Diego Huincho**<br>TB1:<br>Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>TP:<br>Durante el avance del TP participo en reuniones con el equipo para discutir el progreso del desarrollo y posibles soluciones que implementar. <br>TB2:<br><br>**Harold Mayta**<br>TB1:<br>Se realizo reuniones con el objetivo de planificar la ruta de trabajo asi como el desarrollo de las sentrevistas a nuestro futuro publico objetivo. Se participo activamente en lluvia de ideas para claer los planes de servicio y la linea de trabajo.<br>TP:Facilito las sesiones y la organización de cada tarea asociada manteniendo una comunicacion permanente con el grupo,<br>TB2:<br><br>**Nicolas Vera**<br>TB1:<br>Durante el proceso de desarrollo de nuestra prototipo para nuestro futuros clientes, he terminado comprendiedno la importancia que tiene sus necesidades y deseos.Ademas, esta comprension ha mejorado gracias a distirnas charlas y reuniones que he tenido con mis compañeros de trabajo con la finalidad de poder presentar una solucion innovadora para los clientes.<br>TP:<br>Durante el desarrollo del TP, he participado activamente en reuniones regulares con el equipo para evaluar y discutir el progreso del proyecto, así como para identificar posibles soluciones a los desafíos que surgieron durante el proceso de desarrollo. Estas reuniones han sido fundamentales para mantenernos alineados en nuestros objetivos y asegurar que estamos en el camino correcto para lograr los resultados deseados.<br>TB2:<br><br>|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Valentino Cervantes**<br>TB1:Este enfoque de grupo me permitió compartir ideas y en general establecer un marco de trabajo colaborativo eficiente dado que pude tener retroalimentaciones de cada parte que hacia.<br>TP:Durante el proceso de creacion de los wireframes de Hisotrial de viajes y el desarrollo del componente se pudo apreciar la importancia de un diseño inteligente y coherente respetando las buenas practicas y conveniencias de este<br><br>TB2:<br><br>**Salvador Chamorro**<br>TB1:<br>Gracias al correcto trabajo en equipo hemos podido lograr todos los objetivos propuestos que nos han llevado a lograr esta primera etapa del proyecto.<br>TP:<br> Para el TP hemos buscado la mejor forma para organizarnos y realizar las tareas asgignadas en las reuniones, donde todos hemos aportado y hemos encontrado acuerdos para un correcto desarrollo del proyecto. Todas estas tareas estan estrechamente relacionadas con el codigo y estructura del proyecto orientada al dominio.<br>TB2:<br><br>**Diego Huincho**<br>TB1:<br>Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas.<br>TP:<br>Diseñó la interfaz de usuario cuando se encuentre en el menu principal de la web aplication y la interfaz de usuario para la visualización de planes de servicio.<br>TB2:<br><br>**Harold Mayta**<br>TB1:<br>Se realizo la separacionde trabajos de acuerdo a las competencias de cada integrante, se diseño la entrevista para nuestro publico objetivo, tambien la redaccion de los capitulos relacionados a la implementacion, valdacion. Se participo activamente del diseño de producto.<br>TP:Preparó informes de planificación del proyecto brindando seguimiento de los avances,recomendacione e implementaciones para mejorar la eficienci y la calidad del proyecto.<br>TB2:<br><br>**Nicolas Vera**<br>TB1:<br>Gracias al correcto trabajo en equipo que hemos realizado nos ha permitido crear un prototipo que supera las expectativas de nuestros clientes; ya que ofrecemos soluciones innovadoras que resuelven problemas que son evidenciados en la actualidad.<br>TP:<br>Diseñó y desarrollo la interfaz de usuario cuando quiera iniciar sesion en la web aplication; diseñó y desarrollo la interfaz de usuario cuando quiera registrarse como usuario en la web aplication y realizo la mayoria de los routeos de los componentes de las web aplication.<br>TB2:<br><br>|La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto eningeniería.|**Valentino Cervantes**<br>TB1:Durante el proceso de creación de los mapas de empatia, persona y diagrama de clases, pude reconocer diversos factores dentro del negocio que son importantes idas las cuales pudimos conversarlo en reuniones.<br>TP:Durante el proceso de creacion de los wireframes de Hisotrial de viajes y el desarrollo del componente se pudo apreciar la importancia de un diseño inteligente y coherente respetando las buenas practicas y conveniencias de este<br>TB2:<br>Realicé mejoras en las vistas del apartado FrontEnd y también incorporé la lógica del núcleo del negocio.<br>**Salvador Chamorro**<br>TB1:<br>Durante esta primera etapa del proyecto ha sido de mucha importancia la comunicacion activa tanto entre integrantes del proyecto como con los clientes, y gracias a esto hemos podido empezar con un proyecto bien estructurado y autosostenible.<br>TP:<br>En el desarrollo del TP he participado en las reuniones programadas, he aportado con ideas y posibles soluciones de diferentes imprevistos y sobre todo he tratado de buscar siempre una comunicacion asertiva para poder encontrar los mejores resultados para el proyecto.<br>TB2:<br><br>**Diego Huincho**<br>TB1:<br>Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>TP:<br>Durante el avance del TP participo en reuniones con el equipo para discutir el progreso del desarrollo y posibles soluciones que implementar. <br>TB2:<br><br>**Harold Mayta**<br>TB1:<br>Se realizo reuniones con el objetivo de planificar la ruta de trabajo asi como el desarrollo de las sentrevistas a nuestro futuro publico objetivo. Se participo activamente en lluvia de ideas para claer los planes de servicio y la linea de trabajo.<br>TP:Facilito las sesiones y la organización de cada tarea asociada manteniendo una comunicacion permanente con el grupo,<br>TB2:<br>Durante esta entrega se logró establecer el perfil BC desde el backend, además de coordinar eficientemente la organización de tareas y la programación de reuniones.<br>**Nicolas Vera**<br>TB1:<br>Durante el proceso de desarrollo de nuestra prototipo para nuestro futuros clientes, he terminado comprendiedno la importancia que tiene sus necesidades y deseos.Ademas, esta comprension ha mejorado gracias a distirnas charlas y reuniones que he tenido con mis compañeros de trabajo con la finalidad de poder presentar una solucion innovadora para los clientes.<br>TP:<br>Durante el desarrollo del TP, he participado activamente en reuniones regulares con el equipo para evaluar y discutir el progreso del proyecto, así como para identificar posibles soluciones a los desafíos que surgieron durante el proceso de desarrollo. Estas reuniones han sido fundamentales para mantenernos alineados en nuestros objetivos y asegurar que estamos en el camino correcto para lograr los resultados deseados.<br>TB2:<br><br>|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Valentino Cervantes**<br>TB1:Este enfoque de grupo me permitió compartir ideas y en general establecer un marco de trabajo colaborativo eficiente dado que pude tener retroalimentaciones de cada parte que hacia.<br>TP:Durante el proceso de creacion de los wireframes de Hisotrial de viajes y el desarrollo del componente se pudo apreciar la importancia de un diseño inteligente y coherente respetando las buenas practicas y conveniencias de este<br><br>TB2:<br>Realicé mejoras en las vistas del apartado FrontEnd y también incorporé la lógica del núcleo del negocio.<br>**Salvador Chamorro**<br>TB1:<br>Gracias al correcto trabajo en equipo hemos podido lograr todos los objetivos propuestos que nos han llevado a lograr esta primera etapa del proyecto.<br>TP:<br> Para el TP hemos buscado la mejor forma para organizarnos y realizar las tareas asgignadas en las reuniones, donde todos hemos aportado y hemos encontrado acuerdos para un correcto desarrollo del proyecto. Todas estas tareas estan estrechamente relacionadas con el codigo y estructura del proyecto orientada al dominio.<br>TB2:<br><br>**Diego Huincho**<br>TB1:<br>Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas.<br>TP:<br>Diseñó la interfaz de usuario cuando se encuentre en el menu principal de la web aplication y la interfaz de usuario para la visualización de planes de servicio.<br>TB2:<br><br>**Harold Mayta**<br>TB1:<br>Se realizo la separacionde trabajos de acuerdo a las competencias de cada integrante, se diseño la entrevista para nuestro publico objetivo, tambien la redaccion de los capitulos relacionados a la implementacion, valdacion. Se participo activamente del diseño de producto.<br>TP:Preparó informes de planificación del proyecto brindando seguimiento de los avances,recomendacione e implementaciones para mejorar la eficienci y la calidad del proyecto.<br>TB2:<br>Durante esta entrega se logró establecer el perfil BC desde el backend, además de coordinar eficientemente la organización de tareas y la programación de reuniones.<br>**Nicolas Vera**<br>TB1:<br>Gracias al correcto trabajo en equipo que hemos realizado nos ha permitido crear un prototipo que supera las expectativas de nuestros clientes; ya que ofrecemos soluciones innovadoras que resuelven problemas que son evidenciados en la actualidad.<br>TP:<br>Diseñó y desarrollo la interfaz de usuario cuando quiera iniciar sesion en la web aplication; diseñó y desarrollo la interfaz de usuario cuando quiera registrarse como usuario en la web aplication y realizo la mayoria de los routeos de los componentes de las web aplication.<br>TB2:<br><br>|La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
 
 - [Contenido](#contenido)
 
@@ -1921,41 +1921,53 @@ Mostramos la evidencia de los avances:<br>
 
 #### [5.2.3.2. Sprint Backlog 3.](#5222-sprint-backlog-3)
 
-<!-- imagen --> 
+![Evidencia](images/sprint3.png)
 
 #### [5.2.3.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
 
 **Repositorio Web Services:**
-<!--api-->
+
+![Evidencia](images/commit1.png)
+
+![Evidencia](images/commit2.png)
 
 **Repositorio Acceptance-Tests:**
-<!--feature-->
+
+![Evidencia](images/commit3.png)
 
 **Repositorio Project Statement:**
-<!--docs-->
+
+![Evidencia](images/commit4.png)
 
 **Repositorio Front-End:**
-<!--front-->
+
+![Evidencia](images/commit5.png)
 
 #### [5.2.3.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
 
 Iniciamos realizando los .features en Visual Studio Code, con el lenguaje Gherkin.
 
-<!--imagenes feature-->
+![Evidencia](images/feat1.png)
+
+![Evidencia](images/feat2.png)
+
+![Evidencia](images/feat3.png)
+
+![Evidencia](images/feat4.png)
 
 #### [5.2.3.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
 
-<!--iamgen del video-->
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214869_upc_edu_pe/EZyj-tge_KROqA8H-Q7JWIMBa7TKjG48yWmd4vEi47L5nQ?e=O2X0Eh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-<!--link del video-->
+![Evidencia](images/review-sprint2.jpg)
 
 **TS01: Como Developer Quiero poder agregar un estudiante a través de la API Para que esté disponible para construir funcionalidades para mis aplicaciones.**
 
-<!--imagen de rider-->
+![Evidencia](images/rider.png)
 
 **TS02: Como Developer Quiero implementar autenticación para aumentar la seguridad de las cuentas de usuario.**
 
-<!--imagen de rider-->
+![Evidencia](images/rider2.png)
 
 #### [5.2.3.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
 
@@ -1967,7 +1979,9 @@ _Postman_
 
 _Swagger_
 
-<!--imagenes-->
+![Evidencia](images/swagger1.jpg)
+
+![Evidencia](images/swagger2.jpg)
 
 #### [5.2.3.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
 
@@ -1977,15 +1991,17 @@ En cuanto al Deployment de este producto para el Sprint 4, se desplagara en ento
 
 **Commits para el Backend**
 
-<!--imagenes-->
+![Evidencia](images/commit1.png)
+
+![Evidencia](images/commit2.png)
 
 **Commits para el Frontend**
 
-<!--imagenes-->
+![Evidencia](images/commit5.png)
 
 **Commits del Informe**
 
-<!--imagenes-->
+![Evidencia](images/commit4.png)
 
 ## [5.3. Validation Interviews.](#validation-interviews)
 ### [5.3.1. Diseño de Entrevistas.](#diseño-de-entrevistas)
@@ -1994,11 +2010,11 @@ Para esta validación se incluirán los siguientes productos:
 
 **Lading page**
 
-<!--imagen-->
+![Evidencia](images/landing.png)
 
 **FrontEnd Web Application**
 
-<!--imagen-->
+![Evidencia](images/front1.jpg)
 
 Dentro de esta sección se detallara los bojetivos de usuario especificos que orientan nuestras entrevistas. Estos User goals seran cruciales para garantizar que la plataforma que brindamos cumpl con las exigencias de los usuarios acerca del servicio de carpooling. A continuación se detallara los User goals seleccionados.<br>
 
@@ -2024,23 +2040,25 @@ _Preguntas a realizar para ambos Segmentos Objetivos_
 
 Realizamos 2 entrevistas dirigidas a nuestros segmentos objetivos, en las cuales nuestros entrevistados se dedicaron a navegar por nuestras plataformas web, tanto el Landing Page como el Frontend Web Application.
 
-**Entrevista 1:** _Name_
+**Entrevista 1:** _Nicolas Buscamante_
 
-**- Sexo:** 
+![Evidencia](images/entrevista-pasajero1.png)
 
-**- Edad:** 
+**- Sexo:** Masculino
 
-**- Ubicación en la que vive:** 
+**- Edad:** 23
 
-**Acerca de la entrevista:** 
+**- Ubicación en la que vive:**  Cercado de Lima
 
-**- Link:** 
+**Acerca de la entrevista:** Estudiante de la UPC que se moviliza en combi para llegar a la universidad
 
-**- Instante en el que inicia:** 
+**- Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/EWJyUoWGdThOjZ4v55jHvfoB23EanRL5FU1IAmC9lyDThA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=w4NdnG
 
-**- Duración:** 
+**- Instante en el que inicia:** 0:0
 
-**Resumen:**
+**- Duración:** 21:18
+
+**Resumen:** Nicalas es un chico de 23 años que estudia Ingenieria de Software en la UPC el se traslada en promedio de 40 min a 1 hr todos los dia a la universidad, se le es un poco cansado hacer todo ese el tiempo ese viaje no se siente muy comodo. Tambien el precio le parece accesible y comodo.
 
 
 **Entrevista 2:** _Name_
@@ -2070,10 +2088,10 @@ Usability – Inclusive Design – Information Architecture
 
 - CARRERA : Ingeniería de Software
 - CURSO : Aplicaciones Web
-- SECCIÓN : 
+- SECCIÓN : WX56
 - PROFESORES : Todos
 - AUDITOR : UniRider
-- CLIENTE(S) : 
+- CLIENTE(S) : UniRider
 
 ____________________________________________________________________________________
 
