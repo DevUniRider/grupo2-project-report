@@ -2061,23 +2061,23 @@ Realizamos 2 entrevistas dirigidas a nuestros segmentos objetivos, en las cuales
 **Resumen:** Nicalas es un chico de 23 años que estudia Ingenieria de Software en la UPC el se traslada en promedio de 40 min a 1 hr todos los dia a la universidad, se le es un poco cansado hacer todo ese el tiempo ese viaje no se siente muy comodo. Tambien el precio le parece accesible y comodo.
 
 
-**Entrevista 2:** _Name_
+**Entrevista 2:** Blanca
 
-**- Sexo:** 
+**- Sexo:** Femenino
 
-**- Edad:** 
+**- Edad:** 37
 
-**- Ubicación en la que vive:** 
+**- Ubicación en la que vive:** San Martin de Porres
 
-**Acerca de la entrevista:** 
+**Acerca de la entrevista:** Estudiante universitario de la PUCP que se moviliza en en su automovil y desea generar algunos ingresos
 
-**- Link:** 
+**- Link: ** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214869_upc_edu_pe/EdclbEU2XyNPhSIcJ8r3juUBoZQCyIPvzvzUyPagGUSkew?e=a6sg6z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-**- Instante en el que inicia:** 
+**- Instante en el que inicia:** 0:00
 
-**- Duración:** 
+**- Duración:** 6:33
 
-**Resumen:**
+**Resumen:** Blanca es una señora de 37 años que está realizando un master en Análisis y Gestión de Big Data. Ella es ingeniera estadística que se traslada hacia la universidad en su carro. Debido a su trabajo y a las clases ha notado que gasta mucho en combustible y desea poder generar algunos ingresos mientras maneja hacia la universidad por ello le encanta el aplicativo, también menciona que es fácil de usar y le encanta el diseño de la app. Además, está dispuesta a comprar el plan conductor.
 
 
 ### [5.3.3. Evaluaciones según heurísticas.](#evaluaciones-según-heurísticas)
