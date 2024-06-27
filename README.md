@@ -66,9 +66,14 @@
 |V1.2|26/04/2024|Nicolas<br>Salvador<br>Valentino<br> Harold<br> Diego|Creacion y desarrollo del Sprint 2|
 |V1.3|29/04/2024|Valentino <br> Harold<br> Carlos|Implementacion de imagenes de evidendica|
 |V2.0|02/05/2024|Nicolas<br>Salvador<br>Valentino<br> Harold<br> Diego|Finalización del Sprint 2|
-|V2.1.|04/06/2024|Todos|Runion en clases para reparticion de trabajo|
-|V2.2.|08/06/2024|Nicolas<br>Diego<br>Valentino<br>|Review del apartado FrontEnd|
-|V2.2.|08/06/2024|Salvador<br>Harold<br>|Apartado BackEnd|
+|V2.1|04/06/2024|Todos|Reunion en clases para reparticion de trabajo|
+|V2.2|08/06/2024|Nicolas<br>Diego<br>Valentino<br>|Review del apartado FrontEnd|
+|V2.2|08/06/2024|Salvador<br>Harold<br>|Apartado BackEnd|
+|V3.0|09/06/2024|Nicolas<br>Salvador<br>Valentino<br> Harold<br> Diego|Finalizacion del Sorint 3|
+|V3.1|17/06/2024|Todos|Reunion en llamada para reparticion de trabajo|
+|||||
+|||||
+|V4.0|29/06/2024|Nicolas<br>Salvador<br>Valentino<br> Harold<br> Diego|Finalizacion del Sorint 4|
 
 
 # Project Report Collaboration Insights
@@ -111,6 +116,19 @@ Para elaborar el informe correspondiente a la entrega de TB2, se distribuyó la 
 |Harold Mayta|<ul>Realizo el BackEnd del BC Profiel</ul>|
 |Nicolas Vera|<ul>Realizo mejoras en el apartado FrontEnd</ul>|
 
+**TF**
+Para elaborar el informe correspondiente a la entrega TF, se distribuyó la responsabilidad de realizar el sprint 4 de la siguiente manera:
+
+|Integrante|Tareas Asignadas|
+|---|---|
+|Valentino Cervantes|<ul></ul>|
+|Salvador Chamorro|<ul></ul>|
+|Diego Huincho|<ul></ul>|
+|Harold Mayta|<ul></ul>|
+|Nicolas Vera|<ul></ul>|
+
+<!-- ![TB1 Evidencia](images/) -->
+
 La colaboración en la creación del informe se llevó a cabo a través de una serie de contribuciones constantes al repositorio de la organización UniRider.
 
 ## GitHub Insights
@@ -127,8 +145,8 @@ Los integrantes del equipo son:
 
 |Criterio específico|Acciones realizadas|Conclusiones|
 |---|---|---|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto eningeniería.|**Valentino Cervantes**<br>TB1:Durante el proceso de creación de los mapas de empatia, persona y diagrama de clases, pude reconocer diversos factores dentro del negocio que son importantes idas las cuales pudimos conversarlo en reuniones.<br>TP:Durante el proceso de creacion de los wireframes de Hisotrial de viajes y el desarrollo del componente se pudo apreciar la importancia de un diseño inteligente y coherente respetando las buenas practicas y conveniencias de este<br>TB2:<br>Realicé mejoras en las vistas del apartado FrontEnd y también incorporé la lógica del núcleo del negocio.<br>**Salvador Chamorro**<br>TB1:<br>Durante esta primera etapa del proyecto ha sido de mucha importancia la comunicacion activa tanto entre integrantes del proyecto como con los clientes, y gracias a esto hemos podido empezar con un proyecto bien estructurado y autosostenible.<br>TP:<br>En el desarrollo del TP he participado en las reuniones programadas, he aportado con ideas y posibles soluciones de diferentes imprevistos y sobre todo he tratado de buscar siempre una comunicacion asertiva para poder encontrar los mejores resultados para el proyecto.<br>TB2:<br><br>**Diego Huincho**<br>TB1:<br>Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>TP:<br>Durante el avance del TP participo en reuniones con el equipo para discutir el progreso del desarrollo y posibles soluciones que implementar. <br>TB2:<br>Durante esta entrega se implementó los features en lenguaje gherkin de los user stories, ademas se implemento mas paginas en el frontend para la web del proyecto.<br>**Harold Mayta**<br>TB1:<br>Se realizo reuniones con el objetivo de planificar la ruta de trabajo asi como el desarrollo de las sentrevistas a nuestro futuro publico objetivo. Se participo activamente en lluvia de ideas para claer los planes de servicio y la linea de trabajo.<br>TP:Facilito las sesiones y la organización de cada tarea asociada manteniendo una comunicacion permanente con el grupo,<br>TB2:<br>Durante esta entrega se logró establecer el perfil BC desde el backend, además de coordinar eficientemente la organización de tareas y la programación de reuniones.<br>**Nicolas Vera**<br>TB1:<br>Durante el proceso de desarrollo de nuestra prototipo para nuestro futuros clientes, he terminado comprendiedno la importancia que tiene sus necesidades y deseos.Ademas, esta comprension ha mejorado gracias a distirnas charlas y reuniones que he tenido con mis compañeros de trabajo con la finalidad de poder presentar una solucion innovadora para los clientes.<br>TP:<br>Durante el desarrollo del TP, he participado activamente en reuniones regulares con el equipo para evaluar y discutir el progreso del proyecto, así como para identificar posibles soluciones a los desafíos que surgieron durante el proceso de desarrollo. Estas reuniones han sido fundamentales para mantenernos alineados en nuestros objetivos y asegurar que estamos en el camino correcto para lograr los resultados deseados.<br>TB2:<br><br>|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Valentino Cervantes**<br>TB1:Este enfoque de grupo me permitió compartir ideas y en general establecer un marco de trabajo colaborativo eficiente dado que pude tener retroalimentaciones de cada parte que hacia.<br>TP:Durante el proceso de creacion de los wireframes de Hisotrial de viajes y el desarrollo del componente se pudo apreciar la importancia de un diseño inteligente y coherente respetando las buenas practicas y conveniencias de este<br><br>TB2:<br>Realicé mejoras en las vistas del apartado FrontEnd y también incorporé la lógica del núcleo del negocio.<br>**Salvador Chamorro**<br>TB1:<br>Gracias al correcto trabajo en equipo hemos podido lograr todos los objetivos propuestos que nos han llevado a lograr esta primera etapa del proyecto.<br>TP:<br> Para el TP hemos buscado la mejor forma para organizarnos y realizar las tareas asgignadas en las reuniones, donde todos hemos aportado y hemos encontrado acuerdos para un correcto desarrollo del proyecto. Todas estas tareas estan estrechamente relacionadas con el codigo y estructura del proyecto orientada al dominio.<br>TB2:<br><br>**Diego Huincho**<br>TB1:<br>Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas.<br>TP:<br>Diseñó la interfaz de usuario cuando se encuentre en el menu principal de la web aplication y la interfaz de usuario para la visualización de planes de servicio.<br>TB2:<br>Durante esta entrega se implementó los features en lenguaje gherkin de los user stories, ademas se implemento mas paginas en el frontend para la web del proyecto.<br>**Harold Mayta**<br>TB1:<br>Se realizo la separacionde trabajos de acuerdo a las competencias de cada integrante, se diseño la entrevista para nuestro publico objetivo, tambien la redaccion de los capitulos relacionados a la implementacion, valdacion. Se participo activamente del diseño de producto.<br>TP:Preparó informes de planificación del proyecto brindando seguimiento de los avances,recomendacione e implementaciones para mejorar la eficienci y la calidad del proyecto.<br>TB2:<br>Durante esta entrega se logró establecer el perfil BC desde el backend, además de coordinar eficientemente la organización de tareas y la programación de reuniones.<br>**Nicolas Vera**<br>TB1:<br>Gracias al correcto trabajo en equipo que hemos realizado nos ha permitido crear un prototipo que supera las expectativas de nuestros clientes; ya que ofrecemos soluciones innovadoras que resuelven problemas que son evidenciados en la actualidad.<br>TP:<br>Diseñó y desarrollo la interfaz de usuario cuando quiera iniciar sesion en la web aplication; diseñó y desarrollo la interfaz de usuario cuando quiera registrarse como usuario en la web aplication y realizo la mayoria de los routeos de los componentes de las web aplication.<br>TB2:<br><br>|La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto eningeniería.|**Valentino Cervantes**<br>TB1:Durante el proceso de creación de los mapas de empatia, persona y diagrama de clases, pude reconocer diversos factores dentro del negocio que son importantes idas las cuales pudimos conversarlo en reuniones.<br>TP:Durante el proceso de creacion de los wireframes de Hisotrial de viajes y el desarrollo del componente se pudo apreciar la importancia de un diseño inteligente y coherente respetando las buenas practicas y conveniencias de este<br>TB2:<br>Realicé mejoras en las vistas del apartado FrontEnd y también incorporé la lógica del núcleo del negocio.<br><br>TF:<br><br>**Salvador Chamorro**<br>TB1:<br>Durante esta primera etapa del proyecto ha sido de mucha importancia la comunicacion activa tanto entre integrantes del proyecto como con los clientes, y gracias a esto hemos podido empezar con un proyecto bien estructurado y autosostenible.<br>TP:<br>En el desarrollo del TP he participado en las reuniones programadas, he aportado con ideas y posibles soluciones de diferentes imprevistos y sobre todo he tratado de buscar siempre una comunicacion asertiva para poder encontrar los mejores resultados para el proyecto.<br>TB2:<br><br><br>TF:<br><br>**Diego Huincho**<br>TB1:<br>Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>TP:<br>Durante el avance del TP participo en reuniones con el equipo para discutir el progreso del desarrollo y posibles soluciones que implementar. <br>TB2:<br>Durante esta entrega se implementó los features en lenguaje gherkin de los user stories, ademas se implemento mas paginas en el frontend para la web del proyecto.<br>TF:<br><br>**Harold Mayta**<br>TB1:<br>Se realizo reuniones con el objetivo de planificar la ruta de trabajo asi como el desarrollo de las sentrevistas a nuestro futuro publico objetivo. Se participo activamente en lluvia de ideas para claer los planes de servicio y la linea de trabajo.<br>TP:Facilito las sesiones y la organización de cada tarea asociada manteniendo una comunicacion permanente con el grupo,<br>TB2:<br>Durante esta entrega se logró establecer el perfil BC desde el backend, además de coordinar eficientemente la organización de tareas y la programación de reuniones.<br>TB2:<br><br>TF:<br><br>**Nicolas Vera**<br>TB1:<br>Durante el proceso de desarrollo de nuestra prototipo para nuestro futuros clientes, he terminado comprendiedno la importancia que tiene sus necesidades y deseos.Ademas, esta comprension ha mejorado gracias a distirnas charlas y reuniones que he tenido con mis compañeros de trabajo con la finalidad de poder presentar una solucion innovadora para los clientes.<br>TP:<br>Durante el desarrollo del TP, he participado activamente en reuniones regulares con el equipo para evaluar y discutir el progreso del proyecto, así como para identificar posibles soluciones a los desafíos que surgieron durante el proceso de desarrollo. Estas reuniones han sido fundamentales para mantenernos alineados en nuestros objetivos y asegurar que estamos en el camino correcto para lograr los resultados deseados.<br>TB2:<br><br>TF:<br><br>|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Valentino Cervantes**<br>TB1:Este enfoque de grupo me permitió compartir ideas y en general establecer un marco de trabajo colaborativo eficiente dado que pude tener retroalimentaciones de cada parte que hacia.<br>TP:Durante el proceso de creacion de los wireframes de Hisotrial de viajes y el desarrollo del componente se pudo apreciar la importancia de un diseño inteligente y coherente respetando las buenas practicas y conveniencias de este<br><br>TB2:<br>Realicé mejoras en las vistas del apartado FrontEnd y también incorporé la lógica del núcleo del negocio.<br>TF:<br><br>**Salvador Chamorro**<br>TB1:<br>Gracias al correcto trabajo en equipo hemos podido lograr todos los objetivos propuestos que nos han llevado a lograr esta primera etapa del proyecto.<br>TP:<br> Para el TP hemos buscado la mejor forma para organizarnos y realizar las tareas asgignadas en las reuniones, donde todos hemos aportado y hemos encontrado acuerdos para un correcto desarrollo del proyecto. Todas estas tareas estan estrechamente relacionadas con el codigo y estructura del proyecto orientada al dominio.<br>TB2:<br><br>TF:<br><br>**Diego Huincho**<br>TB1:<br>Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas.<br>TP:<br>Diseñó la interfaz de usuario cuando se encuentre en el menu principal de la web aplication y la interfaz de usuario para la visualización de planes de servicio.<br>TB2:<br>Durante esta entrega se implementó los features en lenguaje gherkin de los user stories, ademas se implemento mas paginas en el frontend para la web del proyecto.<br>TF:<br><br>**Harold Mayta**<br>TB1:<br>Se realizo la separacionde trabajos de acuerdo a las competencias de cada integrante, se diseño la entrevista para nuestro publico objetivo, tambien la redaccion de los capitulos relacionados a la implementacion, valdacion. Se participo activamente del diseño de producto.<br>TP:Preparó informes de planificación del proyecto brindando seguimiento de los avances,recomendacione e implementaciones para mejorar la eficienci y la calidad del proyecto.<br>TB2:<br>Durante esta entrega se logró establecer el perfil BC desde el backend, además de coordinar eficientemente la organización de tareas y la programación de reuniones.<br>TF:<br><br>**Nicolas Vera**<br>TB1:<br>Gracias al correcto trabajo en equipo que hemos realizado nos ha permitido crear un prototipo que supera las expectativas de nuestros clientes; ya que ofrecemos soluciones innovadoras que resuelven problemas que son evidenciados en la actualidad.<br>TP:<br>Diseñó y desarrollo la interfaz de usuario cuando quiera iniciar sesion en la web aplication; diseñó y desarrollo la interfaz de usuario cuando quiera registrarse como usuario en la web aplication y realizo la mayoria de los routeos de los componentes de las web aplication.<br>TB2:<br><br>TF:<br><br>|La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
 
 - [Contenido](#contenido)
 
@@ -226,6 +244,15 @@ Los integrantes del equipo son:
       - [**5.2.3.6. Services Documentation Evidence for Sprint Review.**](#5226-services-documentation-evidence-for-sprint-review)
       - [**5.2.3.7. Software Deployment Evidence for Sprint Review.**](#5227-software-deployment-evidence-for-sprint-review)
       - [**5.2.3.8. Team Collaboration Insights during Sprint.**](#5228-team-collaboration-insights-during-sprint)
+    - [**5.2.4. Sprint 4.**](#522-sprint-4)
+      - [**5.2.4.1. Sprint Planning 4.**](#5221-sprint-planning-3)
+      - [**5.2.4.2. Sprint Backlog 4.**](#5222-sprint-backlog-3)
+      - [**5.2.4.3. Development Evidence for Sprint Review.**](#5223-development-evidence-for-sprint-review)
+      - [**5.2.4.4. Testing Suite Evidence for Sprint Review.**](#5224-testing-suite-evidence-for-sprint-review)
+      - [**5.2.4.5. Execution Evidence for Sprint Review.**](#5225-execution-evidence-for-sprint-review)
+      - [**5.2.4.6. Services Documentation Evidence for Sprint Review.**](#5226-services-documentation-evidence-for-sprint-review)
+      - [**5.2.4.7. Software Deployment Evidence for Sprint Review.**](#5227-software-deployment-evidence-for-sprint-review)
+      - [**5.2.4.8. Team Collaboration Insights during Sprint.**](#5228-team-collaboration-insights-during-sprint)
   - [**5.3. Validation Interviews**](#validation-interviews)
     - [**5.3.1. Diseño de Entrevistas**](#diseño-de-entrevistas)
     - [**5.3.2. Registro de Entrevistas.**](#registro-de-entrevistas)
@@ -2003,6 +2030,69 @@ En cuanto al Deployment de este producto para el Sprint 4, se desplagara en ento
 
 ![Evidencia](images/commit4.png)
 
+### [5.2.4. Sprint 4.](#522-sprint-4)
+#### [5.2.4.1. Sprint Planning 4.](#5221-sprint-planning-3)
+
+| Sprint 4                         | Correcciones de la Tb2|
+| -------------------------------- | ----------------------------------------------------------- |
+| Sprint Planning Background    |
+| Date                             |17/06/2024 |
+| Time                             | 22:00 horas (GMT-5)|
+| Location                         | Reuniòn realizada mediante Discord|
+| Prepared By                      |Mayta Lopez, Harold Jaime |
+| Attendees (to planning meeting) |<li>Mayta Lopez, Harold Jaime</li>	 <li>Cervantes Erequita, Valentino Sebastian</li> <li>Chamorro Acero, Salvador Edward</li> <li>Huincho Lapa, Diego Arturo</li> <li>Vera Nuñez, Nicolas Alejandro</li>|
+|Sprint 3 Review Summary |	Se realizaran las mejoras especificadas del sprint anterior y se agregaran aquellas caracterirsticas que estuvieron faltantes en la entrega pasada. |
+|Sprint 3 Retrospective Summary |	Se hizo las mejoras correspondientes al TB2. |
+|Sprint Goal & User Stories|
+| Sprint 4 Goal  |Implementar funcionalidades clave para la gestión de usuarios y la seguridad, como la conclusion de Profile, se agrego Record y por ultimo el despliegue de la aplicacion.|
+| Sprint 3 Velocity                | 0 puntos |
+| Sum of Story Points              | 0 puntos |
+
+#### [5.2.4.2. Sprint Backlog 4.](#5222-sprint-backlog-3)
+
+<!-- -->
+
+#### [5.2.4.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
+
+_Repositorio BackEnd_
+<!-- -->
+
+_Repositorio FrontEnd_
+<!-- -->
+
+#### [5.2.4.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
+
+#### [5.2.4.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
+
+_Imagenes del FrontEnd_
+
+_Imagenes del BackEnd_
+
+#### [5.2.4.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
+
+El back-end fue creado y cuenta con vinculos con el front-end, para realizar consultas y obtener datos.
+
+|Entity|Endpoint|Swagger|
+|-----|----|----|
+||||
+||||
+||||
+||||
+||||
+
+
+#### [5.2.4.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
+
+En cuanto al Deployment de este producto para este sprint 4, se desplegó nuestro FrontEnd mediante ***** y el BackEnd mediante ******.
+
+
+
+#### [5.2.4.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
+
+_Commit's del FrontEnd_
+
+_Commit's del BackEnd_
+
 ## [5.3. Validation Interviews.](#validation-interviews)
 ### [5.3.1. Diseño de Entrevistas.](#diseño-de-entrevistas)
 
@@ -2237,9 +2327,19 @@ Presentamos nuestro Video About the Product para el Sprint 3, el cual busca prom
 
 Video en Microsoft Stream:
 
+Duracion:
+
+<!-- ![Evidencia](images/entrevista.png) -->
+
 # [6.Conclusiones.](#conclusiones)
 
 La efectividad de la comunicación, ya sea hablada o escrita, ha sido esencial para el progreso del proyecto. La fluidez en las conversaciones ha permitido una comprensión compartida de los objetivos y ha fomentado la colaboración entre los miembros del equipo. Este enfoque continuará promoviéndose para mantener el avance y la cohesión del grupo. Por otro lado, la comunicación por escrito ha sido crucial para documentar el progreso y clarificar los resultados esperados. Mantener un estilo claro y conciso en la comunicación escrita seguirá siendo prioritario para garantizar la eficacia y calidad del trabajo. En resumen, tanto la comunicación oral como escrita se complementan para crear un ambiente de trabajo productivo y colaborativo, donde las ideas fluyen y se alcanzan los objetivos del proyecto de manera eficiente.
+
+_Video About-the-Team_
+
+Link:
+
+<!-- ![Evidencia](images/entrevista.png) -->
 
 # [7.Bibliografía.](#bibliografía)
 
@@ -2250,3 +2350,38 @@ La efectividad de la comunicación, ya sea hablada o escrita, ha sido esencial p
 3. Municipalidad Metropolitana de Lima. (2023). *Informe anual sobre el estado del transporte público en Lima*. Lima, Perú: Autor.
 
 # [8.Anexos.](#anexos)
+
+_Organización del Grupo_
+Link: https://github.com/DevUniRider
+
+_Reporte del Trabajo Final_
+Link: https://github.com/DevUniRider/grupo2-project-report
+
+_Repositorio del FrontEnd_
+Link: https://github.com/DevUniRider/frontend-web
+
+_Repositorio de la Landing Page_
+Link: https://github.com/DevUniRider/LandinPAge-URider
+
+_Repositorio del BackEnd_
+Link: https://github.com/DevUniRider/uni-rider
+
+_Validation Interviews_
+Nicolas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/EWJyUoWGdThOjZ4v55jHvfoB23EanRL5FU1IAmC9lyDThA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=w4NdnG
+
+Blanca: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214869_upc_edu_pe/EdclbEU2XyNPhSIcJ8r3juUBoZQCyIPvzvzUyPagGUSkew?e=a6sg6z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+_Video About-The-Product_
+Link:
+
+_Video About-The-Team_
+Link:
+
+_Landing Page_
+Link: https://devunirider.github.io/LandinPAge-URider/
+
+_FrontEnd_
+Link:
+
+_BackEnd_
+Link:
