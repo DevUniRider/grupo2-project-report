@@ -124,7 +124,7 @@ Para elaborar el informe correspondiente a la entrega TF, se distribuyó la resp
 |Valentino Cervantes|<ul></ul>|
 |Salvador Chamorro|<ul></ul>|
 |Diego Huincho|<ul></ul>|
-|Harold Mayta|<ul></ul>|
+|Harold Mayta|<ul>Mejora en el front-end e implementacion de vistas y componentes</ul>|
 |Nicolas Vera|<ul>Realizo mejoras en el apartado front-end, agrego mas endpoints en el db.json y mas pantallas</ul>|
 
 <!-- ![TB1 Evidencia](images/) -->
