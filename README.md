@@ -122,7 +122,7 @@ Para elaborar el informe correspondiente a la entrega TF, se distribuyó la resp
 |Integrante|Tareas Asignadas|
 |---|---|
 |Valentino Cervantes|<ul></ul>|
-|Salvador Chamorro|<ul></ul>|
+|Salvador Chamorro|<ul>Mejora e implementacion de BC Record y Payment<</ul>|
 |Diego Huincho|<ul></ul>|
 |Harold Mayta|<ul>Mejora en el front-end e implementacion de vistas y componentes</ul>|
 |Nicolas Vera|<ul>Realizo mejoras en el apartado front-end, agrego mas endpoints en el db.json y mas pantallas</ul>|
