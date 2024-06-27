@@ -2050,18 +2050,18 @@ En cuanto al Deployment de este producto para el Sprint 4, se desplagara en ento
 
 #### [5.2.4.2. Sprint Backlog 4.](#5222-sprint-backlog-3)
 
-<!--![Evidencia](images/sprint4-trllo.png)-->
+![Evidencia](images/sprint4-trello.png)
 
 #### [5.2.4.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
 
 _Repositorio BackEnd_
-<!--![Evidencia](images/sprint4-commit1.png)-->
-<!--![Evidencia](images/sprint4-commit2.png)-->
-<!--![Evidencia](images/sprint4-commit3.png)-->
-<!--![Evidencia](images/sprint4-commit4.png)-->
+![Evidencia](images/sprint4-commit1-b.png)
+![Evidencia](images/sprint4-commit2-b.png)
+![Evidencia](images/sprint4-commit3-b.png)
+![Evidencia](images/sprint4-commit4-b.png)
 
 _Repositorio FrontEnd_
-<!--![Evidencia](images/sprint4-commit5.png)-->
+![Evidencia](images/sprint4-commit1-f.png)
 <!--![Evidencia](images/sprint4-commit6.png)-->
 <!--![Evidencia](images/sprint4-commit7.png)-->
 <!--![Evidencia](images/sprint4-commit8.png)-->
@@ -2084,8 +2084,8 @@ _Imagenes del FrontEnd_
 
 _Imagenes del BackEnd_
 
-<!--![Evidencia](images/sprint4-back1.png)-->
-<!--![Evidencia](images/sprint4-back2.png)-->
+![Evidencia](images/sprint4-back1.png)
+![Evidencia](images/sprint4-back2.png)
 
 #### [5.2.4.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
 
@@ -2093,24 +2093,32 @@ El back-end fue creado y cuenta con vinculos con el front-end, para realizar con
 
 |Entity|Endpoint|Swagger|
 |-----|----|----|
-||||
-||||
-||||
-||||
-||||
+|DriverLicense|api/v1/driver-license|![Evidencia](images/sprint4-license.png)|
+|Payments|api/v1/payments|![Evidencia](images/sprint4-payment.png)|
+|Users|api/v1/users|![Evidencia](images/sprint4-user.png)|
+|VehicleDocument|api/v1/vehicle-document|![Evidencia](images/sprint4-document.png)|
+|VehicleInsurance|api/v1/vehicle-insurance|![Evidencia](images/sprint4-insurance.png)|
 
 
 #### [5.2.4.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
 
 En cuanto al Deployment de este producto para este sprint 4, se desplegó nuestro FrontEnd mediante ***** y el BackEnd mediante ******.
 
-
+![Evidencia](images/sprint4-deploy1.png)
+![Evidencia](images/sprint4-deploy2.png)
 
 #### [5.2.4.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
 
 _Commit's del FrontEnd_
 
+![Evidencia](images/sprint4-commit1-f.png)
+
 _Commit's del BackEnd_
+
+![Evidencia](images/sprint4-commit1-b.png)
+![Evidencia](images/sprint4-commit2-b.png)
+![Evidencia](images/sprint4-commit3-b.png)
+![Evidencia](images/sprint4-commit4-b.png)
 
 ## [5.3. Validation Interviews.](#validation-interviews)
 ### [5.3.1. Diseño de Entrevistas.](#diseño-de-entrevistas)
