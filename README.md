@@ -71,8 +71,8 @@
 |V2.2|08/06/2024|Salvador<br>Harold<br>|Apartado BackEnd|
 |V3.0|09/06/2024|Nicolas<br>Salvador<br>Valentino<br> Harold<br> Diego|Finalizacion del Sorint 3|
 |V3.1|17/06/2024|Todos|Reunion en llamada para reparticion de trabajo|
-|||||
-|||||
+|V3.2|26/06/2024|Diego<br>Nicolas<br>Valentino|Mejoras al FrontEnd y Deploy|
+|V3.3|26/06/2024|Salvador<br>Harold|Completar Bounded Context y Deploy|
 |V4.0|29/06/2024|Nicolas<br>Salvador<br>Valentino<br> Harold<br> Diego|Finalizacion del Sorint 4|
 
 
@@ -2045,28 +2045,47 @@ En cuanto al Deployment de este producto para el Sprint 4, se desplagara en ento
 |Sprint 3 Retrospective Summary |	Se hizo las mejoras correspondientes al TB2. |
 |Sprint Goal & User Stories|
 | Sprint 4 Goal  |Implementar funcionalidades clave para la gestión de usuarios y la seguridad, como la conclusion de Profile, se agrego Record y por ultimo el despliegue de la aplicacion.|
-| Sprint 3 Velocity                | 0 puntos |
-| Sum of Story Points              | 0 puntos |
+| Sprint 3 Velocity                | 15 puntos |
+| Sum of Story Points              | 15 puntos |
 
 #### [5.2.4.2. Sprint Backlog 4.](#5222-sprint-backlog-3)
 
-<!-- -->
+<!--![Evidencia](images/sprint4-trllo.png)-->
 
 #### [5.2.4.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
 
 _Repositorio BackEnd_
-<!-- -->
+<!--![Evidencia](images/sprint4-commit1.png)-->
+<!--![Evidencia](images/sprint4-commit2.png)-->
+<!--![Evidencia](images/sprint4-commit3.png)-->
+<!--![Evidencia](images/sprint4-commit4.png)-->
 
 _Repositorio FrontEnd_
-<!-- -->
+<!--![Evidencia](images/sprint4-commit5.png)-->
+<!--![Evidencia](images/sprint4-commit6.png)-->
+<!--![Evidencia](images/sprint4-commit7.png)-->
+<!--![Evidencia](images/sprint4-commit8.png)-->
 
 #### [5.2.4.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
+
+Para este sprint se completo finalmente el backend de el aplicativo, por se hicieron algunos test unitarios en cuanto a los aggregates que usamos
 
 #### [5.2.4.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
 
 _Imagenes del FrontEnd_
+<!--![Evidencia](images/front1.jpg)-->
+<!--![Evidencia](images/front2.jpg)-->
+<!--![Evidencia](images/front3.jpg)-->
+<!--![Evidencia](images/front4.jpg)-->
+<!--![Evidencia](images/front5.jpg)-->
+<!--![Evidencia](images/front6.jpg)-->
+<!--![Evidencia](images/front7.jpg)-->
+<!--![Evidencia](images/front8.jpg)-->
 
 _Imagenes del BackEnd_
+
+<!--![Evidencia](images/sprint4-back1.png)-->
+<!--![Evidencia](images/sprint4-back2.png)-->
 
 #### [5.2.4.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
 
@@ -2352,36 +2371,55 @@ Link:
 # [8.Anexos.](#anexos)
 
 _Organización del Grupo_
+<br>
 Link: https://github.com/DevUniRider
 
 _Reporte del Trabajo Final_
+<br>
 Link: https://github.com/DevUniRider/grupo2-project-report
 
 _Repositorio del FrontEnd_
+<br>
 Link: https://github.com/DevUniRider/frontend-web
 
 _Repositorio de la Landing Page_
+<br>
 Link: https://github.com/DevUniRider/LandinPAge-URider
 
 _Repositorio del BackEnd_
+<br>
 Link: https://github.com/DevUniRider/uni-rider
 
 _Validation Interviews_
-Nicolas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/EWJyUoWGdThOjZ4v55jHvfoB23EanRL5FU1IAmC9lyDThA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=w4NdnG
-
-Blanca: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214869_upc_edu_pe/EdclbEU2XyNPhSIcJ8r3juUBoZQCyIPvzvzUyPagGUSkew?e=a6sg6z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+<br>
+Nicolas: 
+<br>
+Youtube: https://youtu.be/uxFWB2tLvlo
+<br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/EWJyUoWGdThOjZ4v55jHvfoB23EanRL5FU1IAmC9lyDThA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=w4NdnG
+<br>
+Blanca: 
+<br>
+Youtube: https://youtu.be/FUJ6OMK-T8c
+<br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214869_upc_edu_pe/EdclbEU2XyNPhSIcJ8r3juUBoZQCyIPvzvzUyPagGUSkew?e=a6sg6z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 _Video About-The-Product_
+<br>
 Link:
 
 _Video About-The-Team_
+<br>
 Link:
 
 _Landing Page_
+<br>
 Link: https://devunirider.github.io/LandinPAge-URider/
 
 _FrontEnd_
+<br>
 Link:
 
 _BackEnd_
+<br>
 Link:
